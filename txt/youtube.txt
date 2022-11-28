@@ -1,0 +1,6 @@
+name="Vavoo vvf Pulse 3.0 Bundle Basic I vvf"
+section="no"
+url="https://youtu.be/ixmDx2ZBPu8"
+icon="https://i9.ytimg.com/vi/ixmDx2ZBPu8/mq2.jpg?sqp=CIrP_uwF&rs=AOn4CLBqburw3so2ztCNr48y0ciKVyJk4A"
+fanart="http://www.dabutcher.org/fanart/Fanart.png"
+description="Guide to using the queue feature in Bob"

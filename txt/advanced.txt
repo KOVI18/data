@@ -1,0 +1,13 @@
+name="Jarvis Advanced Settings"
+section="yes"
+url="http://ttvendusers.net/wizard_files/Advanced-section1.txt"
+icon="http://media.apk-world.xyz/images/eumc_background.png" 
+fanart="http://ttvendusers.net/wizard_files/FanartAndIcons/wizard_fanart.jpg"
+description="Jarvis Advanced Settings"
+
+name="Krypton Advanced Settings"
+section="yes"
+url="http://ttvendusers.net/wizard_files/Advanced-section2.txt"
+icon="http://media.apk-world.xyz/images/eumc_background.png" 
+fanart="http://ttvendusers.net/wizard_files/FanartAndIcons/wizard_fanart.jpg"
+description="Krypton Advanced Settings"
