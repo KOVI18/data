@@ -1,4 +1,4 @@
-#EXTM3U tvg-url="" x-tvg-url="https://i.mjh.nz/SamsungTVPlus/de.xml.gz"
+#EXTM3U tvg-url="https://github.com/michaz1988/epgguide/raw/master/guide.xml.gz" x-tvg-url="https://i.mjh.nz/SamsungTVPlus/de.xml.gz"
 #EXTINF:-1 tvg-id="13thStreet.de" tvg-name="13th Street" tvg-logo="http://logo.watchhd.cc/logo/13thstreethdv2.png" group-title="Standard",13th Street
 plugin://plugin.video.vavooto/?name=13TH+STREET
 #EXTINF:-1 tvg-id="3sat" tvg-name="3sat" tvg-logo="http://logo.watchhd.cc/logo/3sat_Logo.png" group-title="Standard",3Sat
