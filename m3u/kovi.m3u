@@ -1,0 +1,601 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="13th Street" tvg-logo="http://logo.watchhd.cc/logo/13thstreethdv2.png" group-title="Standard",13th Street
+plugin://plugin.video.vavooto/?name=13TH+STREET
+#EXTINF:-1 tvg-id="3sat" tvg-name="3sat" tvg-logo="http://logo.watchhd.cc/logo/3sat_Logo.png" group-title="Standard",3Sat
+plugin://plugin.video.vavooto/?name=3+SAT
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://logo.watchhd.cc/logo/a&ehd.png" group-title="Standard",A&E
+plugin://plugin.video.vavooto/?name=A%26E
+#EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="Animal Planet" tvg-logo="http://logo.watchhd.cc/logo/animalhd.png" group-title="Standard",Animal Planet
+plugin://plugin.video.vavooto/?name=PLANET
+#EXTINF:-1 tvg-id="Anixe.de" tvg-name="Anixe" tvg-logo="http://logo.watchhd.cc/logo/ANIXE_HD.png" group-title="Standard",Anixe
+plugin://plugin.video.vavooto/?name=ANIXE
+#EXTINF:-1 tvg-id="ANIXESerie(src01).de" tvg-name="Anixe Serie" tvg-logo="http://logo.watchhd.cc/logo/ANIXE_HD.png" group-title="Standard",Anixe Serie
+plugin://plugin.video.vavooto/?name=ANIXE+SERIE
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="ARD" tvg-logo="http://logo.watchhd.cc/logo/ard.png" group-title="Standard",ARD
+plugin://plugin.video.vavooto/?name=ARD
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="ARD Alpha" tvg-logo="http://logo.watchhd.cc/logo/ard-alpha.png" group-title="Standard",ARD Alpha
+plugin://plugin.video.vavooto/?name=ARD+ALPHA
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="Arte" tvg-logo="http://logo.watchhd.cc/logo/Arte_HD_2.png" group-title="Standard",Arte
+plugin://plugin.video.vavooto/?name=ARTE
+#EXTINF:-1 tvg-id="ATV.de" tvg-name="ATV 1" tvg-logo="http://logo.watchhd.cc/logo/atv1hd.png" group-title="Standard",ATV 1
+plugin://plugin.video.vavooto/?name=ATV+1
+#EXTINF:-1 tvg-id="ATV2.at" tvg-name="ATV 2" tvg-logo="http://logo.watchhd.cc/logo/atv_II.png" group-title="Standard",ATV 2
+plugin://plugin.video.vavooto/?name=ATV+2
+#EXTINF:-1 tvg-id="AutoMotorSport.de" tvg-name="Auto Motor Sport" tvg-logo="http://logo.watchhd.cc/logo/auto_motor_sport.png" group-title="Standard",Auto Motor Sport
+plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
+#EXTINF:-1 tvg-id="AXN.de" tvg-name="AXN" tvg-logo="http://logo.watchhd.cc/logo/axn.png" group-title="Standard",AXN
+plugin://plugin.video.vavooto/?name=AXN
+#EXTINF:-1 tvg-id="BildTV.de" tvg-name="Bild TV" tvg-logo="http://logo.watchhd.cc/logo/bild_tv.png.8448c651e8b9f95c38bf58f446d7b2d5.png" group-title="Standard",Bild TV
+plugin://plugin.video.vavooto/?name=BILD+TV
+#EXTINF:-1 tvg-id="Boomerang.de" tvg-name="Boomerang" tvg-logo="http://logo.watchhd.cc/logo/Boomerang.png" group-title="Standard",Boomerang
+plugin://plugin.video.vavooto/?name=BOOMERANG
+#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-name="BR" tvg-logo="http://logo.watchhd.cc/logo/br.png" group-title="Standard",BR
+plugin://plugin.video.vavooto/?name=BR
+#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-name="Cartoon Network" tvg-logo="http://logo.watchhd.cc/logo/Cartoon_Network.png" group-title="Standard",Cartoon Network
+plugin://plugin.video.vavooto/?name=CARTOON+NETWORK
+#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central" tvg-logo="http://logo.watchhd.cc/logo/Comedy_Central_HD.png" group-title="Standard",Comedy Central
+plugin://plugin.video.vavooto/?name=VIVA
+#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste" tvg-logo="http://logo.watchhd.cc/logo/ard.png" group-title="Standard",Das Erste
+plugin://plugin.video.vavooto/?name=DAS+ERSTE
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste+" tvg-logo="http://logo.watchhd.cc/logo/ardhd.png" group-title="Standard",Das Erste+
+plugin://plugin.video.vavooto/?name=ARD+DAS+ERSTE
+#EXTINF:-1 tvg-id="DELUXE MUSIC" tvg-name="Deluxe Music" tvg-logo="http://logo.watchhd.cc/logo/deluxemusic.png" group-title="Standard",Deluxe Music
+plugin://plugin.video.vavooto/?name=DELUXE+MUSIC
+#EXTINF:-1 tvg-id="DELUXEMUSIC(src01).de" tvg-name="Deluxe Music" tvg-logo="http://logo.watchhd.cc/logo/deluxemusic.png" group-title="Standard",Deluxe Music
+plugin://plugin.video.vavooto/?name=DELUXE+MUSIC
+#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="Discovery Channel" tvg-logo="http://logo.watchhd.cc/logo/discoveryhdv2.png" group-title="Standard",Discovery Channel
+plugin://plugin.video.vavooto/?name=DISCOVERY
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney Channel" tvg-logo="http://logo.watchhd.cc/logo/disneyhd.png" group-title="Standard",Disney Channel
+plugin://plugin.video.vavooto/?name=DISNEY+CHANNEL
+#EXTINF:-1 tvg-id="DMax.de" tvg-name="DMAX" tvg-logo="http://logo.watchhd.cc/logo/dmaxhd.png" group-title="Standard",DMAX
+plugin://plugin.video.vavooto/?name=DMAX
+#EXTINF:-1 tvg-id="EEntertainment(English).de" tvg-name="E! Entertainment" tvg-logo="http://logo.watchhd.cc/logo/e!.png" group-title="Standard",E! Entertainment
+plugin://plugin.video.vavooto/?name=E%21+ENTERTAINMENT
+#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="Eurosport 2" tvg-logo="http://logo.watchhd.cc/logo/eurosport2hdv2.png" group-title="Standard",Eurosport 2
+plugin://plugin.video.vavooto/?name=EUROSPORT+2
+#EXTINF:-1 tvg-id="GEO(src01).de" tvg-name="Geo" tvg-logo="http://logo.watchhd.cc/logo/GEO_HD.png" group-title="Standard",Geo
+plugin://plugin.video.vavooto/?name=GEO+TV
+#EXTINF:-1 tvg-id="go.tv" tvg-name="Go TV" tvg-logo="http://epggw.a1.net/img/station/darkbg/200x200/1050.png" group-title="Standard",Go TV
+plugin://plugin.video.vavooto/?name=GOTV
+#EXTINF:-1 tvg-id="Heimatkanal.de" tvg-name="Heimatkanal" tvg-logo="http://logo.watchhd.cc/logo/heimatkanal.png" group-title="Standard",Heimatkanal
+plugin://plugin.video.vavooto/?name=HEIMATKANAL
+#EXTINF:-1 tvg-id="History.de" tvg-name="History" tvg-logo="http://logo.watchhd.cc/logo/historyhdv2.png" group-title="Standard",History
+plugin://plugin.video.vavooto/?name=HISTORY
+#EXTINF:-1 tvg-id="HRFernsehen.de" tvg-name="HR" tvg-logo="http://logo.watchhd.cc/logo/hr.png" group-title="Standard",HR
+plugin://plugin.video.vavooto/?name=HR+FERNSEHEN
+#EXTINF:-1 tvg-id="Jukebox.de" tvg-name="Jukebox" tvg-logo="https://kovi.ml/data/png/jukebox.png" group-title="Standard",Jukebox
+plugin://plugin.video.vavooto/?name=JUKEBOX
+#EXTINF:-1 tvg-id="NickJunior(English).de" tvg-name="Junior" tvg-logo="http://logo.watchhd.cc/logo/nick_jr.png" group-title="Standard",Junior
+plugin://plugin.video.vavooto/?name=JUNIOR
+#EXTINF:-1 tvg-id="KabelEins.de" tvg-name="Kabel 1" tvg-logo="http://logo.watchhd.cc/logo/kabel1hd.png" group-title="Standard",Kabel 1
+plugin://plugin.video.vavooto/?name=KABEL+1
+#EXTINF:-1 tvg-id="kabeleinsclassics.de" tvg-name="Kabel 1 Classics" tvg-logo="http://logo.watchhd.cc/logo/kabel1classic.png" group-title="Standard",Kabel 1 Classics
+plugin://plugin.video.vavooto/?name=KABEL+1+CLASSICS
+#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="Kabel 1 Doku" tvg-logo="http://logo.watchhd.cc/logo/kabel1doku.png" group-title="Standard",Kabel 1 Doku
+plugin://plugin.video.vavooto/?name=KABEL+1+DOKU
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA" tvg-logo="http://logo.watchhd.cc/logo/kikahd.png" group-title="Standard",KiKA
+plugin://plugin.video.vavooto/?name=KIKA
+#EXTINF:-1 tvg-id="Kinowelt.de" tvg-name="Kinowelt" tvg-logo="http://logo.watchhd.cc/logo/kinowelt.png" group-title="Standard",Kinowelt
+plugin://plugin.video.vavooto/?name=WELT
+#EXTINF:-1 tvg-id="MDRSachsenAnhalt.de" tvg-name="MDR" tvg-logo="http://logo.watchhd.cc/logo/mdr_hd.png" group-title="Standard",MDR
+plugin://plugin.video.vavooto/?name=MDR
+#EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-name="Motorvision" tvg-logo="http://logo.watchhd.cc/logo/motorvision.png" group-title="Standard",Motorvision
+plugin://plugin.video.vavooto/?name=MOTORVISION
+#EXTINF:-1 tvg-id="MTV.de" tvg-name="MTV" tvg-logo="http://logo.watchhd.cc/logo/mtv.png" group-title="Standard",MTV
+plugin://plugin.video.vavooto/?name=MTV
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="N-TV" tvg-logo="http://logo.watchhd.cc/logo/ntvhd.png" group-title="Standard",N-TV
+plugin://plugin.video.vavooto/?name=NTV
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24 Doku" tvg-logo="http://logo.watchhd.cc/logo/n24_doku.png" group-title="Standard",N24 Doku
+plugin://plugin.video.vavooto/?name=N24+DOKU
+#EXTINF:-1 tvg-id="NatGeoWild(src01).de" tvg-name="Nat Geo Wild" tvg-logo="http://logo.watchhd.cc/logo/natgeowildhdv2.png" group-title="Standard",Nat Geo Wild
+plugin://plugin.video.vavooto/?name=NAT+GEO+WILD
+#EXTINF:-1 tvg-id="NatGeographic(src01).de" tvg-name="National Geographic" tvg-logo="http://logo.watchhd.cc/logo/natgeohdv2.png" group-title="Standard",National Geographic
+plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
+#EXTINF:-1 tvg-id="NDRFernsehenNDS.de" tvg-name="NDR" tvg-logo="http://logo.watchhd.cc/logo/ndrhd.png" group-title="Standard",NDR
+plugin://plugin.video.vavooto/?name=NDR
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon" tvg-logo="http://logo.watchhd.cc/logo/nick.png" group-title="Standard",Nickelodeon
+plugin://plugin.video.vavooto/?name=NICKELODEON
+#EXTINF:-1 tvg-id="One.de" tvg-name="One" tvg-logo="http://logo.watchhd.cc/logo/ard_one.png" group-title="Standard",One
+plugin://plugin.video.vavooto/?name=ONE
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="Phoenix" tvg-logo="http://logo.watchhd.cc/logo/phoenixhd.png" group-title="Standard",Phoenix
+plugin://plugin.video.vavooto/?name=PHOENIX
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-logo="http://logo.watchhd.cc/logo/prosiebenhd.png" group-title="Standard",ProSieben
+plugin://plugin.video.vavooto/?name=PRO+7
+#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="ProSieben Fun" tvg-logo="http://logo.watchhd.cc/logo/funhd.png" group-title="Standard",ProSieben Fun
+plugin://plugin.video.vavooto/?name=PRO+7+FUN
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben MAXX" tvg-logo="http://logo.watchhd.cc/logo/7maxx.png" group-title="Standard",ProSieben MAXX
+plugin://plugin.video.vavooto/?name=PRO+7+MAXX
+#EXTINF:-1 tvg-id="rbbBerlin(src01).de" tvg-name="RBB" tvg-logo="http://logo.watchhd.cc/logo/rbbhd.png" group-title="Standard",RBB
+plugin://plugin.video.vavooto/?name=RBB
+#EXTINF:-1 tvg-id="RiC(src01).de" tvg-name="RiC" tvg-logo="http://logo.watchhd.cc/logo/ric.png" group-title="Standard",RiC
+plugin://plugin.video.vavooto/?name=RIC
+#EXTINF:-1 tvg-id="RomanceTV.de" tvg-name="Romance" tvg-logo="http://logo.watchhd.cc/logo/romancehd.png" group-title="Standard",Romance
+plugin://plugin.video.vavooto/?name=ROMANCE+TV
+#EXTINF:-1 tvg-id="RTLup.de" tvg-name="RTL Up" tvg-logo="http://logo.watchhd.cc/logo/rtlplus.png" group-title="Standard",RTL Up
+plugin://plugin.video.vavooto/?name=RTL+UP
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat.1" tvg-logo="http://logo.watchhd.cc/logo/sat1hd.png" group-title="Standard",Sat.1
+plugin://plugin.video.vavooto/?name=SAT+1
+#EXTINF:-1 tvg-id="Sat1emotions.de" tvg-name="Sat.1 Emotions" tvg-logo="http://logo.watchhd.cc/logo/sat1_emotions.png" group-title="Standard",Sat.1 Emotions
+plugin://plugin.video.vavooto/?name=SAT+1+EMOTIONS
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="Sat.1 Gold" tvg-logo="http://logo.watchhd.cc/logo/sat1gold.png" group-title="Standard",Sat.1 Gold
+plugin://plugin.video.vavooto/?name=SAT+1+GOLD
+#EXTINF:-1 tvg-id="Silverline.de" tvg-name="Silverline" tvg-logo="http://logo.watchhd.cc/logo/silverline1.png" group-title="Standard",Silverline
+plugin://plugin.video.vavooto/?name=SILVERLINE
+#EXTINF:-1 tvg-id="Sixx.de" tvg-name="Sixx" tvg-logo="http://logo.watchhd.cc/logo/sixxhd.png" group-title="Standard",Sixx
+plugin://plugin.video.vavooto/?name=SIXX
+#EXTINF:-1 tvg-id="SkyCinemaAction.de" tvg-name="Sky Action" tvg-logo="http://logo.watchhd.cc/logo/uk-sky_cinema_action.png" group-title="Standard",Sky Action
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
+#EXTINF:-1 tvg-id="SkyAtlantic.de" tvg-name="Sky Atlantic" tvg-logo="http://logo.watchhd.cc/logo/uk-sky_atlantic.png" group-title="Standard",Sky Atlantic
+plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
+#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-name="Sky Bundesliga 1 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_1.png" group-title="Standard",Sky Bundesliga 1 (1080p)
+plugin://plugin.video.vavooto/?name=DB+LIGA+1
+#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="Sky Bundesliga 4 (720p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_4.png" group-title="Standard",Sky Bundesliga 4 (720p)
+plugin://plugin.video.vavooto/?name=DB+LIGA+4
+#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="Sky Bundesliga 5 (720p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_5.png" group-title="Standard",Sky Bundesliga 5 (720p)
+plugin://plugin.video.vavooto/?name=DB+LIGA+5
+#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="Sky Bundesliga 6 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_6.png" group-title="Standard",Sky Bundesliga 6 (1080p)
+plugin://plugin.video.vavooto/?name=DB+LIGA+6
+#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="Sky Bundesliga 7 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_7.png" group-title="Standard",Sky Bundesliga 7 (1080p)
+plugin://plugin.video.vavooto/?name=DB+LIGA+7
+#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="Sky Bundesliga 8 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_8.png" group-title="Standard",Sky Bundesliga 8 (1080p)
+plugin://plugin.video.vavooto/?name=DB+LIGA+8
+#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="Sky Bundesliga 9 (720p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_9.png" group-title="Standard",Sky Bundesliga 9 (720p)
+plugin://plugin.video.vavooto/?name=DB+LIGA+9
+#EXTINF:-1 tvg-id="SkyCinemaBestOf.de" tvg-name="Sky Cinema Best of" tvg-logo="https://kovi.ml/data/png/bestof.png" group-title="Standard",Sky Cinema Best of
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+BEST+OF
+#EXTINF:-1 tvg-id="SkyCinemaClassics.de" tvg-name="Sky Cinema Classics" tvg-logo="https://kovi.ml/data/png/classics.png" group-title="Standard",Sky Cinema Classics
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+CLASSICS
+#EXTINF:-1 tvg-id="SkyCinemaFamily.de" tvg-name="Sky Cinema Family" tvg-logo="http://logo.watchhd.cc/logo/familyhdv2.png" group-title="Standard",Sky Cinema Family
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
+#EXTINF:-1 tvg-id="SkyCinemaFun.de" tvg-name="Sky Cinema Fun" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_fun.png" group-title="Standard",Sky Cinema Fun
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+FUN
+#EXTINF:-1 tvg-id="SkyCinemaPremieren.de" tvg-name="Sky Cinema Premieren" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_premieren.png" group-title="Standard",Sky Cinema Premieren
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
+#EXTINF:-1 tvg-id="SkyCinemaThriller.de" tvg-name="Sky Cinema Thriller" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_thriller.png" group-title="Standard",Sky Cinema Thriller
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+THRILLER
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Comedy" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_comedy.png" group-title="Standard",Sky Comedy
+plugin://plugin.video.lntv/play/1017/play.pvr
+#EXTINF:-1 tvg-id="SkyComedy.de" tvg-name="Sky Comedy" tvg-logo="http://logo.watchhd.cc/logo/comedyhdv2.png" group-title="Standard",Sky Comedy
+plugin://plugin.video.vavooto/?name=SKY+COMEDY
+#EXTINF:-1 tvg-id="SkyCrime.de" tvg-name="Sky Crime" tvg-logo="http://logo.watchhd.cc/logo/sky_crime.png" group-title="Standard",Sky Crime
+plugin://plugin.video.vavooto/?name=SKY+Crime
+#EXTINF:-1 tvg-id="SkyKrimi.de" tvg-name="Sky Krimi" tvg-logo="http://logo.watchhd.cc/logo/skykrimi.png" group-title="Standard",Sky Krimi
+plugin://plugin.video.vavooto/?name=SKY+KRIMI
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky One" tvg-logo="http://logo.watchhd.cc/logo/sky1hdv2.png" group-title="Standard",Sky One
+plugin://plugin.video.taptv/play/597/play.pvr
+#EXTINF:-1 tvg-id="Sky1(src01).de" tvg-name="Sky One" tvg-logo="http://logo.watchhd.cc/logo/sky1.png" group-title="Standard",Sky One
+plugin://plugin.video.vavooto/?name=SKY+1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Select 1" tvg-logo="http://logo.watchhd.cc/logo/select1.png" group-title="Standard",Sky Select 1
+plugin://plugin.video.lntv/play/1505/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Select 3" tvg-logo="http://logo.watchhd.cc/logo/select3.png" group-title="Standard",Sky Select 3
+plugin://plugin.video.lntv/play/1507/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Select 4" tvg-logo="http://logo.watchhd.cc/logo/select4.png" group-title="Standard",Sky Select 4
+plugin://plugin.video.lntv/play/1508/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Select 5" tvg-logo="http://logo.watchhd.cc/logo/select5.png" group-title="Standard",Sky Select 5
+plugin://plugin.video.lntv/play/1509/play.pvr
+#EXTINF:-1 tvg-id="SonyChannel.de" tvg-name="Sony Channel" tvg-logo="http://logo.watchhd.cc/logo/Sony_Channel_SW.png" group-title="Standard",Sony Channel
+plugin://plugin.video.vavooto/?name=SONY+TV
+#EXTINF:-1 tvg-id="SpiegelGeschichte.de" tvg-name="Spiegel Geschichte" tvg-logo="http://logo.watchhd.cc/logo/sony_axn.png" group-title="Standard",Spiegel Geschichte
+plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
+#EXTINF:-1 tvg-id="SpiegelTV.de" tvg-name="Spiegel TV Wissen" tvg-logo="" group-title="Standard",Spiegel TV Wissen
+plugin://plugin.video.vavooto/?name=SPIEGEL+TV+WISSEN
+#EXTINF:-1 tvg-id="SpiegeltV.de" tvg-name="Spiegel TV Wissen" tvg-logo="http://logo.watchhd.cc/logo/Spiegel_TV_Wissen.png" group-title="Standard",Spiegel TV Wissen
+plugin://plugin.video.vavooto/?name=SPIEGEL+WISSEN
+#EXTINF:-1 tvg-id="SWRAktuell.de" tvg-name="SWR" tvg-logo="http://logo.watchhd.cc/logo/swr1hd.png" group-title="Standard",SWR
+plugin://plugin.video.vavooto/?name=SWR
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Syfy" tvg-logo="http://logo.watchhd.cc/logo/syfyhd.png" group-title="Standard",Syfy
+plugin://plugin.video.taptv/play/407/play.pvr
+#EXTINF:-1 tvg-id="Syfy.de" tvg-name="Syfy" tvg-logo="http://logo.watchhd.cc/logo/syfyhd.png" group-title="Standard",Syfy
+plugin://plugin.video.vavooto/?name=SYFY
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="Tagesschau 24" tvg-logo="http://logo.watchhd.cc/logo/tagesschau24.png" group-title="Standard",Tagesschau 24
+plugin://plugin.video.vavooto/?name=TAGESSCHAU 24
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5" tvg-logo="http://logo.watchhd.cc/logo/Tele%205.png" group-title="Standard",Tele 5
+plugin://plugin.video.vavooto/?name=TELE+5
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC" tvg-logo="http://logo.watchhd.cc/logo/TLC_HD.png" group-title="Standard",TLC
+plugin://plugin.video.vavooto/?name=TLC
+#EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="Universal Channel" tvg-logo="http://logo.watchhd.cc/logo/universalhd.png" group-title="Standard",Universal Channel
+plugin://plugin.video.vavooto/?name=UNIVERSAL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vox HD" tvg-logo="http://logo.watchhd.cc/logo/voxhd.png" group-title="Standard",Vox HD
+plugin://plugin.video.vavooto/?name=VOX
+#EXTINF:-1 tvg-id="VOXup.de" tvg-name="Vox Up" tvg-logo="http://logo.watchhd.cc/logo/voxup.png" group-title="Standard",Vox Up
+plugin://plugin.video.vavooto/?name=VOX+UP
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner TV Film " tvg-logo="http://logo.watchhd.cc/logo/warnerTV_film.png" group-title="Standard",Warner TV Film 
+plugin://plugin.video.taptv/play/656/play.pvr
+#EXTINF:-1 tvg-id="TNT Serie" tvg-name="Warner TV Serie " tvg-logo="http://logo.watchhd.cc/logo/warnerTV_serie.png" group-title="Standard",Warner TV Serie 
+plugin://plugin.video.taptv/play/655/play.pvr
+#EXTINF:-1 tvg-id="TNT Comedy" tvg-name="WarnerTV Comedy" tvg-logo="http://logo.watchhd.cc/logo/warnerTV_comedy.png" group-title="Standard",WarnerTV Comedy
+plugin://plugin.video.vavooto/?name=WARNER TV COMEDY
+#EXTINF:-1 tvg-id="TNT Film" tvg-name="WarnerTV Film" tvg-logo="http://logo.watchhd.cc/logo/warnerTV_film.png" group-title="Standard",WarnerTV Film
+plugin://plugin.video.vavooto/?name=WARNER TV FILM
+#EXTINF:-1 tvg-id="TNT Serie" tvg-name="WarnerTV Serie" tvg-logo="http://logo.watchhd.cc/logo/warnerTV_serie.png" group-title="Standard",WarnerTV Serie
+plugin://plugin.video.vavooto/?name=WARNER TV SERIE
+#EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR" tvg-logo="http://logo.watchhd.cc/logo/wdrhd.png" group-title="Standard",WDR
+plugin://plugin.video.vavooto/?name=WDR
+#EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="Welt der Wunder" tvg-logo="http://logo.watchhd.cc/logo/welt_der_wunder.png" group-title="Standard",Welt der Wunder
+plugin://plugin.video.vavooto/?name=WELT+DER+WUNDER
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Standard",ZDF
+plugin://plugin.video.vavooto/?name=ZDF
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDF Info" tvg-logo="http://logo.watchhd.cc/logo/zdfinfohd.png" group-title="Standard",ZDF Info
+plugin://plugin.video.vavooto/?name=ZDF INFO
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDF Neo" tvg-logo="http://logo.watchhd.cc/logo/ZDF_NEO_HD.png" group-title="Standard",ZDF Neo
+plugin://plugin.video.vavooto/?name=ZDF NEO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Kino" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/png/max1.png" group-title="Film",Max Kino
+plugin://plugin.video.vavooto/?name=MAX+KINO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Kino 2" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/png/max2.png" group-title="Film",Max Kino 2
+plugin://plugin.video.vavooto/?name=MAX+KINO+2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Kino 3" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/png/max3.png" group-title="Film",Max Kino 3
+plugin://plugin.video.vavooto/?name=MAX+KINO+3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Popcorn Select 1" tvg-logo="https://kovi.ml/data/png/popcorn1.png" group-title="Film",Popcorn Select 1
+plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Popcorn Select 2" tvg-logo="https://kovi.ml/data/png/popcorn2.png" group-title="Film",Popcorn Select 2
+plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Popcorn Select 3" tvg-logo="https://kovi.ml/data/png/popcorn3.png" group-title="Film",Popcorn Select 3
+plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Popcorn Select 4" tvg-logo="https://kovi.ml/data/png/popcorn4.png" group-title="Film",Popcorn Select 4
+plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Popcorn Select 5" tvg-logo="https://kovi.ml/data/png/popcorn5.png" group-title="Film",Popcorn Select 5
+plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Select 1" tvg-logo="http://logo.watchhd.cc/logo/select1.png" group-title="Film",Sky Select 1
+plugin://plugin.video.vavooto/?name=SKY+SELECT+1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Select 2" tvg-logo="http://logo.watchhd.cc/logo/select2.png" group-title="Film",Sky Select 2
+plugin://plugin.video.vavooto/?name=SKY+SELECT+2
+#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DAZN 1 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/DAZN_1.png" group-title="Sport",DAZN 1 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+SPORT+1
+#EXTINF:-1 tvg-id="DAZN2.de" tvg-name="DAZN 2 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/DAZN_2.png" group-title="Sport",DAZN 2 (1080p)
+1=plugin://plugin.video.vavooto/?name=DAZN+SPORT+2
+#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DAZN 1 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/dazn11.png" group-title="Sport",DAZN 1 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+1
+#EXTINF:-1 tvg-id="DAZN2.de" tvg-name="DAZN 2 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/dazn2.png" group-title="Sport",DAZN 2 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+2
+#EXTINF:-1 tvg-id="DAZN3.de" tvg-name="DAZN 3 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_03.png" group-title="Sport",DAZN 3 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+3
+#EXTINF:-1 tvg-id="DAZN4.de" tvg-name="DAZN 4 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_04.png" group-title="Sport",DAZN 4 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+4
+#EXTINF:-1 tvg-id="DAZN5.de" tvg-name="DAZN 5 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_05.png" group-title="Sport",DAZN 5 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+5
+#EXTINF:-1 tvg-id="DAZN7.de" tvg-name="DAZN 7 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_07.png" group-title="Sport",DAZN 7 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+7
+#EXTINF:-1 tvg-id="DAZN8.de" tvg-name="DAZN 8 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_08.png" group-title="Sport",DAZN 8 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+8
+#EXTINF:-1 tvg-id="DAZN9.de" tvg-name="DAZN 9 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_09.png" group-title="Sport",DAZN 9 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+9
+#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DAZN 10 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_10.png" group-title="Sport",DAZN 10 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+10
+#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DAZN 11 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_11.png" group-title="Sport",DAZN 11 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+11
+#EXTINF:-1 tvg-id="DAZN12.de" tvg-name="DAZN 12 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_12.png" group-title="Sport",DAZN 12 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+12
+#EXTINF:-1 tvg-id="DAZN13.de" tvg-name="DAZN 13 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_13.png" group-title="Sport",DAZN 13 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+13
+#EXTINF:-1 tvg-id="DAZN14.de" tvg-name="DAZN 14 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_14.png" group-title="Sport",DAZN 14 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+14
+#EXTINF:-1 tvg-id="DAZN11.de" tvg-name="DAZN 15 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_15.png" group-title="Sport",DAZN 15 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+15
+#EXTINF:-1 tvg-id="DAZN16.de" tvg-name="DAZN 16 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_16.png" group-title="Sport",DAZN 16 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+16
+#EXTINF:-1 tvg-id="DAZN17.de" tvg-name="DAZN 17 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_17.png" group-title="Sport",DAZN 17 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+17
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/eurosport1hdv2.png" group-title="Sport",Eurosport 1 (1080p)
+plugin://plugin.video.vavooto/?name=EUROSPORT+1
+#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="Eurosport 2 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/eurosport2hdv2.png" group-title="Sport",Eurosport 2 (1080p)
+plugin://plugin.video.vavooto/?name=EUROSPORT+2
+#EXTINF:-1 tvg-id="Eurosport2XTRA.de" tvg-name="Eurosport 2 XTRA (1080p)" tvg-logo="http://logo.watchhd.cc/logo/eurosport2hdv2.png" group-title="Sport",Eurosport 2 XTRA (1080p)
+plugin://plugin.video.vavooto/?name=EUROSPORT+2+XTRA
+#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 XTRA B (1080p)" tvg-logo="http://logo.watchhd.cc/logo/eurosport2hdv2.png" group-title="Sport",Eurosport 2 XTRA B (1080p)
+plugin://plugin.video.vavooto/?name=EUROSPORT+XTRA+2%2B
+#EXTINF:-1 tvg-id="FCBayern.de" tvg-name="FC Bayern TV" tvg-logo="http://logo.watchhd.cc/logo/bayerntv.png" group-title="Sport",FC Bayern TV
+plugin://plugin.video.vavooto/?name=FC+BAYERN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 1" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_01.png" group-title="Sport",Magenta Fussball 1
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 2" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_02.png" group-title="Sport",Magenta Fussball 2
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 3" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_03.png" group-title="Sport",Magenta Fussball 3
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 4" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_04.png" group-title="Sport",Magenta Fussball 4
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 5" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_05.png" group-title="Sport",Magenta Fussball 5
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 6" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_06.png" group-title="Sport",Magenta Fussball 6
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 7" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_07.png" group-title="Sport",Magenta Fussball 7
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 8" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_08.png" group-title="Sport",Magenta Fussball 8
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 9" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_09.png" group-title="Sport",Magenta Fussball 9
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 10" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_10.png" group-title="Sport",Magenta Fussball 10
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+10
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 11" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_11.png" group-title="Sport",Magenta Fussball 11
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+11
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 12" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_12.png" group-title="Sport",Magenta Fussball 12
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+12
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 13" tvg-logo="http://logo.watchhd.cc/logo/magenta_13.png" group-title="Sport",Magenta Fussball 13
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+13
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 14" tvg-logo="http://logo.watchhd.cc/logo/magenta_14.png" group-title="Sport",Magenta Fussball 14
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+14
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 15" tvg-logo="http://logo.watchhd.cc/logo/magenta_15.png" group-title="Sport",Magenta Fussball 15
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+15
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 16" tvg-logo="http://logo.watchhd.cc/logo/magenta_16.png" group-title="Sport",Magenta Fussball 16
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+16
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 17" tvg-logo="http://logo.watchhd.cc/logo/magenta_17.png" group-title="Sport",Magenta Fussball 17
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+17
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 18" tvg-logo="http://logo.watchhd.cc/logo/magenta_18.png" group-title="Sport",Magenta Fussball 18
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+18
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 19" tvg-logo="http://logo.watchhd.cc/logo/magenta_19.png" group-title="Sport",Magenta Fussball 19
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+19
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 20" tvg-logo="http://logo.watchhd.cc/logo/magenta_20.png" group-title="Sport",Magenta Fussball 20
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+20
+#EXTINF:-1 tvg-id="UHD1(src01).de" tvg-name="Magenta Sport 1" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_1.png" group-title="Sport",Magenta Sport 1
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 2" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_2.png" group-title="Sport",Magenta Sport 2
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 3" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_3.png" group-title="Sport",Magenta Sport 3
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 4" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_4.png" group-title="Sport",Magenta Sport 4
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 5" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_5.png" group-title="Sport",Magenta Sport 5
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 6" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_6.png" group-title="Sport",Magenta Sport 6
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 7" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_7.png" group-title="Sport",Magenta Sport 7
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 8" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_8.png" group-title="Sport",Magenta Sport 8
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 9" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_9.png" group-title="Sport",Magenta Sport 9
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 10" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_10.png" group-title="Sport",Magenta Sport 10
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+10
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 11" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_11.png" group-title="Sport",Magenta Sport 11
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+11
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 12" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_12.png" group-title="Sport",Magenta Sport 12
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+12
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 13" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_13.png" group-title="Sport",Magenta Sport 13
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+13
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 14" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_14.png" group-title="Sport",Magenta Sport 14
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+14
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 15" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_15.png" group-title="Sport",Magenta Sport 15
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+15
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 16" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_16.png" group-title="Sport",Magenta Sport 16
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+16
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 17" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_17.png" group-title="Sport",Magenta Sport 17
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+17
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 18" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_18.png" group-title="Sport",Magenta Sport 18
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+18
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 19" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_19.png" group-title="Sport",Magenta Sport 19
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+19
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 20" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_Programm.png" group-title="Sport",Magenta Sport 20
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+20
+#EXTINF:-1 tvg-id="MyTeamTVEishockey1.de" tvg-name="Magenta Eishockey " tvg-logo="http://logo.watchhd.cc/logo/Telekom_Eishockey.png" group-title="Sport",Magenta Eishockey 
+plugin://plugin.video.vavooto/?name=DEL+SPORT+1
+#EXTINF:-1 tvg-id="SkySportBundesliga1.de" tvg-name="Sky Bundesliga 1 (480p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_1HD.png" group-title="Sport",Sky Bundesliga 1 (480p)
+plugin://plugin.video.taptv/play/401/play.pvr
+#EXTINF:-1 tvg-id="SkySportBundesliga2.de" tvg-name="Sky Bundesliga 2 (480p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_2HD.png" group-title="Sport",Sky Bundesliga 2 (480p)
+plugin://plugin.video.taptv/play/431/play.pvr
+#EXTINF:-1 tvg-id="SkySportBundesliga3.de" tvg-name="Sky Bundesliga 3 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_3HD.png" group-title="Sport",Sky Bundesliga 3 (1080p)
+plugin://plugin.video.taptv/play/432/play.pvr
+#EXTINF:-1 tvg-id="SkySportBundesliga4.de" tvg-name="Sky Bundesliga 4 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_4HD.png" group-title="Sport",Sky Bundesliga 4 (1080p)
+plugin://plugin.video.taptv/play/433/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 5 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_5HD.png" group-title="Sport",Sky Bundesliga 5 (1080p)
+plugin://plugin.video.taptv/play/444/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 6 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_6HD.png" group-title="Sport",Sky Bundesliga 6 (1080p)
+plugin://plugin.video.taptv/play/435/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 7 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_7HD.png" group-title="Sport",Sky Bundesliga 7 (1080p)
+plugin://plugin.video.taptv/play/436/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 8 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_8HD.png" group-title="Sport",Sky Bundesliga 8 (1080p)
+plugin://plugin.video.taptv/play/437/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport 1" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_1HD.png" group-title="Sport",Sky Sport 1
+plugin://plugin.video.taptv/play/403/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport 2" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_2HD.png" group-title="Sport",Sky Sport 2
+plugin://plugin.video.taptv/play/404/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport 1" tvg-logo="http://logo.watchhd.cc/logo/sport1.png" group-title="Sport",Sport 1
+plugin://plugin.video.taptv/play/405/play.pvr
+#EXTINF:-1 tvg-id="Sport001.de" tvg-name="Sport 1" tvg-logo="http://logo.watchhd.cc/logo/sport1.png" group-title="Sport",Sport 1
+plugin://plugin.video.vavooto/?name=SPORT+1
+#EXTINF:-1 tvg-id="SPORT1plus.de" tvg-name="Sport 1+" tvg-logo="http://logo.watchhd.cc/logo/sport1+hdv2.png" group-title="Sport",Sport 1+
+plugin://plugin.video.vavooto/?name=SPORT+1+PLUS
+#EXTINF:-1 tvg-id="SPORT1+" tvg-name="Sport1+" tvg-logo="http://logo.watchhd.cc/logo/sport1+hdv2.png" group-title="Sport",Sport1+
+plugin://plugin.video.vavooto/?name=SPORT+1%2B
+#EXTINF:-1 tvg-id="sportdigital(src01).de" tvg-name="Sport digital" tvg-logo="http://logo.watchhd.cc/logo/sportdigitalhdv2.png" group-title="Sport",Sport digital
+plugin://plugin.video.vavooto/?name=SPORT+DIGITAL
+#EXTINF:-1 tvg-id="13th Street Universal" tvg-name="13TH Street" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/442.png" group-title="Standart",13TH Street
+plugin://plugin.video.vavooto/?name=13TH+STREET
+#EXTINF:-1 tvg-id="3sat" tvg-name="3 Sat" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1006.png" group-title="Standart",3 Sat
+plugin://plugin.video.vavooto/?name=3+SAT
+#EXTINF:-1 tvg-id="AandE.de" tvg-name="A&E" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/945.png" group-title="Standart",A&E
+plugin://plugin.video.vavooto/?name=A%26E
+#EXTINF:-1 tvg-id="ARD alpha" tvg-name="ARD" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1007.png" group-title="Standart",ARD
+plugin://plugin.video.vavooto/?name=ARD+DAS+ERSTE
+#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/925.png" group-title="Standart",ATV
+plugin://plugin.video.vavooto/?name=ATV
+#EXTINF:-1 tvg-id="ATV II" tvg-name="ATV2" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/926.png" group-title="Standart",ATV2
+plugin://plugin.video.vavooto/?name=ATV+2
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/539.png" group-title="Standart",AXN
+plugin://plugin.video.vavooto/?name=AXN
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/994.png" group-title="Standart",Animal Planet
+plugin://plugin.video.vavooto/?name=PLANET
+#EXTINF:-1 tvg-id="ANIXE" tvg-name="Anixe" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1008.png" group-title="Standart",Anixe
+plugin://plugin.video.vavooto/?name=ANIXE
+#EXTINF:-1 tvg-id="ARTE" tvg-name="Arte" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1009.png" group-title="Standart",Arte
+plugin://plugin.video.vavooto/?name=ARTE
+#EXTINF:-1 tvg-id="Auto Motor Sport" tvg-name="Auto Motor Sport" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1031.png" group-title="Standart",Auto Motor Sport
+plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
+#EXTINF:-1 tvg-id="BR" tvg-name="BR" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/959.png" group-title="Standart",BR
+plugin://plugin.video.vavooto/?name=BR
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1044.png" group-title="Standart",Boomerang
+plugin://plugin.video.vavooto/?name=BOOMERANG
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1032.png" group-title="Standart",Cartoon Network
+plugin://plugin.video.vavooto/?name=CARTOON+NETWORK
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1073.png" group-title="Standart",Comedy Central
+plugin://plugin.video.vavooto/?name=COMEDY+CENTRAL
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/969.png" group-title="Standart",DMAX
+plugin://plugin.video.vavooto/?name=DMAX
+#EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/502.png" group-title="Standart",Discovery
+plugin://plugin.video.vavooto/?name=DISCOVERY
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1035.png" group-title="Standart",Disney Channel
+plugin://plugin.video.vavooto/?name=DISNEY+CHANNEL
+#EXTINF:-1 tvg-id="E! Entertainment" tvg-name="E! ENTERTAINMENT" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/547.png" group-title="Standart",E! ENTERTAINMENT
+plugin://plugin.video.vavooto/?name=E%21+ENTERTAINMENT
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/890.png" group-title="Standart",Eurosport 1
+plugin://plugin.video.vavooto/?name=EUROSPORT+1
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/450.png" group-title="Standart",Eurosport 2
+plugin://plugin.video.vavooto/?name=EUROSPORT+2
+#EXTINF:-1 tvg-id="Fix &amp; Foxi" tvg-name="Fix und Foxi" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/960.png" group-title="Standart",Fix und Foxi
+plugin://plugin.video.vavooto/?name=FIX+%26+FOXI
+#EXTINF:-1 tvg-id="GEO Television" tvg-name="Geo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_of_GEO_HD.png" group-title="Standart",Geo
+plugin://plugin.video.vavooto/?name=GEO+TV
+#EXTINF:-1 tvg-id="gotv" tvg-name="Go tv" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1050.png" group-title="Standart",Go tv
+plugin://plugin.video.vavooto/?name=GOTV
+#EXTINF:-1 tvg-id="Heimatkanal" tvg-name="Heimatkanal" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/498.png" group-title="Standart",Heimatkanal
+plugin://plugin.video.vavooto/?name=HEIMATKANAL
+#EXTINF:-1 tvg-id="History HD" tvg-name="History" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/542.png" group-title="Standart",History
+plugin://plugin.video.vavooto/?name=HISTORY
+#EXTINF:-1 tvg-id="HR" tvg-name="HR" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1147.png" group-title="Standart",HR
+plugin://plugin.video.vavooto/?name=HR
+#EXTINF:-1 tvg-id="Jukebox" tvg-name="Jukebox" tvg-logo="http://logo.watchhd.cc/logo/hr.png" group-title="Standart",Jukebox
+plugin://plugin.video.vavooto/?name=JUKEBOX
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Junior" tvg-logo="http://logo.watchhd.cc/logo/junior.png" group-title="Standart",Junior
+plugin://plugin.video.vavooto/?name=JUNIOR
+#EXTINF:-1 tvg-id="kabel eins" tvg-name="Kabel 1" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/928.png" group-title="Standart",Kabel 1
+plugin://plugin.video.vavooto/?name=KABEL+1
+#EXTINF:-1 tvg-id="kabel eins classics" tvg-name="Kabel 1 Classics" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1037.png" group-title="Standart",Kabel 1 Classics
+plugin://plugin.video.vavooto/?name=KABEL+1+CLASSICS
+#EXTINF:-1 tvg-id="kabel eins Doku" tvg-name="Kabel 1 Doku" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1142.png" group-title="Standart",Kabel 1 Doku
+plugin://plugin.video.vavooto/?name=KABEL+1+DOKU
+#EXTINF:-1 tvg-id="KiKA" tvg-name="KiKA" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1010.png" group-title="Standart",KiKA
+plugin://plugin.video.vavooto/?name=KIKA
+#EXTINF:-1 tvg-id="KinoweltTV" tvg-name="Kinowelt" tvg-logo="http://logo.watchhd.cc/logo/kinowelt.png" group-title="Standart",Kinowelt
+plugin://plugin.video.vavooto/?name=WELT
+#EXTINF:-1 tvg-id="MDR" tvg-name="MDR" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1011.png" group-title="Standart",MDR
+plugin://plugin.video.vavooto/?name=MDR
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1395.png" group-title="Standart",MTV
+plugin://plugin.video.vavooto/?name=MTV
+#EXTINF:-1 tvg-id="Motorvision TV" tvg-name="Motorvision" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1181.png" group-title="Standart",Motorvision
+plugin://plugin.video.vavooto/?name=MOTORVISION
+#EXTINF:-1 tvg-id="n-tv" tvg-name="N-TV" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1004.png" group-title="Standart",N-TV
+plugin://plugin.video.vavooto/?name=NTV
+#EXTINF:-1 tvg-id="N24 Doku" tvg-name="N24 Doku" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1012.png" group-title="Standart",N24 Doku
+plugin://plugin.video.vavooto/?name=N24
+#EXTINF:-1 tvg-id="NDR Fernsehen" tvg-name="NDR" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1040.png" group-title="Standart",NDR
+plugin://plugin.video.vavooto/?name=NDR
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="Nat Geo Wild" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/493.png" group-title="Standart",Nat Geo Wild
+plugin://plugin.video.vavooto/?name=NAT+GEO+WILD
+#EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="Nat Geo" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/507.png" group-title="Standart",Nat Geo
+plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name="nickelodeon" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/943.png" group-title="Standart",nickelodeon
+plugin://plugin.video.vavooto/?name=NICKTOONS
+#EXTINF:-1 tvg-id="ONE" tvg-name="ONE" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1024.png" group-title="Standart",ONE
+plugin://plugin.video.vavooto/?name=ONE
+#EXTINF:-1 tvg-id="ORF 1" tvg-name="ORF 1" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/996.png" group-title="Standart",ORF 1
+plugin://plugin.video.vavooto/?name=ORF+1
+#EXTINF:-1 tvg-id="ORF 2" tvg-name="ORF 2" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1151.png" group-title="Standart",ORF 2
+plugin://plugin.video.vavooto/?name=ORF+2
+#EXTINF:-1 tvg-id="ORF SPORT +" tvg-name="ORF Sport" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1051.png" group-title="Standart",ORF Sport
+plugin://plugin.video.vavooto/?name=ORF-SPORT
+#EXTINF:-1 tvg-id="PHOENIX" tvg-name="PHOENIX" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1019.png" group-title="Standart",PHOENIX
+plugin://plugin.video.vavooto/?name=PHOENIX
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="ProSieben" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/936.png" group-title="Standart",ProSieben
+plugin://plugin.video.vavooto/?name=PRO+7
+#EXTINF:-1 tvg-id="ProSieben Fun" tvg-name="ProSieben Fun" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/5/52/ProSieben_Fun_HD_2012.png/320px-ProSieben_Fun_HD_2012.png" group-title="Standart",ProSieben Fun
+plugin://plugin.video.vavooto/?name=PRO+7+FUN
+#EXTINF:-1 tvg-id="ProSieben MAXX" tvg-name="ProSieben MAXX" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/955.png" group-title="Standart",ProSieben MAXX
+plugin://plugin.video.vavooto/?name=PRO+7+MAXX
+#EXTINF:-1 tvg-id="RBB" tvg-name="RBB" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1047.png" group-title="Standart",RBB
+plugin://plugin.video.vavooto/?name=RBB
+#EXTINF:-1 tvg-id="RTL" tvg-name="RTL" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/999.png" group-title="Standart",RTL
+plugin://plugin.video.vavooto/?name=RTL
+#EXTINF:-1 tvg-id="RTL II" tvg-name="RTL 2" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1056.png" group-title="Standart",RTL 2
+plugin://plugin.video.vavooto/?name=RTL+2
+#EXTINF:-1 tvg-id="RTL Crime" tvg-name="RTL Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/RTL_Crime_Logo_2015.png" group-title="Standart",RTL Crime
+plugin://plugin.video.vavooto/?name=RTL+CRIME
+#EXTINF:-1 tvg-id="RTL Living" tvg-name="RTL Living" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/RTL_living_Logo_2015.png" group-title="Standart",RTL Living
+plugin://plugin.video.vavooto/?name=RTL+LIVING
+#EXTINF:-1 tvg-id="NITRO" tvg-name="RTL Nitro" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1059.png" group-title="Standart",RTL Nitro
+plugin://plugin.video.vavooto/?name=RTL+NITRO
+#EXTINF:-1 tvg-id="RTL Passion" tvg-name="RTL Passion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/RTL_Passion_Logo_2015.png" group-title="Standart",RTL Passion
+plugin://plugin.video.vavooto/?name=RTL+PASSION
+#EXTINF:-1 tvg-id="RTLplus" tvg-name="RTL plus" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1187.png" group-title="Standart",RTL plus
+plugin://plugin.video.vavooto/?name=RTL+UP
+#EXTINF:-1 tvg-id="RiC" tvg-name="RiC" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1060.png" group-title="Standart",RiC
+plugin://plugin.video.vavooto/?name=RIC
+#EXTINF:-1 tvg-id="Romance TV" tvg-name="Romance" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1179.png" group-title="Standart",Romance
+plugin://plugin.video.vavooto/?name=ROMANCE+TV
+#EXTINF:-1 tvg-id="SAT.1" tvg-name="Sat 1" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/937.png" group-title="Standart",Sat 1
+plugin://plugin.video.vavooto/?name=SAT+1
+#EXTINF:-1 tvg-id="SAT.1 emotions" tvg-name="Sat 1 Emotions" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1042.png" group-title="Standart",Sat 1 Emotions
+plugin://plugin.video.vavooto/?name=SAT+1+EMOTIONS
+#EXTINF:-1 tvg-id="SAT.1 Gold" tvg-name="Sat 1 Gold" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/956.png" group-title="Standart",Sat 1 Gold
+plugin://plugin.video.vavooto/?name=SAT+1+GOLD
+#EXTINF:-1 tvg-id="ServusTV" tvg-name="Servus TV" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/957.png" group-title="Standart",Servus TV
+plugin://plugin.video.vavooto/?name=SERVUS+TV
+#EXTINF:-1 tvg-id="Silverline" tvg-name="Silverline" tvg-logo="http://logo.watchhd.cc/logo/Silverline.png" group-title="Standart",Silverline
+plugin://plugin.video.vavooto/?name=SILVERLINE
+#EXTINF:-1 tvg-id="sixx" tvg-name="Sixx" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/942.png" group-title="Standart",Sixx
+plugin://plugin.video.vavooto/?name=SIXX
+#EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="Sky Atlantic" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/529.png" group-title="Standart",Sky Atlantic
+plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
+#EXTINF:-1 tvg-id="Sky Action" tvg-name="Sky Cinema Action" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/456.png" group-title="Standart",Sky Cinema Action
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
+#EXTINF:-1 tvg-id="Sky Cinema Best Of" tvg-name="Sky Cinema Best of" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/527.png" group-title="Standart",Sky Cinema Best of
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+BEST+OF
+#EXTINF:-1 tvg-id="Sky Cinema Classics" tvg-name="Sky Cinema Classics" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/483.png" group-title="Standart",Sky Cinema Classics
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+CLASSICS
+#EXTINF:-1 tvg-id="Sky Family" tvg-name="Sky Cinema Family" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1140.png" group-title="Standart",Sky Cinema Family
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
+#EXTINF:-1 tvg-id="Sky Cinema Fun" tvg-name="Sky Cinema Fun" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/440.png" group-title="Standart",Sky Cinema Fun
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+FUN
+#EXTINF:-1 tvg-id="Sky Cinema Premieren" tvg-name="Sky Cinema Premieren" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/453.png" group-title="Standart",Sky Cinema Premieren
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
+#EXTINF:-1 tvg-id="Sky Cinema Thriller" tvg-name="Sky Cinema Thriller" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/470.png" group-title="Standart",Sky Cinema Thriller
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+THRILLER
+#EXTINF:-1 tvg-id="Sky Comedy" tvg-name="Sky Comedy" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1425.png" group-title="Standart",Sky Comedy
+plugin://plugin.video.vavooto/?name=SKY+COMEDY
+#EXTINF:-1 tvg-id="Sky Crime" tvg-name="Sky Crime" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1423.png" group-title="Standart",Sky Crime
+plugin://plugin.video.vavooto/?name=SKY+CRIME
+#EXTINF:-1 tvg-id="Sky Documentaries" tvg-name="Sky Documentaries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Documentaries_Logo_2020.png/320px-Sky_Documentaries_Logo_2020.png" group-title="Standart",Sky Documentaries
+plugin://plugin.video.vavooto/?name=SKY+DOCUMENTARIES
+#EXTINF:-1 tvg-id="Sky Krimi" tvg-name="Sky Krimi" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/436.png" group-title="Standart",Sky Krimi
+plugin://plugin.video.vavooto/?name=SKY+KRIMI
+#EXTINF:-1 tvg-id="Sky Nature" tvg-name="Sky Nature" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1440.png" group-title="Standart",Sky Nature
+plugin://plugin.video.vavooto/?name=SKY+NATURE
+#EXTINF:-1 tvg-id="Sky One" tvg-name="Sky One" tvg-logo="http://epggw.a1.net/img/station/img/station/darkbg/320x39/1158.png" group-title="Standart",Sky One
+plugin://plugin.video.vavooto/?name=SKY+1
+#EXTINF:-1 tvg-id="Sony Channel" tvg-name="Sony Channel" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/961.png" group-title="Standart",Sony Channel
+plugin://plugin.video.vavooto/?name=SONY+CHANNEL
+#EXTINF:-1 tvg-id="Spiegel Geschichte" tvg-name="Spiegel Geschichte" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/486.png" group-title="Standart",Spiegel Geschichte
+plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
+#EXTINF:-1 tvg-id="Spiegel TV Wissen" tvg-name="Spiegel TV Wissen" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1246.png" group-title="Standart",Spiegel TV Wissen
+plugin://plugin.video.vavooto/?name=SPIEGEL+WISSEN
+#EXTINF:-1 tvg-id="SWR/SR" tvg-name="SWR" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1030.png" group-title="Standart",SWR
+plugin://plugin.video.vavooto/?name=SWR
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/537.png" group-title="Standart",Syfy
+plugin://plugin.video.vavooto/?name=SYFY
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/944.png" group-title="Standart",TLC
+plugin://plugin.video.vavooto/?name=TLC
+#EXTINF:-1 tvg-id="tagesschau24" tvg-name="Tagesschau 24" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1046.png" group-title="Standart",Tagesschau 24
+plugin://plugin.video.vavooto/?name=TAGESSCHAU+24
+#EXTINF:-1 tvg-id="Tele 5" tvg-name="Tele 5" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1018.png" group-title="Standart",Tele 5
+plugin://plugin.video.vavooto/?name=TELE+5
+#EXTINF:-1 tvg-id="TOGGO plus" tvg-name="Toggo" tvg-logo="https://images.waipu.tv/api/channels/TOGGOPLUS/logosd.png?width=100&height=100" group-title="Standart",Toggo
+plugin://plugin.video.vavooto/?name=TOGGO+PLUS
+#EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="Universal Channel" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/438.png" group-title="Standart",Universal Channel
+plugin://plugin.video.vavooto/?name=UNIVERSAL
+#EXTINF:-1 tvg-id="VOX" tvg-name="Vox" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1057.png" group-title="Standart",Vox
+plugin://plugin.video.vavooto/?name=VOX
+#EXTINF:-1 tvg-id="VOXup" tvg-name="Vox UP" tvg-logo="https://images.waipu.tv/api/channels/VOXUP/logosd.png?width=100&height=100" group-title="Standart",Vox UP
+plugin://plugin.video.vavooto/?name=VOX+UP
+#EXTINF:-1 tvg-id="TNT Comedy" tvg-name="WarnerTV Comedy" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/889.png" group-title="Standart",WarnerTV Comedy
+plugin://plugin.video.vavooto/?name=WARNER+TV+COMEDY
+#EXTINF:-1 tvg-id="TNT Film" tvg-name="WarnerTV Film" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/914.png" group-title="Standart",WarnerTV Film
+plugin://plugin.video.vavooto/?name=WARNER+TV+FILM
+#EXTINF:-1 tvg-id="TNT Serie" tvg-name="WarnerTV Serie" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/479.png" group-title="Standart",WarnerTV Serie
+plugin://plugin.video.vavooto/?name=WARNER+TV+SERIE
+#EXTINF:-1 tvg-id="WDR Fernsehen" tvg-name="WDR" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1000.png" group-title="Standart",WDR
+plugin://plugin.video.vavooto/?name=WDR
+#EXTINF:-1 tvg-id="Welt der Wunder TV" tvg-name="Welt der Wunder" tvg-logo="https://images.waipu.tv/api/channels/WELTDERWUNDER/logosd.png?width=100&height=100" group-title="Standart",Welt der Wunder
+plugin://plugin.video.vavooto/?name=WELT+DER+Wunder
+#EXTINF:-1 tvg-id="ZDF" tvg-name="ZDF" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1063.png" group-title="Standart",ZDF
+plugin://plugin.video.vavooto/?name=ZDF%2B
+#EXTINF:-1 tvg-id="ZDFinfo" tvg-name="ZDF info" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1013.png" group-title="Standart",ZDF info
+plugin://plugin.video.vavooto/?name=ZDF+INFO
+#EXTINF:-1 tvg-id="ZDFneo" tvg-name="ZDF neo" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1015.png" group-title="Standart",ZDF neo
+plugin://plugin.video.vavooto/?name=ZDF+NEO
