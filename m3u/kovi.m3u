@@ -3,15 +3,15 @@
 plugin://plugin.video.vavooto/?name=13TH+STREET
 #EXTINF:-1 tvg-id="3sat" tvg-name="3sat" tvg-logo="https://kovi.ml/data/picons/3sat_Logo.png" group-title="Standard" tvg-shift="-1",3sat
 plugin://plugin.video.vavooto/?name=3+SAT
-#EXTINF:-1 tvg-id="AandE" tvg-name="A&E" tvg-logo="https://kovi.ml/data/picons/a&ehd.png" group-title="Standard" tvg-shift="-1",A&E
+#EXTINF:-1 tvg-id="CRIME + INVESTIGATION" tvg-name="A&E" tvg-logo="https://kovi.ml/data/picons/a&ehd.png" group-title="Standard" tvg-shift="-1",A&E
 plugin://plugin.video.vavooto/?name=A%26E
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://kovi.ml/data/picons/animalhd.png" group-title="Standard" tvg-shift="-1",Animal Planet
 plugin://plugin.video.vavooto/?name=PLANET
 #EXTINF:-1 tvg-id="ANIXE" tvg-name="Anixe" tvg-logo="https://kovi.ml/data/picons/ANIXE_HD.png" group-title="Standard" tvg-shift="-1",Anixe
 plugin://plugin.video.vavooto/?name=ANIXE
-#EXTINF:-1 tvg-id="ANIXE Serie" tvg-name="Anixe Serie" tvg-logo="https://kovi.ml/data/picons/ANIXE_HD.png" group-title="Standard" tvg-shift="-1",Anixe Serie
+#EXTINF:-1 tvg-id="ANIXE" tvg-name="Anixe Serie" tvg-logo="https://kovi.ml/data/picons/ANIXE_HD.png" group-title="Standard" tvg-shift="-1",Anixe Serie
 plugin://plugin.video.vavooto/?name=ANIXE+SERIE
-#EXTINF:-1 tvg-id="ARD Alpha" tvg-name="ARD Alpha" tvg-logo="https://kovi.ml/data/picons/ard-alpha.png" group-title="Standard" tvg-shift="-1",ARD Alpha
+#EXTINF:-1 tvg-id="ARD alpha" tvg-name="ARD Alpha" tvg-logo="https://kovi.ml/data/picons/ard-alpha.png" group-title="Standard" tvg-shift="-1",ARD Alpha
 plugin://plugin.video.vavooto/?name=ARD+ALPHA
 #EXTINF:-1 tvg-id="ARTE" tvg-name="Arte" tvg-logo="https://kovi.ml/data/picons/Arte_HD_2.png" group-title="Standard" tvg-shift="-1",Arte
 plugin://plugin.video.vavooto/?name=ARTE
@@ -23,19 +23,19 @@ plugin://plugin.video.vavooto/?name=ATV+2
 plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://kovi.ml/data/picons/axn.png" group-title="Standard" tvg-shift="-1",AXN
 plugin://plugin.video.vavooto/?name=AXN
-#EXTINF:-1 tvg-id="BILDTV" tvg-name="Bild TV" tvg-logo="https://kovi.ml/data/picons/bild-tv.png" group-title="Standard" tvg-shift="-1",Bild TV
+#EXTINF:-1 tvg-id="BILD TV" tvg-name="Bild TV" tvg-logo="https://kovi.ml/data/picons/bild-tv.png" group-title="Standard" tvg-shift="-1",Bild TV
 plugin://plugin.video.vavooto/?name=BILD+TV
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://kovi.ml/data/picons/boomerang.png" group-title="Standard" tvg-shift="-1",Boomerang
 plugin://plugin.video.vavooto/?name=BOOMERANG
-#EXTINF:-1 tvg-id="BR Fernsehen" tvg-name="BR" tvg-logo="https://kovi.ml/data/picons/br.png" group-title="Standard" tvg-shift="-1",BR
+#EXTINF:-1 tvg-id="BR" tvg-name="BR" tvg-logo="https://kovi.ml/data/picons/br.png" group-title="Standard" tvg-shift="-1",BR
 plugin://plugin.video.vavooto/?name=BR
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://kovi.ml/data/picons/cartoon-network.png" group-title="Standard" tvg-shift="-1",Cartoon Network
 plugin://plugin.video.vavooto/?name=CARTOON+NETWORK
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://kovi.ml/data/picons/comedy-central.png" group-title="Standard" tvg-shift="-1",Comedy Central
 plugin://plugin.video.vavooto/?name=VIVA
-#EXTINF:-1 tvg-id="DasErste" tvg-name="Das Erste " tvg-logo="https://kovi.ml/data/picons/das-erste.png" group-title="Standard" tvg-shift="-1",Das Erste 
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="Das Erste " tvg-logo="https://kovi.ml/data/picons/das-erste.png" group-title="Standard" tvg-shift="-1",Das Erste 
 plugin://plugin.video.vavooto/?name=DAS+ERSTE
-#EXTINF:-1 tvg-id="ARD" tvg-name="Das Erste (1080p) (Backup)" tvg-logo="https://kovi.ml/data/picons/das-erste.png" group-title="Standard" tvg-shift="-1",Das Erste (1080p) (Backup)
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="Das Erste (1080p) (Backup)" tvg-logo="https://kovi.ml/data/picons/das-erste.png" group-title="Standard" tvg-shift="-1",Das Erste (1080p) (Backup)
 plugin://plugin.video.vavooto/?name=ARD+DAS+ERSTE
 #EXTINF:-1 tvg-id="DELUXE MUSIC" tvg-name="Deluxe Music" tvg-logo="https://kovi.ml/data/picons/deluxe-music.png" group-title="Standard" tvg-shift="-1",Deluxe Music
 plugin://plugin.video.vavooto/?name=DELUXE+MUSIC
@@ -51,7 +51,7 @@ plugin://plugin.video.vavooto/?name=E%21+ENTERTAINMENT
 plugin://plugin.video.vavooto/?name=EUROSPORT+1
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://kovi.ml/data/picons/eurosport2-hd.png" group-title="Standard" tvg-shift="-1",Eurosport 2
 plugin://plugin.video.vavooto/?name=EUROSPORT+2
-#EXTINF:-1 tvg-id="GEO(src01).de" tvg-name="Geo" tvg-logo="https://kovi.ml/data/picons/geo-hd.png" group-title="Standard" tvg-shift="-1",Geo
+#EXTINF:-1 tvg-id="GEO Television" tvg-name="Geo" tvg-logo="https://kovi.ml/data/picons/geo-hd.png" group-title="Standard" tvg-shift="-1",Geo
 plugin://plugin.video.vavooto/?name=GEO+TV
 #EXTINF:-1 tvg-id="gotv" tvg-name="Go TV" tvg-logo="http://kovi.ml/data/picons/go-tv.png" group-title="Standard" tvg-shift="-1",Go TV
 plugin://plugin.video.vavooto/?name=GOTV
@@ -59,7 +59,7 @@ plugin://plugin.video.vavooto/?name=GOTV
 plugin://plugin.video.vavooto/?name=HEIMATKANAL
 #EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://kovi.ml/data/picons/history.png" group-title="Standard" tvg-shift="-1",History
 plugin://plugin.video.vavooto/?name=HISTORY
-#EXTINF:-1 tvg-id="HRFernsehen.de" tvg-name="HR" tvg-logo="https://kovi.ml/data/picons/hr.png" group-title="Standard" tvg-shift="-1",HR
+#EXTINF:-1 tvg-id="HR" tvg-name="HR" tvg-logo="https://kovi.ml/data/picons/hr.png" group-title="Standard" tvg-shift="-1",HR
 plugin://plugin.video.vavooto/?name=HR+FERNSEHEN
 #EXTINF:-1 tvg-id="Jukebox" tvg-name="Jukebox" tvg-logo="https://kovi.ml/data/picons/jukebox.png" group-title="Standard" tvg-shift="-1",Jukebox
 plugin://plugin.video.vavooto/?name=JUKEBOX
@@ -89,7 +89,7 @@ plugin://plugin.video.vavooto/?name=N24+DOKU
 plugin://plugin.video.vavooto/?name=NAT+GEO+WILD
 #EXTINF:-1 tvg-id="NatGeographic(src01).de" tvg-name="National Geographic" tvg-logo="https://kovi.ml/data/picons/national-geographic.png" group-title="Standard" tvg-shift="-1",National Geographic
 plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
-#EXTINF:-1 tvg-id="NDR Fernsehen" tvg-name="NDR" tvg-logo="https://kovi.ml/data/picons/ndr-hd.png" group-title="Standard" tvg-shift="-1",NDR
+#EXTINF:-1 tvg-id="NDR" tvg-name="NDR" tvg-logo="https://kovi.ml/data/picons/ndr-hd.png" group-title="Standard" tvg-shift="-1",NDR
 plugin://plugin.video.vavooto/?name=NDR
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://kovi.ml/data/picons/nick.png" group-title="Standard" tvg-shift="-1",Nickelodeon
 plugin://plugin.video.vavooto/?name=NICKELODEON
@@ -97,7 +97,7 @@ plugin://plugin.video.vavooto/?name=NICKELODEON
 plugin://plugin.video.vavooto/?name=ONE
 #EXTINF:-1 tvg-id="phoenix.de" tvg-name="Phoenix" tvg-logo="https://kovi.ml/data/picons/phoenix-hd.png" group-title="Standard" tvg-shift="-1",Phoenix
 plugin://plugin.video.vavooto/?name=PHOENIX
-#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-logo="https://kovi.ml/data/picons/pro7.png" group-title="Standard" tvg-shift="-1",ProSieben
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="ProSieben" tvg-logo="https://kovi.ml/data/picons/pro7.png" group-title="Standard" tvg-shift="-1",ProSieben
 plugin://plugin.video.vavooto/?name=PRO+7
 #EXTINF:-1 tvg-id="ProSieben Fun" tvg-name="ProSieben Fun" tvg-logo="https://kovi.ml/data/picons/pro7-fun.png" group-title="Standard" tvg-shift="-1",ProSieben Fun
 plugin://plugin.video.vavooto/?name=PRO+7+FUN
@@ -109,7 +109,7 @@ plugin://plugin.video.vavooto/?name=RBB
 plugin://plugin.video.vavooto/?name=ROMANCE+TV
 #EXTINF:-1 tvg-id="RTL Up" tvg-name="RTL Up" tvg-logo="https://kovi.ml/data/picons/rtl-up.png" group-title="Standard" tvg-shift="-1",RTL Up
 plugin://plugin.video.vavooto/?name=RTL+UP
-#EXTINF:-1 tvg-id="Sat1" tvg-name="Sat.1" tvg-logo="https://kovi.ml/data/picons/sat1-hd.png" group-title="Standard" tvg-shift="-1",Sat.1
+#EXTINF:-1 tvg-id="SAT.1" tvg-name="Sat.1" tvg-logo="https://kovi.ml/data/picons/sat1-hd.png" group-title="Standard" tvg-shift="-1",Sat.1
 plugin://plugin.video.vavooto/?name=SAT+1
 #EXTINF:-1 tvg-id="Sat.1 Emotions" tvg-name="Sat.1 Emotions" tvg-logo="https://kovi.ml/data/picons/sat1-emotions.png" group-title="Standard" tvg-shift="-1",Sat.1 Emotions
 plugin://plugin.video.vavooto/?name=SAT+1+EMOTIONS
@@ -117,7 +117,7 @@ plugin://plugin.video.vavooto/?name=SAT+1+EMOTIONS
 plugin://plugin.video.vavooto/?name=SAT+1+GOLD
 #EXTINF:-1 tvg-id="Silverline" tvg-name="Silverline" tvg-logo="https://kovi.ml/data/picons/silverline1.png" group-title="Standard" tvg-shift="-1",Silverline
 plugin://plugin.video.vavooto/?name=SILVERLINE
-#EXTINF:-1 tvg-id="Sixx" tvg-name="Sixx" tvg-logo="https://kovi.ml/data/picons/sixx-hd.png" group-title="Standard" tvg-shift="-1",Sixx
+#EXTINF:-1 tvg-id="sixx" tvg-name="Sixx" tvg-logo="https://kovi.ml/data/picons/sixx-hd.png" group-title="Standard" tvg-shift="-1",Sixx
 plugin://plugin.video.vavooto/?name=SIXX
 #EXTINF:-1 tvg-id="Sky Action" tvg-name="Sky Action" tvg-logo="https://kovi.ml/data/picons/sky-cinema-action.png" group-title="Standard" tvg-shift="-1",Sky Action
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
@@ -151,7 +151,7 @@ plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
 plugin://plugin.video.vavooto/?name=SPIEGEL+TV+WISSEN
 #EXTINF:-1 tvg-id="SpiegelTV" tvg-name="Spiegel TV Wissen" tvg-logo="https://kovi.ml/data/picons/spiegel-tv-wissen.png" group-title="Standard" tvg-shift="-1",Spiegel TV Wissen
 plugin://plugin.video.vavooto/?name=SPIEGEL+WISSEN
-#EXTINF:-1 tvg-id="SWR" tvg-name="SWR" tvg-logo="https://kovi.ml/data/picons/swr-hd.png" group-title="Standard" tvg-shift="-1",SWR
+#EXTINF:-1 tvg-id="SWR/SR" tvg-name="SWR" tvg-logo="https://kovi.ml/data/picons/swr-hd.png" group-title="Standard" tvg-shift="-1",SWR
 plugin://plugin.video.vavooto/?name=SWR
 #EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="https://kovi.ml/data/picons/syfy-hd.png" group-title="Standard" tvg-shift="-1",Syfy
 plugin://plugin.video.taptv/play/407/play.pvr
@@ -159,7 +159,7 @@ plugin://plugin.video.taptv/play/407/play.pvr
 plugin://plugin.video.vavooto/?name=SYFY
 #EXTINF:-1 tvg-id="tagesschau24" tvg-name="Tagesschau 24" tvg-logo="https://kovi.ml/data/picons/tagesschau24.png" group-title="Standard" tvg-shift="-1",Tagesschau 24
 plugin://plugin.video.vavooto/?name=TAGESSCHAU 24
-#EXTINF:-1 tvg-id="Tele5" tvg-name="Tele 5" tvg-logo="https://kovi.ml/data/picons/tele5.png" group-title="Standard" tvg-shift="-1",Tele 5
+#EXTINF:-1 tvg-id="Tele 5" tvg-name="Tele 5" tvg-logo="https://kovi.ml/data/picons/tele5.png" group-title="Standard" tvg-shift="-1",Tele 5
 plugin://plugin.video.vavooto/?name=TELE+5
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://kovi.ml/data/picons/tlc-hd.png" group-title="Standard" tvg-shift="-1",TLC
 plugin://plugin.video.vavooto/?name=TLC
@@ -187,13 +187,13 @@ plugin://plugin.video.vavooto/?name=WELT+DER+WUNDER
 plugin://plugin.video.vavooto/?name=ZDF
 #EXTINF:-1 tvg-id="ZDFinfo" tvg-name="ZDF Info" tvg-logo="https://kovi.ml/data/picons/zdf-info-hd.png" group-title="Standard" tvg-shift="-1",ZDF Info
 plugin://plugin.video.vavooto/?name=ZDF INFO
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDF Neo" tvg-logo="https://kovi.ml/data/picons/zdf-neo.png" group-title="Standard" tvg-shift="-1",ZDF Neo
+#EXTINF:-1 tvg-id="ZDFneo" tvg-name="ZDF Neo" tvg-logo="https://kovi.ml/data/picons/zdf-neo.png" group-title="Standard" tvg-shift="-1",ZDF Neo
 plugin://plugin.video.vavooto/?name=ZDF NEO
 #EXTINF:-1 tvg-id="Sky Cinema Special" tvg-name="Sky Cinema Special" tvg-logo="" group-title="Film" tvg-shift="-1",Sky Cinema Special
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+SPECIAL
 #EXTINF:-1 tvg-id="Sky Replay" tvg-name="Sky Replay" tvg-logo="https://kovi.ml/data/picons/sky-replay-hd.png" group-title="Film" tvg-shift="-1",Sky Replay
 plugin://plugin.video.vavooto/?name=SKY+REPLAY
-#EXTINF:-1 tvg-id="Sky Serien & Shows" tvg-name="Sky Serien & Shows" tvg-logo="https://kovi.ml/data/picons/sky-serien+shows.png" group-title="Film" tvg-shift="-1",Sky Serien & Shows
+#EXTINF:-1 tvg-id="Sky Showcase" tvg-name="Sky Serien & Shows" tvg-logo="https://kovi.ml/data/picons/sky-serien+shows.png" group-title="Film" tvg-shift="-1",Sky Serien & Shows
 plugin://plugin.video.vavooto/?name=SKY+SERIEN+%26+SHOWS&quot
 #EXTINF:-1 tvg-id="Sky Select 1" tvg-name="Sky Select 1" tvg-logo="https://kovi.ml/data/picons/sky-select-1.png" group-title="Film" tvg-shift="-1",Sky Select 1
 plugin://plugin.video.vavooto/?name=SKY+SELECT+1
@@ -513,7 +513,7 @@ plugin://plugin.video.vavooto/?name=MOTORVISION
 plugin://plugin.video.vavooto/?name=NTV
 #EXTINF:-1 tvg-id="N24 Doku" tvg-name="N24 Doku" tvg-logo="http://kovi.ml/data/picons/n24-doku.png" group-title="Standart" tvg-shift="-1",N24 Doku
 plugin://plugin.video.vavooto/?name=N24
-#EXTINF:-1 tvg-id="NDR Fernsehen" tvg-name="NDR" tvg-logo="http://kovi.ml/data/picons/ndr.png" group-title="Standart" tvg-shift="-1",NDR
+#EXTINF:-1 tvg-id="NDR" tvg-name="NDR" tvg-logo="http://kovi.ml/data/picons/ndr.png" group-title="Standart" tvg-shift="-1",NDR
 plugin://plugin.video.vavooto/?name=NDR
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="Nat Geo Wild" tvg-logo="http://kovi.ml/data/picons/n24-doku.png" group-title="Standart" tvg-shift="-1",Nat Geo Wild
 plugin://plugin.video.vavooto/?name=NAT+GEO+WILD
