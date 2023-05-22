@@ -217,7 +217,7 @@ plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+5
 plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+8
 #EXTINF:-1 tvg-id="Silverline" tvg-name="Silverline" tvg-logo="http://kovi.ml/data/picons/silverline.png" group-title="Film" tvg-shift="-1",Silverline
 plugin://plugin.video.vavooto/?name=SILVERLINE
-#EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="Sky Atlantic HD" tvg-logo="http://kovi.ml/data/picons/sky-atlantic.png" group-title="Film" tvg-shift="-1",Sky Atlantic
+#EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="Sky Atlantic HD" tvg-logo="http://kovi.ml/data/picons/sky-atlantic.png" group-title="Film" tvg-shift="-1",Sky Atlantic HD
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
 #EXTINF:-1 tvg-id="Sky Action" tvg-name="Sky Cinema Action" tvg-logo="http://kovi.ml/data/picons/sky-cinema-action.png" group-title="Film" tvg-shift="-1",Sky Cinema Action
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
@@ -231,7 +231,7 @@ plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+FUN
 #EXTINF:-1 tvg-id="Sky Cinema Premieren" tvg-name="Sky Cinema Premieren" tvg-logo="http://kovi.ml/data/picons/sky-cinema-premieren.png" group-title="Film" tvg-shift="-1",Sky Cinema Premieren
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
-#EXTINF:-1 tvg-id="Sky Cinema Special HD " tvg-name="Sky Cinema Special" tvg-logo="https://kovi.ml/data/picons/sky-cinema-spezial-hd.png" group-title="Film" tvg-shift="-1",Sky Cinema Special
+#EXTINF:-1 tvg-id="Sky Cinema Special HD" tvg-name="Sky Cinema Special HD" tvg-logo="https://kovi.ml/data/picons/sky-cinema-spezial-hd.png" group-title="Film" tvg-shift="-1",Sky Cinema Special
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+SPECIAL
 #EXTINF:-1 tvg-id="Sky Cinema Thriller" tvg-name="Sky Cinema Thriller" tvg-logo="http://kovi.ml/data/picons/sky-cinema-thriller.png" group-title="Film" tvg-shift="-1",Sky Cinema Thriller
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+THRILLER
