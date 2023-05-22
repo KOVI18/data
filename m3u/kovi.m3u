@@ -23,7 +23,7 @@ plugin://plugin.video.vavooto/?name=ATV+2
 plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://kovi.ml/data/picons/axn.png" group-title="Standard" tvg-shift="-1",AXN
 plugin://plugin.video.vavooto/?name=AXN
-#EXTINF:-1 tvg-id="BILD TV" tvg-name="Bild TV" tvg-logo="https://kovi.ml/data/picons/bild-tv.png" group-title="Standard" tvg-shift="-1",Bild TV
+#EXTINF:-1 tvg-id="BILD TV" tvg-name="BILD TV" tvg-logo="https://kovi.ml/data/picons/bild-tv.png" group-title="Standard" tvg-shift="-1",Bild TV
 plugin://plugin.video.vavooto/?name=BILD+TV
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://kovi.ml/data/picons/boomerang.png" group-title="Standard" tvg-shift="-1",Boomerang
 plugin://plugin.video.vavooto/?name=BOOMERANG
