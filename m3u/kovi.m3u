@@ -603,8 +603,6 @@ plugin://plugin.video.vavooto/?name=MTV
 plugin://plugin.video.vavooto/?name=JUKEBOX
 #EXTINF:-1 tvg-id="Romance TV" tvg-name="Romance" tvg-logo="http://kovi.ml/data/picons/romance-tv.png" group-title="Standart" tvg-shift="-1",Romance
 plugin://plugin.video.vavooto/?name=ROMANCE+TV
-#EXTINF:-1 tvg-id="Gotv" tvg-name="Go TV" tvg-logo="http://kovi.ml/data/picons/gotv.png" group-title="Standart" tvg-shift="-1",Go TV
-plugin://plugin.video.vavooto/?name=GO+TV
 #EXTINF:-1 tvg-id="Heimatkanal" tvg-name="Heimatkanal" tvg-logo="http://kovi.ml/data/picons/heimat-kanal.png" group-title="Standart" tvg-shift="-1",Heimatkanal
 plugin://plugin.video.vavooto/?name=HEIMATKANAL
 #EXTINF:-1 tvg-id="ServusTV" tvg-name="Servus TV" tvg-logo="http://kovi.ml/data/picons/servus-tv.png" group-title="Standart" tvg-shift="-1",Servus TV
@@ -619,7 +617,7 @@ plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
 plugin://plugin.video.vavooto/?name=SPIEGEL+WISSEN
 #EXTINF:-1 tvg-id="Waidwerk" tvg-name="Waidwerk" tvg-logo="http://kovi.ml/data/picons/waidwerk.png" group-title="Standart" tvg-shift="-1",Waidwerk
 plugin://plugin.video.vavooto/?name=WAIDWERK
-#EXTINF:-1 tvg-id="Welt der Wunder TV" tvg-name="Welt der Wunder" tvg-logo="http://kovi.ml/data/picons/welt-der-wunder.png" group-title="Standart" tvg-shift="-1",Welt der Wunder
+#EXTINF:-1 tvg-id="Welt der Wunder TV" tvg-name="Welt der Wunder TV" tvg-logo="http://kovi.ml/data/picons/welt-der-wunder.png" group-title="Standart" tvg-shift="-1",Welt der Wunder
 plugin://plugin.video.vavooto/?name=WELT+DER+Wunder
 #EXTINF:-1 tvg-id="TOGGO plus" tvg-name="Toggo Plus " tvg-logo="http://kovi.ml/data/picons/toggo-plus.png" group-title="Standart" tvg-shift="-1",Toggo Plus 
 plugin://plugin.video.vavooto/?name=TOGGO+PLUS
@@ -633,5 +631,5 @@ plugin://plugin.video.vavooto/?name=KIKA
 plugin://plugin.video.vavooto/?name=CARTOON+NETWORK
 #EXTINF:-1 tvg-id="Nicktoons" tvg-name="nicktoons" tvg-logo="http://kovi.ml/data/picons/nickelodeon.png" group-title="Standart" tvg-shift="-1",nicktoons
 plugin://plugin.video.vavooto/?name=NICKTOONS
-#EXTINF:-1 tvg-id="Fix und Foxi" tvg-name="Fix und Foxi" tvg-logo="http://kovi.ml/data/picons/fix+foxi.png" group-title="Standart" tvg-shift="-1",Fix und Foxi
+#EXTINF:-1 tvg-id="Fix &amp; Foxi" tvg-name="Fix &amp; Foxi" tvg-logo="http://kovi.ml/data/picons/fix+foxi.png" group-title="Standart" tvg-shift="-1",Fix und Foxi
 plugin://plugin.video.vavooto/?name=FIX+%26+FOXI
