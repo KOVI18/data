@@ -1,815 +1,637 @@
-#EXTM3U 
-#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="13th Street" tvg-logo="http://logo.watchhd.cc/logo/13thstreethdv2.png" group-title="Standard",13th Street
+#EXTM3U url-tvg="https://github.com/michaz1988/epgguide/raw/master/guide.xml.gz"
+#EXTINF:-1 tvg-id="13th Street Universal" tvg-name="13th Street" tvg-logo="https://kovi.ml/data/picons/13thstreethdv2.png" group-title="Standard" tvg-shift="-1",13th Street
 plugin://plugin.video.vavooto/?name=13TH+STREET
-#EXTINF:-1 tvg-id="3sat" tvg-name="3sat" tvg-logo="http://logo.watchhd.cc/logo/3sat_Logo.png" group-title="Standard",3Sat
+#EXTINF:-1 tvg-id="3sat" tvg-name="3sat" tvg-logo="https://kovi.ml/data/picons/3sat.png" group-title="Standard" tvg-shift="-1",3sat
 plugin://plugin.video.vavooto/?name=3+SAT
-#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://logo.watchhd.cc/logo/a&ehd.png" group-title="Standard",A&E
+#EXTINF:-1 tvg-id="CRIME + INVESTIGATION" tvg-name="A&E" tvg-logo="https://kovi.ml/data/picons/a&ehd.png" group-title="Standard" tvg-shift="-1",A&E
 plugin://plugin.video.vavooto/?name=A%26E
-#EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="Animal Planet" tvg-logo="http://logo.watchhd.cc/logo/animalhd.png" group-title="Standard",Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://kovi.ml/data/picons/animal-planet-hd.png" group-title="Standard" tvg-shift="-1",Animal Planet
 plugin://plugin.video.vavooto/?name=PLANET
-#EXTINF:-1 tvg-id="Anixe.de" tvg-name="Anixe" tvg-logo="http://logo.watchhd.cc/logo/ANIXE_HD.png" group-title="Standard",Anixe
+#EXTINF:-1 tvg-id="ANIXE" tvg-name="Anixe" tvg-logo="https://kovi.ml/data/picons/anixe_hd.png" group-title="Standard" tvg-shift="-1",Anixe
 plugin://plugin.video.vavooto/?name=ANIXE
-#EXTINF:-1 tvg-id="ANIXESerie(src01).de" tvg-name="Anixe Serie" tvg-logo="http://logo.watchhd.cc/logo/ANIXE_HD.png" group-title="Standard",Anixe Serie
+#EXTINF:-1 tvg-id="ANIXE" tvg-name="Anixe Serie" tvg-logo="https://kovi.ml/data/picons/anixe-serie-hd.png" group-title="Standard" tvg-shift="-1",Anixe Serie
 plugin://plugin.video.vavooto/?name=ANIXE+SERIE
-#EXTINF:-1 tvg-id="DasErste.de" tvg-name="ARD" tvg-logo="http://logo.watchhd.cc/logo/ard.png" group-title="Standard",ARD
-plugin://plugin.video.vavooto/?name=ARD
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="ARD Alpha" tvg-logo="http://logo.watchhd.cc/logo/ard-alpha.png" group-title="Standard",ARD Alpha
+#EXTINF:-1 tvg-id="ARD alpha" tvg-name="ARD Alpha" tvg-logo="https://kovi.ml/data/picons/ard-alpha.png" group-title="Standard" tvg-shift="-1",ARD Alpha
 plugin://plugin.video.vavooto/?name=ARD+ALPHA
-#EXTINF:-1 tvg-id="ARTE.de" tvg-name="Arte" tvg-logo="http://logo.watchhd.cc/logo/Arte_HD_2.png" group-title="Standard",Arte
+#EXTINF:-1 tvg-id="ARTE" tvg-name="Arte" tvg-logo="https://kovi.ml/data/picons/arte-hd.png" group-title="Standard" tvg-shift="-1",Arte
 plugin://plugin.video.vavooto/?name=ARTE
-#EXTINF:-1 tvg-id="ATV.de" tvg-name="ATV 1" tvg-logo="http://logo.watchhd.cc/logo/atv1hd.png" group-title="Standard",ATV 1
-plugin://plugin.video.vavooto/?name=ATV+1
-#EXTINF:-1 tvg-id="ATV2.at" tvg-name="ATV 2" tvg-logo="http://logo.watchhd.cc/logo/atv_II.png" group-title="Standard",ATV 2
-plugin://plugin.video.vavooto/?name=ATV+2
-#EXTINF:-1 tvg-id="AutoMotorSport.de" tvg-name="Auto Motor Sport" tvg-logo="http://logo.watchhd.cc/logo/auto_motor_sport.png" group-title="Standard",Auto Motor Sport
-plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
-#EXTINF:-1 tvg-id="AXN.de" tvg-name="AXN" tvg-logo="http://logo.watchhd.cc/logo/axn.png" group-title="Standard",AXN
-plugin://plugin.video.vavooto/?name=AXN
-#EXTINF:-1 tvg-id="BildTV.de" tvg-name="Bild TV" tvg-logo="http://logo.watchhd.cc/logo/bild_tv.png.8448c651e8b9f95c38bf58f446d7b2d5.png" group-title="Standard",Bild TV
-plugin://plugin.video.vavooto/?name=BILD+TV
-#EXTINF:-1 tvg-id="Boomerang.de" tvg-name="Boomerang" tvg-logo="http://logo.watchhd.cc/logo/Boomerang.png" group-title="Standard",Boomerang
-plugin://plugin.video.vavooto/?name=BOOMERANG
-#EXTINF:-1 tvg-id="BRFernsehenNord.de" tvg-name="BR" tvg-logo="http://logo.watchhd.cc/logo/br.png" group-title="Standard",BR
-plugin://plugin.video.vavooto/?name=BR
-#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-name="Cartoon Network" tvg-logo="http://logo.watchhd.cc/logo/Cartoon_Network.png" group-title="Standard",Cartoon Network
-plugin://plugin.video.vavooto/?name=CARTOON+NETWORK
-#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central" tvg-logo="http://logo.watchhd.cc/logo/Comedy_Central_HD.png" group-title="Standard",Comedy Central
-plugin://plugin.video.vavooto/?name=VIVA
-#EXTINF:-1 tvg-id="DasErste.de" tvg-name="Das Erste" tvg-logo="http://logo.watchhd.cc/logo/ard.png" group-title="Standard",Das Erste
-plugin://plugin.video.vavooto/?name=DAS+ERSTE
-#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste+" tvg-logo="http://logo.watchhd.cc/logo/ardhd.png" group-title="Standard",Das Erste+
-plugin://plugin.video.vavooto/?name=ARD+DAS+ERSTE
-#EXTINF:-1 tvg-id="DELUXE MUSIC" tvg-name="Deluxe Music" tvg-logo="http://logo.watchhd.cc/logo/deluxemusic.png" group-title="Standard",Deluxe Music
-plugin://plugin.video.vavooto/?name=DELUXE+MUSIC
-#EXTINF:-1 tvg-id="DELUXEMUSIC(src01).de" tvg-name="Deluxe Music" tvg-logo="http://logo.watchhd.cc/logo/deluxemusic.png" group-title="Standard",Deluxe Music
-plugin://plugin.video.vavooto/?name=DELUXE+MUSIC
-#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="Discovery Channel" tvg-logo="http://logo.watchhd.cc/logo/discoveryhdv2.png" group-title="Standard",Discovery Channel
-plugin://plugin.video.vavooto/?name=DISCOVERY
-#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney Channel" tvg-logo="http://logo.watchhd.cc/logo/disneyhd.png" group-title="Standard",Disney Channel
-plugin://plugin.video.vavooto/?name=DISNEY+CHANNEL
-#EXTINF:-1 tvg-id="DMax.de" tvg-name="DMAX" tvg-logo="http://logo.watchhd.cc/logo/dmaxhd.png" group-title="Standard",DMAX
-plugin://plugin.video.vavooto/?name=DMAX
-#EXTINF:-1 tvg-id="EEntertainment(English).de" tvg-name="E! Entertainment" tvg-logo="http://logo.watchhd.cc/logo/e!.png" group-title="Standard",E! Entertainment
-plugin://plugin.video.vavooto/?name=E%21+ENTERTAINMENT
-#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="Eurosport 2" tvg-logo="http://logo.watchhd.cc/logo/eurosport2hdv2.png" group-title="Standard",Eurosport 2
-plugin://plugin.video.vavooto/?name=EUROSPORT+2
-#EXTINF:-1 tvg-id="GEO(src01).de" tvg-name="Geo" tvg-logo="http://logo.watchhd.cc/logo/GEO_HD.png" group-title="Standard",Geo
-plugin://plugin.video.vavooto/?name=GEO+TV
-#EXTINF:-1 tvg-id="go.tv" tvg-name="Go TV" tvg-logo="http://epggw.a1.net/img/station/darkbg/200x200/1050.png" group-title="Standard",Go TV
-plugin://plugin.video.vavooto/?name=GOTV
-#EXTINF:-1 tvg-id="Heimatkanal.de" tvg-name="Heimatkanal" tvg-logo="http://logo.watchhd.cc/logo/heimatkanal.png" group-title="Standard",Heimatkanal
-plugin://plugin.video.vavooto/?name=HEIMATKANAL
-#EXTINF:-1 tvg-id="History.de" tvg-name="History" tvg-logo="http://logo.watchhd.cc/logo/historyhdv2.png" group-title="Standard",History
-plugin://plugin.video.vavooto/?name=HISTORY
-#EXTINF:-1 tvg-id="HRFernsehen.de" tvg-name="HR" tvg-logo="http://logo.watchhd.cc/logo/hr.png" group-title="Standard",HR
-plugin://plugin.video.vavooto/?name=HR+FERNSEHEN
-#EXTINF:-1 tvg-id="Jukebox.de" tvg-name="Jukebox" tvg-logo="https://kovi.ml/data/png/jukebox.png" group-title="Standard",Jukebox
-plugin://plugin.video.vavooto/?name=JUKEBOX
-#EXTINF:-1 tvg-id="NickJunior(English).de" tvg-name="Junior" tvg-logo="http://logo.watchhd.cc/logo/nick_jr.png" group-title="Standard",Junior
-plugin://plugin.video.vavooto/?name=JUNIOR
-#EXTINF:-1 tvg-id="KabelEins.de" tvg-name="Kabel 1" tvg-logo="http://logo.watchhd.cc/logo/kabel1hd.png" group-title="Standard",Kabel 1
-plugin://plugin.video.vavooto/?name=KABEL+1
-#EXTINF:-1 tvg-id="kabeleinsclassics.de" tvg-name="Kabel 1 Classics" tvg-logo="http://logo.watchhd.cc/logo/kabel1classic.png" group-title="Standard",Kabel 1 Classics
-plugin://plugin.video.vavooto/?name=KABEL+1+CLASSICS
-#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="Kabel 1 Doku" tvg-logo="http://logo.watchhd.cc/logo/kabel1doku.png" group-title="Standard",Kabel 1 Doku
-plugin://plugin.video.vavooto/?name=KABEL+1+DOKU
-#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA" tvg-logo="http://logo.watchhd.cc/logo/kikahd.png" group-title="Standard",KiKA
-plugin://plugin.video.vavooto/?name=KIKA
-#EXTINF:-1 tvg-id="Kinowelt.de" tvg-name="Kinowelt" tvg-logo="http://logo.watchhd.cc/logo/kinowelt.png" group-title="Standard",Kinowelt
-plugin://plugin.video.vavooto/?name=WELT
-#EXTINF:-1 tvg-id="MDRSachsenAnhalt.de" tvg-name="MDR" tvg-logo="http://logo.watchhd.cc/logo/mdr_hd.png" group-title="Standard",MDR
-plugin://plugin.video.vavooto/?name=MDR
-#EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-name="Motorvision" tvg-logo="http://logo.watchhd.cc/logo/motorvision.png" group-title="Standard",Motorvision
-plugin://plugin.video.vavooto/?name=MOTORVISION
-#EXTINF:-1 tvg-id="MTV.de" tvg-name="MTV" tvg-logo="http://logo.watchhd.cc/logo/mtv.png" group-title="Standard",MTV
-plugin://plugin.video.vavooto/?name=MTV
-#EXTINF:-1 tvg-id="ntv.de" tvg-name="N-TV" tvg-logo="http://logo.watchhd.cc/logo/ntvhd.png" group-title="Standard",N-TV
-plugin://plugin.video.vavooto/?name=NTV
-#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24 Doku" tvg-logo="http://logo.watchhd.cc/logo/n24_doku.png" group-title="Standard",N24 Doku
-plugin://plugin.video.vavooto/?name=N24+DOKU
-#EXTINF:-1 tvg-id="NatGeoWild(src01).de" tvg-name="Nat Geo Wild" tvg-logo="http://logo.watchhd.cc/logo/natgeowildhdv2.png" group-title="Standard",Nat Geo Wild
-plugin://plugin.video.vavooto/?name=NAT+GEO+WILD
-#EXTINF:-1 tvg-id="NatGeographic(src01).de" tvg-name="National Geographic" tvg-logo="http://logo.watchhd.cc/logo/natgeohdv2.png" group-title="Standard",National Geographic
-plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
-#EXTINF:-1 tvg-id="NDRFernsehenNDS.de" tvg-name="NDR" tvg-logo="http://logo.watchhd.cc/logo/ndrhd.png" group-title="Standard",NDR
-plugin://plugin.video.vavooto/?name=NDR
-#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon" tvg-logo="http://logo.watchhd.cc/logo/nick.png" group-title="Standard",Nickelodeon
-plugin://plugin.video.vavooto/?name=NICKELODEON
-#EXTINF:-1 tvg-id="One.de" tvg-name="One" tvg-logo="http://logo.watchhd.cc/logo/ard_one.png" group-title="Standard",One
-plugin://plugin.video.vavooto/?name=ONE
-#EXTINF:-1 tvg-id="phoenix.de" tvg-name="Phoenix" tvg-logo="http://logo.watchhd.cc/logo/phoenixhd.png" group-title="Standard",Phoenix
-plugin://plugin.video.vavooto/?name=PHOENIX
-#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-logo="http://logo.watchhd.cc/logo/prosiebenhd.png" group-title="Standard",ProSieben
-plugin://plugin.video.vavooto/?name=PRO+7
-#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="ProSieben Fun" tvg-logo="http://logo.watchhd.cc/logo/funhd.png" group-title="Standard",ProSieben Fun
-plugin://plugin.video.vavooto/?name=PRO+7+FUN
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben MAXX" tvg-logo="http://logo.watchhd.cc/logo/7maxx.png" group-title="Standard",ProSieben MAXX
-plugin://plugin.video.vavooto/?name=PRO+7+MAXX
-#EXTINF:-1 tvg-id="rbbBerlin(src01).de" tvg-name="RBB" tvg-logo="http://logo.watchhd.cc/logo/rbbhd.png" group-title="Standard",RBB
-plugin://plugin.video.vavooto/?name=RBB
-#EXTINF:-1 tvg-id="RiC(src01).de" tvg-name="RiC" tvg-logo="http://logo.watchhd.cc/logo/ric.png" group-title="Standard",RiC
-plugin://plugin.video.vavooto/?name=RIC
-#EXTINF:-1 tvg-id="RomanceTV.de" tvg-name="Romance" tvg-logo="http://logo.watchhd.cc/logo/romancehd.png" group-title="Standard",Romance
-plugin://plugin.video.vavooto/?name=ROMANCE+TV
-#EXTINF:-1 tvg-id="RTLup.de" tvg-name="RTL Up" tvg-logo="http://logo.watchhd.cc/logo/rtlplus.png" group-title="Standard",RTL Up
-plugin://plugin.video.vavooto/?name=RTL+UP
-#EXTINF:-1 tvg-id="Sat1.de" tvg-name="Sat.1" tvg-logo="http://logo.watchhd.cc/logo/sat1hd.png" group-title="Standard",Sat.1
-plugin://plugin.video.vavooto/?name=SAT+1
-#EXTINF:-1 tvg-id="Sat1emotions.de" tvg-name="Sat.1 Emotions" tvg-logo="http://logo.watchhd.cc/logo/sat1_emotions.png" group-title="Standard",Sat.1 Emotions
-plugin://plugin.video.vavooto/?name=SAT+1+EMOTIONS
-#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="Sat.1 Gold" tvg-logo="http://logo.watchhd.cc/logo/sat1gold.png" group-title="Standard",Sat.1 Gold
-plugin://plugin.video.vavooto/?name=SAT+1+GOLD
-#EXTINF:-1 tvg-id="Silverline.de" tvg-name="Silverline" tvg-logo="http://logo.watchhd.cc/logo/silverline1.png" group-title="Standard",Silverline
-plugin://plugin.video.vavooto/?name=SILVERLINE
-#EXTINF:-1 tvg-id="Sixx.de" tvg-name="Sixx" tvg-logo="http://logo.watchhd.cc/logo/sixxhd.png" group-title="Standard",Sixx
-plugin://plugin.video.vavooto/?name=SIXX
-#EXTINF:-1 tvg-id="SkyCinemaAction.de" tvg-name="Sky Action" tvg-logo="http://logo.watchhd.cc/logo/uk-sky_cinema_action.png" group-title="Standard",Sky Action
-plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
-#EXTINF:-1 tvg-id="SkyAtlantic.de" tvg-name="Sky Atlantic" tvg-logo="http://logo.watchhd.cc/logo/uk-sky_atlantic.png" group-title="Standard",Sky Atlantic
-plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
-#EXTINF:-1 tvg-id="SkyBundesliga.de" tvg-name="Sky Bundesliga 1 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_1.png" group-title="Standard",Sky Bundesliga 1 (1080p)
-plugin://plugin.video.vavooto/?name=DB+LIGA+1
-#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="Sky Bundesliga 4 (720p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_4.png" group-title="Standard",Sky Bundesliga 4 (720p)
-plugin://plugin.video.vavooto/?name=DB+LIGA+4
-#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="Sky Bundesliga 5 (720p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_5.png" group-title="Standard",Sky Bundesliga 5 (720p)
-plugin://plugin.video.vavooto/?name=DB+LIGA+5
-#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="Sky Bundesliga 6 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_6.png" group-title="Standard",Sky Bundesliga 6 (1080p)
-plugin://plugin.video.vavooto/?name=DB+LIGA+6
-#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="Sky Bundesliga 7 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_7.png" group-title="Standard",Sky Bundesliga 7 (1080p)
-plugin://plugin.video.vavooto/?name=DB+LIGA+7
-#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="Sky Bundesliga 8 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_8.png" group-title="Standard",Sky Bundesliga 8 (1080p)
-plugin://plugin.video.vavooto/?name=DB+LIGA+8
-#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="Sky Bundesliga 9 (720p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_9.png" group-title="Standard",Sky Bundesliga 9 (720p)
-plugin://plugin.video.vavooto/?name=DB+LIGA+9
-#EXTINF:-1 tvg-id="SkyCinemaBestOf.de" tvg-name="Sky Cinema Best of" tvg-logo="https://kovi.ml/data/png/bestof.png" group-title="Standard",Sky Cinema Best of
-plugin://plugin.video.vavooto/?name=SKY+CINEMA+BEST+OF
-#EXTINF:-1 tvg-id="SkyCinemaClassics.de" tvg-name="Sky Cinema Classics" tvg-logo="https://kovi.ml/data/png/classics.png" group-title="Standard",Sky Cinema Classics
-plugin://plugin.video.vavooto/?name=SKY+CINEMA+CLASSICS
-#EXTINF:-1 tvg-id="SkyCinemaFamily.de" tvg-name="Sky Cinema Family" tvg-logo="http://logo.watchhd.cc/logo/familyhdv2.png" group-title="Standard",Sky Cinema Family
-plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
-#EXTINF:-1 tvg-id="SkyCinemaFun.de" tvg-name="Sky Cinema Fun" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_fun.png" group-title="Standard",Sky Cinema Fun
-plugin://plugin.video.vavooto/?name=SKY+CINEMA+FUN
-#EXTINF:-1 tvg-id="SkyCinemaPremieren.de" tvg-name="Sky Cinema Premieren" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_premieren.png" group-title="Standard",Sky Cinema Premieren
-plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
-#EXTINF:-1 tvg-id="SkyCinemaThriller.de" tvg-name="Sky Cinema Thriller" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_thriller.png" group-title="Standard",Sky Cinema Thriller
-plugin://plugin.video.vavooto/?name=SKY+CINEMA+THRILLER
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Comedy" tvg-logo="http://logo.watchhd.cc/logo/sky_cinema_comedy.png" group-title="Standard",Sky Comedy
-plugin://plugin.video.lntv/play/1017/play.pvr
-#EXTINF:-1 tvg-id="SkyComedy.de" tvg-name="Sky Comedy" tvg-logo="http://logo.watchhd.cc/logo/comedyhdv2.png" group-title="Standard",Sky Comedy
-plugin://plugin.video.vavooto/?name=SKY+COMEDY
-#EXTINF:-1 tvg-id="SkyCrime.de" tvg-name="Sky Crime" tvg-logo="http://logo.watchhd.cc/logo/sky_crime.png" group-title="Standard",Sky Crime
-plugin://plugin.video.vavooto/?name=SKY+Crime
-#EXTINF:-1 tvg-id="SkyKrimi.de" tvg-name="Sky Krimi" tvg-logo="http://logo.watchhd.cc/logo/skykrimi.png" group-title="Standard",Sky Krimi
-plugin://plugin.video.vavooto/?name=SKY+KRIMI
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky One" tvg-logo="http://logo.watchhd.cc/logo/sky1hdv2.png" group-title="Standard",Sky One
-plugin://plugin.video.taptv/play/597/play.pvr
-#EXTINF:-1 tvg-id="Sky1(src01).de" tvg-name="Sky One" tvg-logo="http://logo.watchhd.cc/logo/sky1.png" group-title="Standard",Sky One
-plugin://plugin.video.vavooto/?name=SKY+1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Select 1" tvg-logo="http://logo.watchhd.cc/logo/select1.png" group-title="Standard",Sky Select 1
-plugin://plugin.video.lntv/play/1505/play.pvr
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Select 3" tvg-logo="http://logo.watchhd.cc/logo/select3.png" group-title="Standard",Sky Select 3
-plugin://plugin.video.lntv/play/1507/play.pvr
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Select 4" tvg-logo="http://logo.watchhd.cc/logo/select4.png" group-title="Standard",Sky Select 4
-plugin://plugin.video.lntv/play/1508/play.pvr
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Select 5" tvg-logo="http://logo.watchhd.cc/logo/select5.png" group-title="Standard",Sky Select 5
-plugin://plugin.video.lntv/play/1509/play.pvr
-#EXTINF:-1 tvg-id="SonyChannel.de" tvg-name="Sony Channel" tvg-logo="http://logo.watchhd.cc/logo/Sony_Channel_SW.png" group-title="Standard",Sony Channel
-plugin://plugin.video.vavooto/?name=SONY+TV
-#EXTINF:-1 tvg-id="SpiegelGeschichte.de" tvg-name="Spiegel Geschichte" tvg-logo="http://logo.watchhd.cc/logo/sony_axn.png" group-title="Standard",Spiegel Geschichte
-plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
-#EXTINF:-1 tvg-id="SpiegelTV.de" tvg-name="Spiegel TV Wissen" tvg-logo="" group-title="Standard",Spiegel TV Wissen
-plugin://plugin.video.vavooto/?name=SPIEGEL+TV+WISSEN
-#EXTINF:-1 tvg-id="SpiegeltV.de" tvg-name="Spiegel TV Wissen" tvg-logo="http://logo.watchhd.cc/logo/Spiegel_TV_Wissen.png" group-title="Standard",Spiegel TV Wissen
-plugin://plugin.video.vavooto/?name=SPIEGEL+WISSEN
-#EXTINF:-1 tvg-id="SWRAktuell.de" tvg-name="SWR" tvg-logo="http://logo.watchhd.cc/logo/swr1hd.png" group-title="Standard",SWR
-plugin://plugin.video.vavooto/?name=SWR
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Syfy" tvg-logo="http://logo.watchhd.cc/logo/syfyhd.png" group-title="Standard",Syfy
-plugin://plugin.video.taptv/play/407/play.pvr
-#EXTINF:-1 tvg-id="Syfy.de" tvg-name="Syfy" tvg-logo="http://logo.watchhd.cc/logo/syfyhd.png" group-title="Standard",Syfy
-plugin://plugin.video.vavooto/?name=SYFY
-#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="Tagesschau 24" tvg-logo="http://logo.watchhd.cc/logo/tagesschau24.png" group-title="Standard",Tagesschau 24
-plugin://plugin.video.vavooto/?name=TAGESSCHAU 24
-#EXTINF:-1 tvg-id="Tele5.de" tvg-name="Tele 5" tvg-logo="http://logo.watchhd.cc/logo/Tele%205.png" group-title="Standard",Tele 5
-plugin://plugin.video.vavooto/?name=TELE+5
-#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC" tvg-logo="http://logo.watchhd.cc/logo/TLC_HD.png" group-title="Standard",TLC
-plugin://plugin.video.vavooto/?name=TLC
-#EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="Universal Channel" tvg-logo="http://logo.watchhd.cc/logo/universalhd.png" group-title="Standard",Universal Channel
-plugin://plugin.video.vavooto/?name=UNIVERSAL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Vox HD" tvg-logo="http://logo.watchhd.cc/logo/voxhd.png" group-title="Standard",Vox HD
-plugin://plugin.video.vavooto/?name=VOX
-#EXTINF:-1 tvg-id="VOXup.de" tvg-name="Vox Up" tvg-logo="http://logo.watchhd.cc/logo/voxup.png" group-title="Standard",Vox Up
-plugin://plugin.video.vavooto/?name=VOX+UP
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Warner TV Film " tvg-logo="http://logo.watchhd.cc/logo/warnerTV_film.png" group-title="Standard",Warner TV Film 
-plugin://plugin.video.taptv/play/656/play.pvr
-#EXTINF:-1 tvg-id="TNT Serie" tvg-name="Warner TV Serie " tvg-logo="http://logo.watchhd.cc/logo/warnerTV_serie.png" group-title="Standard",Warner TV Serie 
-plugin://plugin.video.taptv/play/655/play.pvr
-#EXTINF:-1 tvg-id="TNT Comedy" tvg-name="WarnerTV Comedy" tvg-logo="http://logo.watchhd.cc/logo/warnerTV_comedy.png" group-title="Standard",WarnerTV Comedy
-plugin://plugin.video.vavooto/?name=WARNER TV COMEDY
-#EXTINF:-1 tvg-id="TNT Film" tvg-name="WarnerTV Film" tvg-logo="http://logo.watchhd.cc/logo/warnerTV_film.png" group-title="Standard",WarnerTV Film
-plugin://plugin.video.vavooto/?name=WARNER TV FILM
-#EXTINF:-1 tvg-id="TNT Serie" tvg-name="WarnerTV Serie" tvg-logo="http://logo.watchhd.cc/logo/warnerTV_serie.png" group-title="Standard",WarnerTV Serie
-plugin://plugin.video.vavooto/?name=WARNER TV SERIE
-#EXTINF:-1 tvg-id="WDRFernsehen.de" tvg-name="WDR" tvg-logo="http://logo.watchhd.cc/logo/wdrhd.png" group-title="Standard",WDR
-plugin://plugin.video.vavooto/?name=WDR
-#EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="Welt der Wunder" tvg-logo="http://logo.watchhd.cc/logo/welt_der_wunder.png" group-title="Standard",Welt der Wunder
-plugin://plugin.video.vavooto/?name=WELT+DER+WUNDER
-#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="http://logo.watchhd.cc/logo/zdfhd.png" group-title="Standard",ZDF
-plugin://plugin.video.vavooto/?name=ZDF
-#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDF Info" tvg-logo="http://logo.watchhd.cc/logo/zdfinfohd.png" group-title="Standard",ZDF Info
-plugin://plugin.video.vavooto/?name=ZDF INFO
-#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDF Neo" tvg-logo="http://logo.watchhd.cc/logo/ZDF_NEO_HD.png" group-title="Standard",ZDF Neo
-plugin://plugin.video.vavooto/?name=ZDF NEO
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Kino" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/png/max1.png" group-title="Film",Max Kino
-plugin://plugin.video.vavooto/?name=MAX+KINO
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Kino 2" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/png/max2.png" group-title="Film",Max Kino 2
-plugin://plugin.video.vavooto/?name=MAX+KINO+2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Kino 3" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/png/max3.png" group-title="Film",Max Kino 3
-plugin://plugin.video.vavooto/?name=MAX+KINO+3
-#EXTINF:-1 tvg-id="Sky Star Wars Channel" tvg-name="Sky Star Wars Channel" tvg-logo="https://kovi.ml/data/png/sky-starwars-hd.png" group-title="Film",Sky Star Wars Channel
-plugin://plugin.video.vavooto/?name=STAR+WARS+CHANNEL
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Popcorn Select 1" tvg-logo="https://kovi.ml/data/png/popcorn1.png" group-title="Film",Popcorn Select 1
-plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Popcorn Select 2" tvg-logo="https://kovi.ml/data/png/popcorn2.png" group-title="Film",Popcorn Select 2
-plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Popcorn Select 3" tvg-logo="https://kovi.ml/data/png/popcorn3.png" group-title="Film",Popcorn Select 3
-plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Popcorn Select 4" tvg-logo="https://kovi.ml/data/png/popcorn4.png" group-title="Film",Popcorn Select 4
-plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Popcorn Select 5" tvg-logo="https://kovi.ml/data/png/popcorn5.png" group-title="Film",Popcorn Select 5
-plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Select 1" tvg-logo="http://logo.watchhd.cc/logo/select1.png" group-title="Film",Sky Select 1
-plugin://plugin.video.vavooto/?name=SKY+SELECT+1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Select 2" tvg-logo="http://logo.watchhd.cc/logo/select2.png" group-title="Film",Sky Select 2
-plugin://plugin.video.vavooto/?name=SKY+SELECT+2
-#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DAZN 1 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/DAZN_1.png" group-title="Sport",DAZN 1 (1080p)
-plugin://plugin.video.vavooto/?name=DAZN+SPORT+1
-#EXTINF:-1 tvg-id="DAZN2.de" tvg-name="DAZN 2 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/DAZN_2.png" group-title="Sport",DAZN 2 (1080p)
-1=plugin://plugin.video.vavooto/?name=DAZN+SPORT+2
-#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DAZN 1 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/dazn11.png" group-title="Sport",DAZN 1 (1080p)
-plugin://plugin.video.vavooto/?name=DAZN+1
-#EXTINF:-1 tvg-id="DAZN2.de" tvg-name="DAZN 2 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/dazn2.png" group-title="Sport",DAZN 2 (1080p)
-plugin://plugin.video.vavooto/?name=DAZN+2
-#EXTINF:-1 tvg-id="DAZN3.de" tvg-name="DAZN 3 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_03.png" group-title="Sport",DAZN 3 (1080p)
-plugin://plugin.video.vavooto/?name=DAZN+3
-#EXTINF:-1 tvg-id="DAZN4.de" tvg-name="DAZN 4 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_04.png" group-title="Sport",DAZN 4 (1080p)
-plugin://plugin.video.vavooto/?name=DAZN+4
-#EXTINF:-1 tvg-id="DAZN5.de" tvg-name="DAZN 5 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_05.png" group-title="Sport",DAZN 5 (1080p)
-plugin://plugin.video.vavooto/?name=DAZN+5
-#EXTINF:-1 tvg-id="DAZN7.de" tvg-name="DAZN 7 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_07.png" group-title="Sport",DAZN 7 (1080p)
-plugin://plugin.video.vavooto/?name=DAZN+7
-#EXTINF:-1 tvg-id="DAZN8.de" tvg-name="DAZN 8 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_08.png" group-title="Sport",DAZN 8 (1080p)
-plugin://plugin.video.vavooto/?name=DAZN+8
-#EXTINF:-1 tvg-id="DAZN9.de" tvg-name="DAZN 9 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_09.png" group-title="Sport",DAZN 9 (1080p)
-plugin://plugin.video.vavooto/?name=DAZN+9
-#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DAZN 10 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_10.png" group-title="Sport",DAZN 10 (1080p)
-plugin://plugin.video.vavooto/?name=DAZN+10
-#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DAZN 11 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_11.png" group-title="Sport",DAZN 11 (1080p)
-plugin://plugin.video.vavooto/?name=DAZN+11
-#EXTINF:-1 tvg-id="DAZN12.de" tvg-name="DAZN 12 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_12.png" group-title="Sport",DAZN 12 (1080p)
-plugin://plugin.video.vavooto/?name=DAZN+12
-#EXTINF:-1 tvg-id="DAZN13.de" tvg-name="DAZN 13 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_13.png" group-title="Sport",DAZN 13 (1080p)
-plugin://plugin.video.vavooto/?name=DAZN+13
-#EXTINF:-1 tvg-id="DAZN14.de" tvg-name="DAZN 14 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_14.png" group-title="Sport",DAZN 14 (1080p)
-plugin://plugin.video.vavooto/?name=DAZN+14
-#EXTINF:-1 tvg-id="DAZN11.de" tvg-name="DAZN 15 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_15.png" group-title="Sport",DAZN 15 (1080p)
-plugin://plugin.video.vavooto/?name=DAZN+15
-#EXTINF:-1 tvg-id="DAZN16.de" tvg-name="DAZN 16 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_16.png" group-title="Sport",DAZN 16 (1080p)
-plugin://plugin.video.vavooto/?name=DAZN+16
-#EXTINF:-1 tvg-id="DAZN17.de" tvg-name="DAZN 17 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_17.png" group-title="Sport",DAZN 17 (1080p)
-plugin://plugin.video.vavooto/?name=DAZN+17
-#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/eurosport1hdv2.png" group-title="Sport",Eurosport 1 (1080p)
-plugin://plugin.video.vavooto/?name=EUROSPORT+1
-#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="Eurosport 2 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/eurosport2hdv2.png" group-title="Sport",Eurosport 2 (1080p)
-plugin://plugin.video.vavooto/?name=EUROSPORT+2
-#EXTINF:-1 tvg-id="Eurosport2XTRA.de" tvg-name="Eurosport 2 XTRA (1080p)" tvg-logo="http://logo.watchhd.cc/logo/eurosport2hdv2.png" group-title="Sport",Eurosport 2 XTRA (1080p)
-plugin://plugin.video.vavooto/?name=EUROSPORT+2+XTRA
-#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 XTRA B (1080p)" tvg-logo="http://logo.watchhd.cc/logo/eurosport2hdv2.png" group-title="Sport",Eurosport 2 XTRA B (1080p)
-plugin://plugin.video.vavooto/?name=EUROSPORT+XTRA+2%2B
-#EXTINF:-1 tvg-id="FCBayern.de" tvg-name="FC Bayern TV" tvg-logo="http://logo.watchhd.cc/logo/bayerntv.png" group-title="Sport",FC Bayern TV
-plugin://plugin.video.vavooto/?name=FC+BAYERN
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 1" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_01.png" group-title="Sport",Magenta Fussball 1
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 2" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_02.png" group-title="Sport",Magenta Fussball 2
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 3" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_03.png" group-title="Sport",Magenta Fussball 3
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 4" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_04.png" group-title="Sport",Magenta Fussball 4
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 5" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_05.png" group-title="Sport",Magenta Fussball 5
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 6" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_06.png" group-title="Sport",Magenta Fussball 6
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+6
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 7" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_07.png" group-title="Sport",Magenta Fussball 7
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+7
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 8" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_08.png" group-title="Sport",Magenta Fussball 8
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 9" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_09.png" group-title="Sport",Magenta Fussball 9
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+9
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 10" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_10.png" group-title="Sport",Magenta Fussball 10
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+10
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 11" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_11.png" group-title="Sport",Magenta Fussball 11
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+11
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 12" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_12.png" group-title="Sport",Magenta Fussball 12
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+12
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 13" tvg-logo="http://logo.watchhd.cc/logo/magenta_13.png" group-title="Sport",Magenta Fussball 13
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+13
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 14" tvg-logo="http://logo.watchhd.cc/logo/magenta_14.png" group-title="Sport",Magenta Fussball 14
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+14
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 15" tvg-logo="http://logo.watchhd.cc/logo/magenta_15.png" group-title="Sport",Magenta Fussball 15
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+15
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 16" tvg-logo="http://logo.watchhd.cc/logo/magenta_16.png" group-title="Sport",Magenta Fussball 16
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+16
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 17" tvg-logo="http://logo.watchhd.cc/logo/magenta_17.png" group-title="Sport",Magenta Fussball 17
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+17
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 18" tvg-logo="http://logo.watchhd.cc/logo/magenta_18.png" group-title="Sport",Magenta Fussball 18
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+18
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 19" tvg-logo="http://logo.watchhd.cc/logo/magenta_19.png" group-title="Sport",Magenta Fussball 19
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+19
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 20" tvg-logo="http://logo.watchhd.cc/logo/magenta_20.png" group-title="Sport",Magenta Fussball 20
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+20
-#EXTINF:-1 tvg-id="UHD1(src01).de" tvg-name="Magenta Sport 1" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_1.png" group-title="Sport",Magenta Sport 1
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 2" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_2.png" group-title="Sport",Magenta Sport 2
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 3" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_3.png" group-title="Sport",Magenta Sport 3
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 4" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_4.png" group-title="Sport",Magenta Sport 4
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 5" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_5.png" group-title="Sport",Magenta Sport 5
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 6" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_6.png" group-title="Sport",Magenta Sport 6
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+6
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 7" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_7.png" group-title="Sport",Magenta Sport 7
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+7
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 8" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_8.png" group-title="Sport",Magenta Sport 8
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 9" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_9.png" group-title="Sport",Magenta Sport 9
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+9
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 10" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_10.png" group-title="Sport",Magenta Sport 10
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+10
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 11" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_11.png" group-title="Sport",Magenta Sport 11
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+11
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 12" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_12.png" group-title="Sport",Magenta Sport 12
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+12
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 13" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_13.png" group-title="Sport",Magenta Sport 13
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+13
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 14" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_14.png" group-title="Sport",Magenta Sport 14
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+14
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 15" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_15.png" group-title="Sport",Magenta Sport 15
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+15
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 16" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_16.png" group-title="Sport",Magenta Sport 16
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+16
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 17" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_17.png" group-title="Sport",Magenta Sport 17
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+17
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 18" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_18.png" group-title="Sport",Magenta Sport 18
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+18
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 19" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_19.png" group-title="Sport",Magenta Sport 19
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+19
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 20" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_Programm.png" group-title="Sport",Magenta Sport 20
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+20
-#EXTINF:-1 tvg-id="MyTeamTVEishockey1.de" tvg-name="Magenta Eishockey " tvg-logo="http://logo.watchhd.cc/logo/Telekom_Eishockey.png" group-title="Sport",Magenta Eishockey 
-plugin://plugin.video.vavooto/?name=DEL+SPORT+1
-#EXTINF:-1 tvg-name="Telekom Bundesliga 1" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_01.png" group-title="Sport", Telekom Bundesliga 1
-plugin://plugin.video.vavooto/?name=TELEKOM+BUNDESLIGA+1
-#EXTINF:-1 tvg-name="Telekom Bundesliga 2" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_02.png" group-title="Sport", Telekom Bundesliga 2
-plugin://plugin.video.vavooto/?name=TELEKOM+BUNDESLIGA+2
-#EXTINF:-1 tvg-name="Telekom Bundesliga 3" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_03.png" group-title="Sport", Telekom Bundesliga 3
-plugin://plugin.video.vavooto/?name=TELEKOM+BUNDESLIGA+3
-#EXTINF:-1 tvg-name="Telekom Bundesliga 4" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_04.png" group-title="Sport", Telekom Bundesliga 4
-plugin://plugin.video.vavooto/?name=TELEKOM+BUNDESLIGA+4
-#EXTINF:-1 tvg-name="Telekom Bundesliga 5" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_05.png" group-title="Sport", Telekom Bundesliga 5
-plugin://plugin.video.vavooto/?name=TELEKOM+BUNDESLIGA+5
-#EXTINF:-1 tvg-name="Telekom Bundesliga 6" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_06.png" group-title="Sport", Telekom Bundesliga 6
-plugin://plugin.video.vavooto/?name=TELEKOM+BUNDESLIGA+6
-#EXTINF:-1 tvg-name="Telekom Bundesliga 7" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_07.png" group-title="Sport", Telekom Bundesliga 7
-plugin://plugin.video.vavooto/?name=TELEKOM+BUNDESLIGA+7
-#EXTINF:-1 tvg-id="SkySportBundesliga1.de" tvg-name="Sky Bundesliga 1 (480p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_1HD.png" group-title="Sport",Sky Bundesliga 1 (480p)
-plugin://plugin.video.taptv/play/401/play.pvr
-#EXTINF:-1 tvg-id="SkySportBundesliga2.de" tvg-name="Sky Bundesliga 2 (480p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_2HD.png" group-title="Sport",Sky Bundesliga 2 (480p)
-plugin://plugin.video.taptv/play/431/play.pvr
-#EXTINF:-1 tvg-id="SkySportBundesliga3.de" tvg-name="Sky Bundesliga 3 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_3HD.png" group-title="Sport",Sky Bundesliga 3 (1080p)
-plugin://plugin.video.taptv/play/432/play.pvr
-#EXTINF:-1 tvg-id="SkySportBundesliga4.de" tvg-name="Sky Bundesliga 4 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_4HD.png" group-title="Sport",Sky Bundesliga 4 (1080p)
-plugin://plugin.video.taptv/play/433/play.pvr
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 5 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_5HD.png" group-title="Sport",Sky Bundesliga 5 (1080p)
-plugin://plugin.video.taptv/play/444/play.pvr
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 6 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_6HD.png" group-title="Sport",Sky Bundesliga 6 (1080p)
-plugin://plugin.video.taptv/play/435/play.pvr
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 7 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_7HD.png" group-title="Sport",Sky Bundesliga 7 (1080p)
-plugin://plugin.video.taptv/play/436/play.pvr
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 8 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/SKY_Bundesliga_8HD.png" group-title="Sport",Sky Bundesliga 8 (1080p)
-plugin://plugin.video.taptv/play/437/play.pvr
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport 1" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_1HD.png" group-title="Sport",Sky Sport 1
-plugin://plugin.video.taptv/play/403/play.pvr
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport 2" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_2HD.png" group-title="Sport",Sky Sport 2
-plugin://plugin.video.taptv/play/404/play.pvr
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport 1" tvg-logo="http://logo.watchhd.cc/logo/sport1.png" group-title="Sport",Sport 1
-plugin://plugin.video.taptv/play/405/play.pvr
-#EXTINF:-1 tvg-id="Sport001.de" tvg-name="Sport 1" tvg-logo="http://logo.watchhd.cc/logo/sport1.png" group-title="Sport",Sport 1
-plugin://plugin.video.vavooto/?name=SPORT+1
-#EXTINF:-1 tvg-id="SPORT1plus.de" tvg-name="Sport 1+" tvg-logo="http://logo.watchhd.cc/logo/sport1+hdv2.png" group-title="Sport",Sport 1+
-plugin://plugin.video.vavooto/?name=SPORT+1+PLUS
-#EXTINF:-1 tvg-id="SPORT1+" tvg-name="Sport1+" tvg-logo="http://logo.watchhd.cc/logo/sport1+hdv2.png" group-title="Sport",Sport1+
-plugin://plugin.video.vavooto/?name=SPORT+1%2B
-#EXTINF:-1 tvg-id="sportdigital(src01).de" tvg-name="Sport digital" tvg-logo="http://logo.watchhd.cc/logo/sportdigitalhdv2.png" group-title="Sport",Sport digital
-plugin://plugin.video.vavooto/?name=SPORT+DIGITAL
-#EXTINF:-1 tvg-id="13th Street Universal" tvg-name="13TH Street" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/442.png" group-title="Standart",13TH Street
-plugin://plugin.video.vavooto/?name=13TH+STREET
-#EXTINF:-1 tvg-id="3sat" tvg-name="3 Sat" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1006.png" group-title="Standart",3 Sat
-plugin://plugin.video.vavooto/?name=3+SAT
-#EXTINF:-1 tvg-id="AandE.de" tvg-name="A&E" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/945.png" group-title="Standart",A&E
-plugin://plugin.video.vavooto/?name=A%26E
-#EXTINF:-1 tvg-id="ARD alpha" tvg-name="ARD" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1007.png" group-title="Standart",ARD
-plugin://plugin.video.vavooto/?name=ARD+DAS+ERSTE
-#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/925.png" group-title="Standart",ATV
+#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://kovi.ml/data/picons/atv1-hd.png" group-title="Standard" tvg-shift="-1",ATV
 plugin://plugin.video.vavooto/?name=ATV
-#EXTINF:-1 tvg-id="ATV II" tvg-name="ATV2" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/926.png" group-title="Standart",ATV2
+#EXTINF:-1 tvg-id="ATV II" tvg-name="ATV 2" tvg-logo="https://kovi.ml/data/picons/atv-II.png" group-title="Standard" tvg-shift="-1",ATV 2
 plugin://plugin.video.vavooto/?name=ATV+2
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/539.png" group-title="Standart",AXN
-plugin://plugin.video.vavooto/?name=AXN
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/994.png" group-title="Standart",Animal Planet
-plugin://plugin.video.vavooto/?name=PLANET
-#EXTINF:-1 tvg-id="ANIXE" tvg-name="Anixe" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1008.png" group-title="Standart",Anixe
-plugin://plugin.video.vavooto/?name=ANIXE
-#EXTINF:-1 tvg-id="ARTE" tvg-name="Arte" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1009.png" group-title="Standart",Arte
-plugin://plugin.video.vavooto/?name=ARTE
-#EXTINF:-1 tvg-id="Auto Motor Sport" tvg-name="Auto Motor Sport" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1031.png" group-title="Standart",Auto Motor Sport
+#EXTINF:-1 tvg-id="Auto Motor Sport" tvg-name="Auto Motor Sport" tvg-logo="https://kovi.ml/data/picons/auto-motor-sport.png" group-title="Standard" tvg-shift="-1",Auto Motor Sport
 plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
-#EXTINF:-1 tvg-id="BR" tvg-name="BR" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/959.png" group-title="Standart",BR
-plugin://plugin.video.vavooto/?name=BR
-#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1044.png" group-title="Standart",Boomerang
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://kovi.ml/data/picons/axn.png" group-title="Standard" tvg-shift="-1",AXN
+plugin://plugin.video.vavooto/?name=AXN
+#EXTINF:-1 tvg-id="BILD TV" tvg-name="BILD TV" tvg-logo="https://kovi.ml/data/picons/bild-tv.png" group-title="Standard" tvg-shift="-1",Bild TV
+plugin://plugin.video.vavooto/?name=BILD+TV
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://kovi.ml/data/picons/boomerang.png" group-title="Standard" tvg-shift="-1",Boomerang
 plugin://plugin.video.vavooto/?name=BOOMERANG
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1032.png" group-title="Standart",Cartoon Network
+#EXTINF:-1 tvg-id="BR" tvg-name="BR" tvg-logo="https://kovi.ml/data/picons/br.png" group-title="Standard" tvg-shift="-1",BR
+plugin://plugin.video.vavooto/?name=BR
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://kovi.ml/data/picons/cartoon-network.png" group-title="Standard" tvg-shift="-1",Cartoon Network
 plugin://plugin.video.vavooto/?name=CARTOON+NETWORK
-#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1073.png" group-title="Standart",Comedy Central
-plugin://plugin.video.vavooto/?name=COMEDY+CENTRAL
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/969.png" group-title="Standart",DMAX
-plugin://plugin.video.vavooto/?name=DMAX
-#EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/502.png" group-title="Standart",Discovery
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://kovi.ml/data/picons/comedy-central.png" group-title="Standard" tvg-shift="-1",Comedy Central
+plugin://plugin.video.vavooto/?name=VIVA
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="Das Erste " tvg-logo="https://kovi.ml/data/picons/das-erste.png" group-title="Standard" tvg-shift="-1",Das Erste 
+plugin://plugin.video.vavooto/?name=DAS+ERSTE
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="Das Erste (1080p) (Backup)" tvg-logo="https://kovi.ml/data/picons/das-erste.png" group-title="Standard" tvg-shift="-1",Das Erste (1080p) (Backup)
+plugin://plugin.video.vavooto/?name=ARD+DAS+ERSTE
+#EXTINF:-1 tvg-id="DELUXE MUSIC" tvg-name="Deluxe Music" tvg-logo="https://kovi.ml/data/picons/deluxe-music.png" group-title="Standard" tvg-shift="-1",Deluxe Music
+plugin://plugin.video.vavooto/?name=DELUXE+MUSIC
+#EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery HD" tvg-logo="https://kovi.ml/data/picons/discovery.png" group-title="Standard" tvg-shift="-1",Discovery Channel
 plugin://plugin.video.vavooto/?name=DISCOVERY
-#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1035.png" group-title="Standart",Disney Channel
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://kovi.ml/data/picons/disney-channel.png" group-title="Standard" tvg-shift="-1",Disney Channel
 plugin://plugin.video.vavooto/?name=DISNEY+CHANNEL
-#EXTINF:-1 tvg-id="E! Entertainment" tvg-name="E! ENTERTAINMENT" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/547.png" group-title="Standart",E! ENTERTAINMENT
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://kovi.ml/data/picons/dmax.png" group-title="Standard" tvg-shift="-1",DMAX
+plugin://plugin.video.vavooto/?name=DMAX
+#EXTINF:-1 tvg-id="E!Entertainment" tvg-name="E! Entertainment" tvg-logo="https://kovi.ml/data/picons/e-entertainment.png" group-title="Standard" tvg-shift="-1",E! Entertainment
 plugin://plugin.video.vavooto/?name=E%21+ENTERTAINMENT
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/890.png" group-title="Standart",Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="http://kovi.ml/data/picons/eurosport1-hd.png" group-title="Standard" tvg-shift="-1",Eurosport 1
 plugin://plugin.video.vavooto/?name=EUROSPORT+1
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/450.png" group-title="Standart",Eurosport 2
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://kovi.ml/data/picons/eurosport2-hd.png" group-title="Standard" tvg-shift="-1",Eurosport 2
 plugin://plugin.video.vavooto/?name=EUROSPORT+2
-#EXTINF:-1 tvg-id="Fix &amp; Foxi" tvg-name="Fix und Foxi" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/960.png" group-title="Standart",Fix und Foxi
-plugin://plugin.video.vavooto/?name=FIX+%26+FOXI
-#EXTINF:-1 tvg-id="GEO Television" tvg-name="Geo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_of_GEO_HD.png" group-title="Standart",Geo
+#EXTINF:-1 tvg-id="GEO Television" tvg-name="Geo" tvg-logo="https://kovi.ml/data/picons/geo-hd.png" group-title="Standard" tvg-shift="-1",Geo
 plugin://plugin.video.vavooto/?name=GEO+TV
-#EXTINF:-1 tvg-id="gotv" tvg-name="Go tv" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1050.png" group-title="Standart",Go tv
-plugin://plugin.video.vavooto/?name=GOTV
-#EXTINF:-1 tvg-id="Heimatkanal" tvg-name="Heimatkanal" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/498.png" group-title="Standart",Heimatkanal
+#EXTINF:-1 tvg-id="Heimatkanal" tvg-name="Heimatkanal" tvg-logo="https://kovi.ml/data/picons/heimat-kanal.png" group-title="Standard" tvg-shift="-1",Heimatkanal
 plugin://plugin.video.vavooto/?name=HEIMATKANAL
-#EXTINF:-1 tvg-id="History HD" tvg-name="History" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/542.png" group-title="Standart",History
+#EXTINF:-1 tvg-id="History HD" tvg-name="History HD" tvg-logo="https://kovi.ml/data/picons/history.png" group-title="Standard" tvg-shift="-1",History
 plugin://plugin.video.vavooto/?name=HISTORY
-#EXTINF:-1 tvg-id="HR" tvg-name="HR" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1147.png" group-title="Standart",HR
-plugin://plugin.video.vavooto/?name=HR
-#EXTINF:-1 tvg-id="Jukebox" tvg-name="Jukebox" tvg-logo="http://logo.watchhd.cc/logo/hr.png" group-title="Standart",Jukebox
+#EXTINF:-1 tvg-id="HR" tvg-name="HR" tvg-logo="https://kovi.ml/data/picons/hr.png" group-title="Standard" tvg-shift="-1",HR
+plugin://plugin.video.vavooto/?name=HR+FERNSEHEN
+#EXTINF:-1 tvg-id="Jukebox" tvg-name="Jukebox" tvg-logo="https://kovi.ml/data/picons/jukebox.png" group-title="Standard" tvg-shift="-1",Jukebox
 plugin://plugin.video.vavooto/?name=JUKEBOX
-#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Junior" tvg-logo="http://logo.watchhd.cc/logo/junior.png" group-title="Standart",Junior
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Junior" tvg-logo="https://kovi.ml/data/picons/nick-jr.png" group-title="Standard" tvg-shift="-1",Nick Junior
 plugin://plugin.video.vavooto/?name=JUNIOR
-#EXTINF:-1 tvg-id="kabel eins" tvg-name="Kabel 1" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/928.png" group-title="Standart",Kabel 1
+#EXTINF:-1 tvg-id="Kabel eins" tvg-name="Kabel 1" tvg-logo="https://kovi.ml/data/picons/kabel1.png" group-title="Standard" tvg-shift="-1",Kabel 1
 plugin://plugin.video.vavooto/?name=KABEL+1
-#EXTINF:-1 tvg-id="kabel eins classics" tvg-name="Kabel 1 Classics" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1037.png" group-title="Standart",Kabel 1 Classics
+#EXTINF:-1 tvg-id="kabel eins classics" tvg-name="Kabel 1 Classics" tvg-logo="https://kovi.ml/data/picons/kabel1-classics.png" group-title="Standard" tvg-shift="-1",Kabel 1 Classics
 plugin://plugin.video.vavooto/?name=KABEL+1+CLASSICS
-#EXTINF:-1 tvg-id="kabel eins Doku" tvg-name="Kabel 1 Doku" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1142.png" group-title="Standart",Kabel 1 Doku
+#EXTINF:-1 tvg-id="kabel eins Doku" tvg-name="Kabel 1 Doku" tvg-logo="https://kovi.ml/data/picons/kabel1-doku.png" group-title="Standard" tvg-shift="-1",Kabel 1 Doku
 plugin://plugin.video.vavooto/?name=KABEL+1+DOKU
-#EXTINF:-1 tvg-id="KiKA" tvg-name="KiKA" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1010.png" group-title="Standart",KiKA
+#EXTINF:-1 tvg-id="KiKA" tvg-name="KiKA" tvg-logo="https://kovi.ml/data/picons/kika-hd.png" group-title="Standard" tvg-shift="-1",KiKA
 plugin://plugin.video.vavooto/?name=KIKA
-#EXTINF:-1 tvg-id="KinoweltTV" tvg-name="Kinowelt" tvg-logo="http://logo.watchhd.cc/logo/kinowelt.png" group-title="Standart",Kinowelt
+#EXTINF:-1 tvg-id="KinoweltTV " tvg-name="KinoweltTV" tvg-logo="https://kovi.ml/data/picons/kinowelt.png" group-title="Standard" tvg-shift="-1",Kinowelt
 plugin://plugin.video.vavooto/?name=WELT
-#EXTINF:-1 tvg-id="MDR" tvg-name="MDR" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1011.png" group-title="Standart",MDR
+#EXTINF:-1 tvg-id="MDR" tvg-name="MDR" tvg-logo="https://kovi.ml/data/picons/mdr-hd.png" group-title="Standard" tvg-shift="-1",MDR
 plugin://plugin.video.vavooto/?name=MDR
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1395.png" group-title="Standart",MTV
-plugin://plugin.video.vavooto/?name=MTV
-#EXTINF:-1 tvg-id="Motorvision TV" tvg-name="Motorvision" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1181.png" group-title="Standart",Motorvision
+#EXTINF:-1 tvg-id="Motorvision TV" tvg-name="Motorvision" tvg-logo="https://kovi.ml/data/picons/motorvision.png" group-title="Standard" tvg-shift="-1",Motorvision
 plugin://plugin.video.vavooto/?name=MOTORVISION
-#EXTINF:-1 tvg-id="n-tv" tvg-name="N-TV" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1004.png" group-title="Standart",N-TV
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://kovi.ml/data/picons/mtv.png" group-title="Standard" tvg-shift="-1",MTV
+plugin://plugin.video.vavooto/?name=MTV
+#EXTINF:-1 tvg-id="n-tv" tvg-name="N-TV" tvg-logo="https://kovi.ml/data/picons/ntv-hd.png" group-title="Standard" tvg-shift="-1",N-TV
 plugin://plugin.video.vavooto/?name=NTV
-#EXTINF:-1 tvg-id="N24 Doku" tvg-name="N24 Doku" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1012.png" group-title="Standart",N24 Doku
-plugin://plugin.video.vavooto/?name=N24
-#EXTINF:-1 tvg-id="NDR Fernsehen" tvg-name="NDR" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1040.png" group-title="Standart",NDR
-plugin://plugin.video.vavooto/?name=NDR
-#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="Nat Geo Wild" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/493.png" group-title="Standart",Nat Geo Wild
+#EXTINF:-1 tvg-id="N24 Doku" tvg-name="N24 Doku" tvg-logo="https://kovi.ml/data/picons/n24-doku.png" group-title="Standard" tvg-shift="-1",N24 Doku
+plugin://plugin.video.vavooto/?name=N24+DOCU
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="National Geographic Wild" tvg-logo="https://kovi.ml/data/picons/nat-geo-wild.png" group-title="Standard" tvg-shift="-1",National Geographic Wild
 plugin://plugin.video.vavooto/?name=NAT+GEO+WILD
-#EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="Nat Geo" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/507.png" group-title="Standart",Nat Geo
+#EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="National Geographic" tvg-logo="https://kovi.ml/data/picons/national-geographic.png" group-title="Standard" tvg-shift="-1",National Geographic
 plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
-#EXTINF:-1 tvg-id="Nicktoons" tvg-name="nickelodeon" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/943.png" group-title="Standart",nickelodeon
-plugin://plugin.video.vavooto/?name=NICKTOONS
-#EXTINF:-1 tvg-id="ONE" tvg-name="ONE" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1024.png" group-title="Standart",ONE
+#EXTINF:-1 tvg-id="NDR" tvg-name="NDR" tvg-logo="https://kovi.ml/data/picons/ndr-hd.png" group-title="Standard" tvg-shift="-1",NDR
+plugin://plugin.video.vavooto/?name=NDR
+#EXTINF:-1 tvg-id="nick" tvg-name="Nickelodeon" tvg-logo="https://kovi.ml/data/picons/nick.png" group-title="Standard" tvg-shift="-1",Nickelodeon
+plugin://plugin.video.vavooto/?name=NICKELODEON
+#EXTINF:-1 tvg-id="ONE" tvg-name="One" tvg-logo="https://kovi.ml/data/picons/one.png" group-title="Standard" tvg-shift="-1",One
 plugin://plugin.video.vavooto/?name=ONE
-#EXTINF:-1 tvg-id="ORF 1" tvg-name="ORF 1" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/996.png" group-title="Standart",ORF 1
-plugin://plugin.video.vavooto/?name=ORF+1
-#EXTINF:-1 tvg-id="ORF 2" tvg-name="ORF 2" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1151.png" group-title="Standart",ORF 2
-plugin://plugin.video.vavooto/?name=ORF+2
-#EXTINF:-1 tvg-id="ORF SPORT +" tvg-name="ORF Sport" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1051.png" group-title="Standart",ORF Sport
-plugin://plugin.video.vavooto/?name=ORF-SPORT
-#EXTINF:-1 tvg-id="PHOENIX" tvg-name="PHOENIX" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1019.png" group-title="Standart",PHOENIX
+#EXTINF:-1 tvg-id="PHOENIX" tvg-name="Phoenix" tvg-logo="https://kovi.ml/data/picons/phoenix-hd.png" group-title="Standard" tvg-shift="-1",Phoenix
 plugin://plugin.video.vavooto/?name=PHOENIX
-#EXTINF:-1 tvg-id="ProSieben" tvg-name="ProSieben" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/936.png" group-title="Standart",ProSieben
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="ProSieben" tvg-logo="https://kovi.ml/data/picons/pro7.png" group-title="Standard" tvg-shift="-1",ProSieben
 plugin://plugin.video.vavooto/?name=PRO+7
-#EXTINF:-1 tvg-id="ProSieben Fun" tvg-name="ProSieben Fun" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/5/52/ProSieben_Fun_HD_2012.png/320px-ProSieben_Fun_HD_2012.png" group-title="Standart",ProSieben Fun
+#EXTINF:-1 tvg-id="ProSieben Fun" tvg-name="ProSieben Fun" tvg-logo="https://kovi.ml/data/picons/pro7-fun.png" group-title="Standard" tvg-shift="-1",ProSieben Fun
 plugin://plugin.video.vavooto/?name=PRO+7+FUN
-#EXTINF:-1 tvg-id="ProSieben MAXX" tvg-name="ProSieben MAXX" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/955.png" group-title="Standart",ProSieben MAXX
+#EXTINF:-1 tvg-id="ProSieben MAXX" tvg-name="ProSieben MAXX" tvg-logo="https://kovi.ml/data/picons/pro7-maxx.png" group-title="Standard" tvg-shift="-1",ProSieben MAXX
 plugin://plugin.video.vavooto/?name=PRO+7+MAXX
-#EXTINF:-1 tvg-id="RBB" tvg-name="RBB" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1047.png" group-title="Standart",RBB
+#EXTINF:-1 tvg-id="RBB" tvg-name="RBB" tvg-logo="https://kovi.ml/data/picons/rbb-hd.png" group-title="Standard" tvg-shift="-1",RBB
 plugin://plugin.video.vavooto/?name=RBB
-#EXTINF:-1 tvg-id="RTL" tvg-name="RTL" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/999.png" group-title="Standart",RTL
-plugin://plugin.video.vavooto/?name=RTL
-#EXTINF:-1 tvg-id="RTL II" tvg-name="RTL 2" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1056.png" group-title="Standart",RTL 2
-plugin://plugin.video.vavooto/?name=RTL+2
-#EXTINF:-1 tvg-id="RTL Crime" tvg-name="RTL Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/RTL_Crime_Logo_2015.png" group-title="Standart",RTL Crime
-plugin://plugin.video.vavooto/?name=RTL+CRIME
-#EXTINF:-1 tvg-id="RTL Living" tvg-name="RTL Living" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/RTL_living_Logo_2015.png" group-title="Standart",RTL Living
-plugin://plugin.video.vavooto/?name=RTL+LIVING
-#EXTINF:-1 tvg-id="NITRO" tvg-name="RTL Nitro" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1059.png" group-title="Standart",RTL Nitro
-plugin://plugin.video.vavooto/?name=RTL+NITRO
-#EXTINF:-1 tvg-id="RTL Passion" tvg-name="RTL Passion" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/RTL_Passion_Logo_2015.png" group-title="Standart",RTL Passion
-plugin://plugin.video.vavooto/?name=RTL+PASSION
-#EXTINF:-1 tvg-id="RTLplus" tvg-name="RTL plus" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1187.png" group-title="Standart",RTL plus
-plugin://plugin.video.vavooto/?name=RTL+UP
-#EXTINF:-1 tvg-id="RiC" tvg-name="RiC" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1060.png" group-title="Standart",RiC
-plugin://plugin.video.vavooto/?name=RIC
-#EXTINF:-1 tvg-id="Romance TV" tvg-name="Romance" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1179.png" group-title="Standart",Romance
+#EXTINF:-1 tvg-id="Romance TV" tvg-name="Romance" tvg-logo="https://kovi.ml/data/picons/romance-tv.png" group-title="Standard" tvg-shift="-1",Romance
 plugin://plugin.video.vavooto/?name=ROMANCE+TV
-#EXTINF:-1 tvg-id="SAT.1" tvg-name="Sat 1" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/937.png" group-title="Standart",Sat 1
+#EXTINF:-1 tvg-id="RTL Up" tvg-name="RTL Up" tvg-logo="https://kovi.ml/data/picons/rtl-up.png" group-title="Standard" tvg-shift="-1",RTL Up
+plugin://plugin.video.vavooto/?name=RTL+UP
+#EXTINF:-1 tvg-id="SAT.1" tvg-name="Sat.1" tvg-logo="https://kovi.ml/data/picons/sat1-hd.png" group-title="Standard" tvg-shift="-1",Sat.1
 plugin://plugin.video.vavooto/?name=SAT+1
-#EXTINF:-1 tvg-id="SAT.1 emotions" tvg-name="Sat 1 Emotions" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1042.png" group-title="Standart",Sat 1 Emotions
+#EXTINF:-1 tvg-id="Sat.1 Emotions" tvg-name="Sat.1 Emotions" tvg-logo="https://kovi.ml/data/picons/sat1-emotions.png" group-title="Standard" tvg-shift="-1",Sat.1 Emotions
 plugin://plugin.video.vavooto/?name=SAT+1+EMOTIONS
-#EXTINF:-1 tvg-id="SAT.1 Gold" tvg-name="Sat 1 Gold" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/956.png" group-title="Standart",Sat 1 Gold
+#EXTINF:-1 tvg-id="Sat.1 Gold" tvg-name="Sat.1 Gold" tvg-logo="https://kovi.ml/data/picons/sat1-gold.png" group-title="Standard" tvg-shift="-1",Sat.1 Gold
 plugin://plugin.video.vavooto/?name=SAT+1+GOLD
-#EXTINF:-1 tvg-id="ServusTV" tvg-name="Servus TV" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/957.png" group-title="Standart",Servus TV
-plugin://plugin.video.vavooto/?name=SERVUS+TV
-#EXTINF:-1 tvg-id="Silverline" tvg-name="Silverline" tvg-logo="http://logo.watchhd.cc/logo/Silverline.png" group-title="Standart",Silverline
+#EXTINF:-1 tvg-id="Silverline" tvg-name="Silverline" tvg-logo="https://kovi.ml/data/picons/silverline1.png" group-title="Standard" tvg-shift="-1",Silverline
 plugin://plugin.video.vavooto/?name=SILVERLINE
-#EXTINF:-1 tvg-id="sixx" tvg-name="Sixx" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/942.png" group-title="Standart",Sixx
+#EXTINF:-1 tvg-id="sixx" tvg-name="Sixx" tvg-logo="https://kovi.ml/data/picons/sixx-hd.png" group-title="Standard" tvg-shift="-1",Sixx
 plugin://plugin.video.vavooto/?name=SIXX
-#EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="Sky Atlantic" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/529.png" group-title="Standart",Sky Atlantic
-plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
-#EXTINF:-1 tvg-id="Sky Action" tvg-name="Sky Cinema Action" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/456.png" group-title="Standart",Sky Cinema Action
+#EXTINF:-1 tvg-id="Sky Action" tvg-name="Sky Action" tvg-logo="https://kovi.ml/data/picons/sky-cinema-action.png" group-title="Standard" tvg-shift="-1",Sky Action
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
-#EXTINF:-1 tvg-id="Sky Cinema Best Of" tvg-name="Sky Cinema Best of" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/527.png" group-title="Standart",Sky Cinema Best of
+#EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="Sky Atlantic HD" tvg-logo="https://kovi.ml/data/picons/sky-atlantic.png" group-title="Standard" tvg-shift="-1",Sky Atlantic
+plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
+#EXTINF:-1 tvg-id="Sky Cinema Best of" tvg-name="Sky Cinema Best of" tvg-logo="https://kovi.ml/data/picons/sky-cinema-bestof.png" group-title="Standard" tvg-shift="-1",Sky Cinema Best of
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+BEST+OF
-#EXTINF:-1 tvg-id="Sky Cinema Classics" tvg-name="Sky Cinema Classics" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/483.png" group-title="Standart",Sky Cinema Classics
+#EXTINF:-1 tvg-id="Sky Cinema Classics" tvg-name="Sky Cinema Classics" tvg-logo="https://kovi.ml/data/picons/sky-cinema-classics.png" group-title="Standard" tvg-shift="-1",Sky Cinema Classics
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+CLASSICS
-#EXTINF:-1 tvg-id="Sky Family" tvg-name="Sky Cinema Family" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1140.png" group-title="Standart",Sky Cinema Family
+#EXTINF:-1 tvg-id="Sky Family" tvg-name="Sky Family" tvg-logo="https://kovi.ml/data/picons/sky-cinema-family.png" group-title="Standard" tvg-shift="-1",Sky Cinema Family
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
-#EXTINF:-1 tvg-id="Sky Cinema Fun" tvg-name="Sky Cinema Fun" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/440.png" group-title="Standart",Sky Cinema Fun
+#EXTINF:-1 tvg-id="Sky Cinema Fun" tvg-name="Sky Cinema Fun" tvg-logo="https://kovi.ml/data/picons/sky-cinema-fun.png" group-title="Standard" tvg-shift="-1",Sky Cinema Fun
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+FUN
-#EXTINF:-1 tvg-id="Sky Cinema Premieren" tvg-name="Sky Cinema Premieren" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/453.png" group-title="Standart",Sky Cinema Premieren
+#EXTINF:-1 tvg-id="Sky Cinema Premieren" tvg-name="Sky Cinema Premieren" tvg-logo="https://kovi.ml/data/picons/sky-cinema-premieren.png" group-title="Standard" tvg-shift="-1",Sky Cinema Premieren
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
-#EXTINF:-1 tvg-id="Sky Cinema Thriller" tvg-name="Sky Cinema Thriller" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/470.png" group-title="Standart",Sky Cinema Thriller
+#EXTINF:-1 tvg-id="Sky Cinema Thriller" tvg-name="Sky Cinema Thriller" tvg-logo="https://kovi.ml/data/picons/sky-cinema-thriller.png" group-title="Standard" tvg-shift="-1",Sky Cinema Thriller
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+THRILLER
-#EXTINF:-1 tvg-id="Sky Comedy" tvg-name="Sky Comedy" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1425.png" group-title="Standart",Sky Comedy
+#EXTINF:-1 tvg-id="Sky Comedy" tvg-name="Sky Comedy" tvg-logo="https://kovi.ml/data/picons/sky-cinema-comedy.png" group-title="Standard" tvg-shift="-1",Sky Comedy
 plugin://plugin.video.vavooto/?name=SKY+COMEDY
-#EXTINF:-1 tvg-id="Sky Crime" tvg-name="Sky Crime" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1423.png" group-title="Standart",Sky Crime
+#EXTINF:-1 tvg-id="Sky Crime" tvg-name="Sky Crime" tvg-logo="https://kovi.ml/data/picons/sky-crime.png" group-title="Standard" tvg-shift="-1",Sky Crime
 plugin://plugin.video.vavooto/?name=SKY+CRIME
-#EXTINF:-1 tvg-id="Sky Documentaries" tvg-name="Sky Documentaries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sky_Documentaries_Logo_2020.png/320px-Sky_Documentaries_Logo_2020.png" group-title="Standart",Sky Documentaries
-plugin://plugin.video.vavooto/?name=SKY+DOCUMENTARIES
-#EXTINF:-1 tvg-id="Sky Krimi" tvg-name="Sky Krimi" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/436.png" group-title="Standart",Sky Krimi
+#EXTINF:-1 tvg-id="Sky Krimi" tvg-name="Sky Krimi" tvg-logo="https://kovi.ml/data/picons/sky-krimi.png" group-title="Standard" tvg-shift="-1",Sky Krimi
 plugin://plugin.video.vavooto/?name=SKY+KRIMI
-#EXTINF:-1 tvg-id="Sky Nature" tvg-name="Sky Nature" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1440.png" group-title="Standart",Sky Nature
-plugin://plugin.video.vavooto/?name=SKY+NATURE
-#EXTINF:-1 tvg-id="Sky One" tvg-name="Sky One" tvg-logo="http://epggw.a1.net/img/station/img/station/darkbg/320x39/1158.png" group-title="Standart",Sky One
+#EXTINF:-1 tvg-id="Sky One" tvg-name="Sky One" tvg-logo="https://kovi.ml/data/picons/sky1.png" group-title="Standard" tvg-shift="-1",Sky One
 plugin://plugin.video.vavooto/?name=SKY+1
-#EXTINF:-1 tvg-id="Sony Channel" tvg-name="Sony Channel" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/961.png" group-title="Standart",Sony Channel
-plugin://plugin.video.vavooto/?name=SONY+CHANNEL
-#EXTINF:-1 tvg-id="Spiegel Geschichte" tvg-name="Spiegel Geschichte" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/486.png" group-title="Standart",Spiegel Geschichte
+#EXTINF:-1 tvg-id="Sony Channel" tvg-name="Sony Channel" tvg-logo="https://kovi.ml/data/picons/sony-channel.png" group-title="Standard" tvg-shift="-1",Sony Channel
+plugin://plugin.video.vavooto/?name=SONY+TV
+#EXTINF:-1 tvg-id="Spiegel Geschichte" tvg-name="Spiegel Geschichte" tvg-logo="https://kovi.ml/data/picons/sony-axn.png" group-title="Standard" tvg-shift="-1",Spiegel Geschichte
 plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
-#EXTINF:-1 tvg-id="Spiegel TV Wissen" tvg-name="Spiegel TV Wissen" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1246.png" group-title="Standart",Spiegel TV Wissen
+#EXTINF:-1 tvg-id="Spiegel TV Wissen" tvg-name="Spiegel TV Wissen" tvg-logo="https://kovi.ml/data/picons/spiegel-tv-wissen.png" group-title="Standard" tvg-shift="-1",Spiegel TV Wissen
+plugin://plugin.video.vavooto/?name=SPIEGEL+TV+WISSEN
+#EXTINF:-1 tvg-id="SpiegelTV" tvg-name="Spiegel TV Wissen" tvg-logo="https://kovi.ml/data/picons/spiegel-tv-wissen.png" group-title="Standard" tvg-shift="-1",Spiegel TV Wissen
 plugin://plugin.video.vavooto/?name=SPIEGEL+WISSEN
-#EXTINF:-1 tvg-id="SWR/SR" tvg-name="SWR" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1030.png" group-title="Standart",SWR
+#EXTINF:-1 tvg-id="SWR/SR" tvg-name="SWR" tvg-logo="https://kovi.ml/data/picons/swr-hd.png" group-title="Standard" tvg-shift="-1",SWR
 plugin://plugin.video.vavooto/?name=SWR
-#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/537.png" group-title="Standart",Syfy
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="https://kovi.ml/data/picons/syfy-hd.png" group-title="Standard" tvg-shift="-1",Syfy
+plugin://plugin.video.taptv/play/407/play.pvr
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="https://kovi.ml/data/picons/syfy-hd.png" group-title="Standard" tvg-shift="-1",Syfy
 plugin://plugin.video.vavooto/?name=SYFY
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/944.png" group-title="Standart",TLC
-plugin://plugin.video.vavooto/?name=TLC
-#EXTINF:-1 tvg-id="tagesschau24" tvg-name="Tagesschau 24" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1046.png" group-title="Standart",Tagesschau 24
-plugin://plugin.video.vavooto/?name=TAGESSCHAU+24
-#EXTINF:-1 tvg-id="Tele 5" tvg-name="Tele 5" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1018.png" group-title="Standart",Tele 5
+#EXTINF:-1 tvg-id="tagesschau24" tvg-name="Tagesschau 24" tvg-logo="https://kovi.ml/data/picons/tagesschau24.png" group-title="Standard" tvg-shift="-1",Tagesschau 24
+plugin://plugin.video.vavooto/?name=TAGESSCHAU 24
+#EXTINF:-1 tvg-id="Tele 5" tvg-name="Tele 5" tvg-logo="https://kovi.ml/data/picons/tele5.png" group-title="Standard" tvg-shift="-1",Tele 5
 plugin://plugin.video.vavooto/?name=TELE+5
-#EXTINF:-1 tvg-id="TOGGO plus" tvg-name="Toggo" tvg-logo="https://images.waipu.tv/api/channels/TOGGOPLUS/logosd.png?width=100&height=100" group-title="Standart",Toggo
-plugin://plugin.video.vavooto/?name=TOGGO+PLUS
-#EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="Universal Channel" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/438.png" group-title="Standart",Universal Channel
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://kovi.ml/data/picons/tlc-hd.png" group-title="Standard" tvg-shift="-1",TLC
+plugin://plugin.video.vavooto/?name=TLC
+#EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="Universal Channel" tvg-logo="https://kovi.ml/data/picons/universal-channel.png" group-title="Standard" tvg-shift="-1",Universal Channel
 plugin://plugin.video.vavooto/?name=UNIVERSAL
-#EXTINF:-1 tvg-id="VOX" tvg-name="Vox" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1057.png" group-title="Standart",Vox
+#EXTINF:-1 tvg-id="VOX" tvg-name="Vox HD" tvg-logo="https://kovi.ml/data/picons/vox-hd.png" group-title="Standard" tvg-shift="-1",Vox HD
 plugin://plugin.video.vavooto/?name=VOX
-#EXTINF:-1 tvg-id="VOXup" tvg-name="Vox UP" tvg-logo="https://images.waipu.tv/api/channels/VOXUP/logosd.png?width=100&height=100" group-title="Standart",Vox UP
+#EXTINF:-1 tvg-id="VOXup" tvg-name="Vox Up" tvg-logo="https://kovi.ml/data/picons/vox-up.png" group-title="Standard" tvg-shift="-1",Vox Up
 plugin://plugin.video.vavooto/?name=VOX+UP
-#EXTINF:-1 tvg-id="TNT Comedy" tvg-name="WarnerTV Comedy" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/889.png" group-title="Standart",WarnerTV Comedy
-plugin://plugin.video.vavooto/?name=WARNER+TV+COMEDY
-#EXTINF:-1 tvg-id="TNT Film" tvg-name="WarnerTV Film" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/914.png" group-title="Standart",WarnerTV Film
-plugin://plugin.video.vavooto/?name=WARNER+TV+FILM
-#EXTINF:-1 tvg-id="TNT Serie" tvg-name="WarnerTV Serie" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/479.png" group-title="Standart",WarnerTV Serie
-plugin://plugin.video.vavooto/?name=WARNER+TV+SERIE
-#EXTINF:-1 tvg-id="WDR Fernsehen" tvg-name="WDR" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1000.png" group-title="Standart",WDR
+#EXTINF:-1 tvg-id="TNT Film" tvg-name="Warner TV Film" tvg-logo="https://kovi.ml/data/picons/warner-tv-film.png" group-title="Standard" tvg-shift="-1",Warner TV Film
+plugin://plugin.video.taptv/play/656/play.pvr
+#EXTINF:-1 tvg-id="TNT Serie" tvg-name="Warner TV Serie" tvg-logo="https://kovi.ml/data/picons/warner-tv-serie.png" group-title="Standard" tvg-shift="-1",Warner TV Serie
+plugin://plugin.video.taptv/play/655/play.pvr
+#EXTINF:-1 tvg-id="TNT Comedy" tvg-name="WarnerTV Comedy" tvg-logo="https://kovi.ml/data/picons/warner-tv-comedy.png" group-title="Standard" tvg-shift="-1",WarnerTV Comedy
+plugin://plugin.video.vavooto/?name=WARNER TV COMEDY
+#EXTINF:-1 tvg-id="TNT Film" tvg-name="WarnerTV Film" tvg-logo="https://kovi.ml/data/picons/warner-tv-film.png" group-title="Standard" tvg-shift="-1",WarnerTV Film
+plugin://plugin.video.vavooto/?name=WARNER TV FILM
+#EXTINF:-1 tvg-id="TNT Serie" tvg-name="WarnerTV Serie" tvg-logo="https://kovi.ml/data/picons/warner-tv-serie.png" group-title="Standard" tvg-shift="-1",WarnerTV Serie
+plugin://plugin.video.vavooto/?name=WARNER TV SERIE
+#EXTINF:-1 tvg-id="WDR" tvg-name="WDR" tvg-logo="https://kovi.ml/data/picons/wdr-hd.png" group-title="Standard" tvg-shift="-1",WDR
 plugin://plugin.video.vavooto/?name=WDR
-#EXTINF:-1 tvg-id="Welt der Wunder TV" tvg-name="Welt der Wunder" tvg-logo="https://images.waipu.tv/api/channels/WELTDERWUNDER/logosd.png?width=100&height=100" group-title="Standart",Welt der Wunder
+#EXTINF:-1 tvg-id="Welt der Wunder TV" tvg-name="Welt der Wunder" tvg-logo="https://kovi.ml/data/picons/welt-der-wunder.png" group-title="Standard" tvg-shift="-1",Welt der Wunder
 plugin://plugin.video.vavooto/?name=WELT+DER+Wunder
-#EXTINF:-1 tvg-id="ZDF" tvg-name="ZDF" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1063.png" group-title="Standart",ZDF
+#EXTINF:-1 tvg-id="ZDF" tvg-name="ZDF" tvg-logo="https://kovi.ml/data/picons/zdf-hd.png" group-title="Standard" tvg-shift="-1",ZDF
+plugin://plugin.video.vavooto/?name=ZDF
+#EXTINF:-1 tvg-id="ZDFinfo" tvg-name="ZDF Info" tvg-logo="https://kovi.ml/data/picons/zdf-info-hd.png" group-title="Standard" tvg-shift="-1",ZDF Info
+plugin://plugin.video.vavooto/?name=ZDF INFO
+#EXTINF:-1 tvg-id="ZDFneo" tvg-name="ZDF Neo" tvg-logo="https://kovi.ml/data/picons/zdf-neo.png" group-title="Standard" tvg-shift="-1",ZDF Neo
+plugin://plugin.video.vavooto/?name=ZDF NEO
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://kovi.ml/data/picons/disney-channel.png" group-title="Film" tvg-shift="-1",Disney Channel
+plugin://plugin.video.vavooto/?name=DISNEY+CHANNEL
+#EXTINF:-1 tvg-id="kabel eins classics" tvg-name="Kabel 1 Classics" tvg-logo="http://kovi.ml/data/picons/kabel1-classics-hd.png" group-title="Film" tvg-shift="-1",Kabel 1 Classics
+plugin://plugin.video.vavooto/?name=KABEL+1+CLASSICS
+#EXTINF:-1 tvg-id="KinoweltTV" tvg-name="KinoweltTV" tvg-logo="http://kovi.ml/data/picons/kinowelt.png" group-title="Film" tvg-shift="-1",Kinowelt
+plugin://plugin.video.vavooto/?name=WELT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Kino" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/png/max1.png" group-title="Film" tvg-shift="-1",Max Kino
+plugin://plugin.video.vavooto/?name=MAX+KINO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Kino 2" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/png/max2.png" group-title="Film" tvg-shift="-1",Max Kino 2
+plugin://plugin.video.vavooto/?name=MAX+KINO+2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Kino 3" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/png/max3.png" group-title="Film" tvg-shift="-1",Max Kino 3
+plugin://plugin.video.vavooto/?name=MAX+KINO+3
+#EXTINF:-1 tvg-id="Sky Select 10" tvg-name="Max Kino 7" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/png/max.png" group-title="Film" tvg-shift="-1",Max Kino 7
+plugin://plugin.video.vavooto/?name=SKY+SELECT+10
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Kino Collection" tvg-logo="https://kovi.ml/data/png/max1.png" group-title="Film" tvg-shift="-1",Max Kino Collection
+plugin://plugin.video.vavooto/?name=MAX+KINO+COLLECTION
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Popcorn Select 1" tvg-logo="https://kovi.ml/data/picons/popcornselect001.png" group-title="Film" tvg-shift="-1",Popcorn Select 1
+plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Popcorn Select 2" tvg-logo="https://kovi.ml/data/picons/popcornselect002.png" group-title="Film" tvg-shift="-1",Popcorn Select 2
+plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Popcorn Select 3" tvg-logo="https://kovi.ml/data/picons/popcornselect003.png" group-title="Film" tvg-shift="-1",Popcorn Select 3
+plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Popcorn Select 4" tvg-logo="https://kovi.ml/data/picons/popcornselect004.png" group-title="Film" tvg-shift="-1",Popcorn Select 4
+plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Popcorn Select 5" tvg-logo="https://kovi.ml/data/picons/popcornselect005.png" group-title="Film" tvg-shift="-1",Popcorn Select 5
+plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Popcorn Select 6" tvg-logo="https://kovi.ml/data/picons/popcornselect006.png" group-title="Film" tvg-shift="-1",Popcorn Select 6
+plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+8
+#EXTINF:-1 tvg-id="Silverline" tvg-name="Silverline" tvg-logo="http://kovi.ml/data/picons/silverline.png" group-title="Film" tvg-shift="-   1",Silverline
+plugin://plugin.video.vavooto/?name=SILVERLINE
+#EXTINF:-1 tvg-id="Sky Cinema 24" tvg-name="Sky Cinema 24" tvg-logo="http://kovi.ml/data/picons/sky-cinema-24.png" group-title="Film" tvg-shift="-1", Sky Cinema 24
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+24
+#EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="Sky Atlantic HD" tvg-logo="http://kovi.ml/data/picons/sky-atlantic.png" group-title="Film" tvg-shift="-1",Sky Atlantic HD
+plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
+#EXTINF:-1 tvg-id="Sky Action" tvg-name="Sky Cinema Action" tvg-logo="http://kovi.ml/data/picons/sky-cinema-action.png" group-title="Film" tvg-shift="-1",Sky Cinema Action
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
+#EXTINF:-1 tvg-id="Sky Cinema Best Of" tvg-name="Sky Cinema Best of" tvg-logo="http://kovi.ml/data/picons/sky-cinema-bestof.png" group-title="Film" tvg-shift="-1",Sky Cinema Best of
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+BEST+OF
+#EXTINF:-1 tvg-id="Sky Cinema Classics" tvg-name="Sky Cinema Classics" tvg-logo="http://kovi.ml/data/picons/sky-cinema-classics.png" group-title="Film" tvg-shift="-1",Sky Cinema Classics
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+CLASSICS
+#EXTINF:-1 tvg-id="Sky Family" tvg-name="Sky Cinema Family" tvg-logo="http://kovi.ml/data/picons/sky-cinema-family.png" group-title="Film" tvg-shift="-1",Sky Cinema Family
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
+#EXTINF:-1 tvg-id="Sky Cinema Fun" tvg-name="Sky Cinema Fun" tvg-logo="http://kovi.ml/data/picons/sky-cinema-fun.png" group-title="Film" tvg-shift="-1",Sky Cinema Fun
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+FUN
+#EXTINF:-1 tvg-id="Sky Cinema Premieren" tvg-name="Sky Cinema Premieren" tvg-logo="http://kovi.ml/data/picons/sky-cinema-premieren.png" group-title="Film" tvg-shift="-1",Sky Cinema Premieren
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
+#EXTINF:-1 tvg-id="Sky Cinema Special HD" tvg-name="Sky Cinema Special HD" tvg-logo="https://kovi.ml/data/picons/sky-cinema-spezial-hd.png" group-title="Film" tvg-shift="-1",Sky Cinema Special
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+SPECIAL
+#EXTINF:-1 tvg-id="Sky Cinema Thriller" tvg-name="Sky Cinema Thriller" tvg-logo="http://kovi.ml/data/picons/sky-cinema-thriller.png" group-title="Film" tvg-shift="-1",Sky Cinema Thriller
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+THRILLER
+#EXTINF:-1 tvg-id="Sky Comedy" tvg-name="Sky Comedy" tvg-logo="http://kovi.ml/data/picons/sky-cinema-comedy.png" group-title="Film" tvg-shift="-1",Sky Comedy
+plugin://plugin.video.vavooto/?name=SKY+COMEDY
+#EXTINF:-1 tvg-id="Sky Krimi" tvg-name="Sky Krimi" tvg-logo="http://kovi.ml/data/picons/sky-krimi.png" group-title="Film" tvg-shift="-1",Sky Krimi
+plugin://plugin.video.vavooto/?name=SKY+KRIMI
+#EXTINF:-1 tvg-id="Sky Select 6" tvg-name="Sky Movies Select 6" tvg-logo="http://kovi.ml/data/picons/sky-select-6.png" group-title="Film" tvg-shift="-1",Sky Movies Select 6
+plugin://plugin.video.vavooto/?name=SKY+MOVIES+SELECT+6
+#EXTINF:-1 tvg-id="Sky Nature" tvg-name="Sky Nature" tvg-logo="http://kovi.ml/data/picons/sky-nature.png" group-title="Film" tvg-shift="-1",Sky Nature
+plugin://plugin.video.vavooto/?name=SKY+NATURE
+#EXTINF:-1 tvg-id="Sky One" tvg-name="Sky One" tvg-logo="http://kovi.ml/data/picons/sky-one.png" group-title="Film" tvg-shift="-1",Sky One
+plugin://plugin.video.vavooto/?name=SKY+1
+#EXTINF:-1 tvg-id="Sky Replay" tvg-name="Sky Replay" tvg-logo="https://kovi.ml/data/picons/sky-replay-hd.png" group-title="Film" tvg-shift="-1",Sky Replay
+plugin://plugin.video.vavooto/?name=SKY+REPLAY
+#EXTINF:-1 tvg-id="Sky Select 1" tvg-name="Sky Select 1" tvg-logo="https://kovi.ml/data/picons/sky-select-1.png" group-title="Film" tvg-shift="-1",Sky Select 1
+plugin://plugin.video.vavooto/?name=SKY+SELECT+1
+#EXTINF:-1 tvg-id="Sky Select 2" tvg-name="Sky Select 2" tvg-logo="https://kovi.ml/data/picons/sky-select-2.png" group-title="Film" tvg-shift="-1",Sky Select 2
+plugin://plugin.video.vavooto/?name=SKY+SELECT+2
+#EXTINF:-1 tvg-id="Sky Select 3" tvg-name="Sky Select 3" tvg-logo="https://kovi.ml/data/picons/sky-select-3.png" group-title="Film" tvg-shift="-1",Sky Select 3
+plugin://plugin.video.vavooto/?name=SKY+SELECT+3
+#EXTINF:-1 tvg-id="Sky Select 4" tvg-name="Sky Select 4" tvg-logo="https://kovi.ml/data/picons/sky-select-4.png" group-title="Film" tvg-shift="-1",Sky Select 4
+plugin://plugin.video.vavooto/?name=SKY+SELECT+4
+#EXTINF:-1 tvg-id="Sky Select 5" tvg-name="Sky Select 5" tvg-logo="https://kovi.ml/data/picons/sky-select-5.png" group-title="Film" tvg-shift="-1",Sky Select 5
+plugin://plugin.video.vavooto/?name=SKY+SELECT+5
+#EXTINF:-1 tvg-id="Sky Select 6" tvg-name="Sky Select 6" tvg-logo="https://kovi.ml/data/picons/sky-select-6.png" group-title="Film" tvg-shift="-1",Sky Select 6
+plugin://plugin.video.vavooto/?name=SKY+SELECT+6
+#EXTINF:-1 tvg-id="Sky Select 7" tvg-name="Sky Select 7" tvg-logo="https://kovi.ml/data/picons/sky-select-7.png" group-title="Film" tvg-shift="-1",Sky Select 7
+plugin://plugin.video.vavooto/?name=SKY+SELECT+7
+#EXTINF:-1 tvg-id="Sky Select 8" tvg-name="Sky Select 8" tvg-logo="https://kovi.ml/data/picons/sky-select-8.png" group-title="Film" tvg-shift="-1",Sky Select 8
+plugin://plugin.video.vavooto/?name=SKY+SELECT+8
+#EXTINF:-1 tvg-id="Sky Select 9" tvg-name="Sky Select 9" tvg-logo="https://kovi.ml/data/picons/sky-select-9.png" group-title="Film" tvg-shift="-1",Sky Select 9
+plugin://plugin.video.vavooto/?name=SKY+SELECT+9
+#EXTINF:-1 tvg-id="Sky Showcase" tvg-name="Sky Serien & Shows" tvg-logo="https://kovi.ml/data/picons/sky-serien+shows.png" group-title="Film" tvg-shift="-1",Sky Serien & Shows
+plugin://plugin.video.vavooto/?name=SKY+SERIEN+%26+SHOWS&quot
+#EXTINF:-1 tvg-id="Sony Channel" tvg-name="Sony Channel" tvg-logo="http://kovi.ml/data/picons/sony-channel.png" group-title="Film" tvg-shift="-1",Sony Channel
+plugin://plugin.video.vavooto/?name=SONY+CHANNEL
+#EXTINF:-1 tvg-id="TNT Comedy" tvg-name="Warner TV Comedy" tvg-logo="http://kovi.ml/data/picons/warner-tv-comedy.png" group-title="Film" tvg-shift="-1",Warner TV Comedy
+plugin://plugin.video.vavooto/?name=WARNER+TV+COMEDY
+#EXTINF:-1 tvg-id="TNT Film" tvg-name="Warner TV Film" tvg-logo="http://kovi.ml/data/picons/warner-tv-film.png" group-title="Film" tvg-shift="-1",Warner TV Film
+plugin://plugin.video.vavooto/?name=WARNER+TV+FILM
+#EXTINF:-1 tvg-id="TNT Serie" tvg-name="Warner TV Serie" tvg-logo="http://kovi.ml/data/picons/warner-tv-serie.png" group-title="Film" tvg-shift="-1",Warner TV Serie
+plugin://plugin.video.vavooto/?name=WARNER+TV+SERIE
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="http://kovi.ml/data/picons/eurosport1-hd.png" group-title="Sport" tvg-shift="-1",Eurosport 1
+plugin://plugin.video.vavooto/?name=EUROSPORT+1
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="http://kovi.ml/data/picons/eurosport2-hd.png" group-title="Sport" tvg-shift="-1",Eurosport 2
+plugin://plugin.video.vavooto/?name=EUROSPORT+2
+#EXTINF:-1 tvg-id="ORF SPORT +" tvg-name="ORF Sport" tvg-logo="http://kovi.ml/data/picons/orf-sport+hd.png" group-title="Sport" tvg-shift="-1",ORF Sport
+plugin://plugin.video.vavooto/?name=ORF-SPORT
+#EXTINF:-1 tvg-id="Sky Bundesliga" tvg-name="Sky Bundesliga 1 (1080p)" tvg-logo="https://kovi.ml/data/picons/sky-sport-bl1-hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 1 (1080p)
+plugin.video.vavooto/?name=SKY+BUNDESLIGA1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 2 (1080p)" tvg-logo="https://kovi.ml/data/picons/sky-sport-bl2-hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 2 (1080p)
+plugin.video.vavooto/?name=SKY+BUNDESLIGA+2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 3 (1080p)" tvg-logo="https://kovi.ml/data/picons/sky-sport-bl3-hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 3 (1080p)
+plugin.video.vavooto/?name=SKY+BUNDESLIGA+3
+#EXTINF:-1 tvg-id="Sky Bundesliga 4" tvg-name="Sky Bundesliga 4 (720p)" tvg-logo="https://kovi.ml/data/picons/sky-sport-bl4-hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 4 (720p)
+plugin.video.vavooto/?name=SKY+BUNDESLIGA+4
+#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="Sky Bundesliga 5 (720p)" tvg-logo="https://kovi.ml/data/picons/sky-sport-bl5-hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 5 (720p)
+plugin.video.vavooto/?name=SKY+BUNDESLIGA+5
+#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="Sky Bundesliga 6 (1080p)" tvg-logo="https://kovi.ml/data/picons/sky-sport-bl6-hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 6 (1080p)
+plugin.video.vavooto/?name=SKY+BUNDESLIGA+6
+#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="Sky Bundesliga 7 (1080p)" tvg-logo="https://kovi.ml/data/picons/sky-sport-bl7-hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 7 (1080p)
+plugin.video.vavooto/?name=SKY+BUNDESLIGA+7
+#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="Sky Bundesliga 8 (1080p)" tvg-logo="https://kovi.ml/data/picons/sky-sport-bl8-hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 8 (1080p)
+plugin.video.vavooto/?name=SKY+BUNDESLIGA+8
+#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="Sky Bundesliga 9 (720p)" tvg-logo="https://kovi.ml/data/picons/sky-sport-bl9-hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 9 (720p)
+plugin.video.vavooto/?name=SKY+BUNDESLIGA+9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 9+ (1080p)" tvg-logo="https://kovi.ml/data/picons/sky-sport-bl9-hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 9+ (1080p)
+plugin.video.vavooto/?name=SKY+BUNDESLIGA+9%2B
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 10 (1080p)" tvg-logo="https://kovi.ml/data/picons/sky-sport-bl10-hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 10 (1080p)
+plugin.video.vavooto/?name=SKY+BUNDESLIGA+10
+#EXTINF:-1 tvg-id="Sender.de" tvg-name="Sky Sport F1" tvg-logo="https://kovi.ml/data/picons/sky-sport-f1-hd.png" group-title="Sport" tvg-shift="-1",Sky Sport F1
+plugin://plugin.video.vavooto/?name=SKY+SPORT+F1
+#EXTINF:-1 tvg-id="Sender.de" tvg-name="Sky Sport F1 +" tvg-logo="https://kovi.ml/data/picons/sky-sport-f1-hd.png" group-title="Sport" tvg-shift="-1",Sky Sport F1 +
+plugin://plugin.video.vavooto/?name=SKY+SPORT+F1%2B
+#EXTINF:-1 tvg-id="Sender.de" tvg-name="Sky Sport Golf" tvg-logo="http://logo.watchhd.cc/logo/sky_sports_golf.png" group-title="Sport" tvg-shift="-1",Sky Sport Golf
+plugin://plugin.video.vavooto/?name=SKY+SPORT+GOLF
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport Tennis " tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Sport_Tennis_HD.png" group-title="Sport" tvg-shift="-1",Sky Sport Tennis 
+plugin://plugin.video.vavooto/?name=SKY+SPORT+TENNIS
+#EXTINF:-1 tvg-id="SkySportTopEvent" tvg-name="Sky Sport Top Event" tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Sport_Top_Event_HD.png" group-title="Sport" tvg-shift="-1",Sky Sport Top Event
+plugin://plugin.video.vavooto/?name=SKY+SPORT+TOP+EVENT
+#EXTINF:-1 tvg-id="Sender.de" tvg-name="Sky Sport Top Event 1" tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Sport_Top_Event_HD.png" group-title="Sport" tvg-shift="-1",Sky Sport Top Event 1
+plugin://plugin.video.vavooto/?name=SKY+SPORT+TOP+EVENT+1
+#EXTINF:-1 tvg-id="Sender.de" tvg-name="Sky Sport Top Event 2" tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Sport_Top_Event_HD.png" group-title="Sport" tvg-shift="-1",Sky Sport Top Event 2
+plugin://plugin.video.vavooto/?name=SKY+SPORT+TOP+EVENT+2
+#EXTINF:-1 tvg-id="Sender.de" tvg-name="Sky Sport Top Event 3" tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Sport_Top_Event_HD.png" group-title="Sport" tvg-shift="-1",Sky Sport Top Event 3
+plugin://plugin.video.vavooto/?name=SKY+SPORT+TOP+EVENT+3
+#EXTINF:-1 tvg-id="Sender.de" tvg-name="Sky Sports Premier League" tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Sport_Premier_League.png" group-title="Sport" tvg-shift="-1",Sky Sports Premier League
+plugin://plugin.video.vavooto/?name=SKY+SPORTS+PREMIER+LEAGUE
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://kovi.ml/data/picons/dazn-1-hd.png" group-title="Sport" tvg-shift="-1",DAZN 1 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+SPORT+1
+#EXTINF:-1 tvg-id="DAZN2.de" tvg-name="DAZN 2 (1080p)" tvg-logo="https://kovi.ml/data/picons/dazn-2-hd.png" group-title="Sport" tvg-shift="-1",DAZN 2 (1080p)
+1=plugin://plugin.video.vavooto/?name=DAZN+SPORT+2
+#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DAZN 1 (1080p)" tvg-logo="https://kovi.ml/data/picons/dazn-1-hd.png" group-title="Sport" tvg-shift="-1",DAZN 1 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+1
+#EXTINF:-1 tvg-id="DAZN2.de" tvg-name="DAZN 2 (1080p)" tvg-logo="https://kovi.ml/data/picons/dazn-2-hd.png" group-title="Sport" tvg-shift="-1",DAZN 2 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+2
+#EXTINF:-1 tvg-id="DAZN3.de" tvg-name="DAZN 3 (1080p)" tvg-logo="https://kovi.ml/data/picons/dazn-3-hd.png" group-title="Sport" tvg-shift="-1",DAZN 3 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+3
+#EXTINF:-1 tvg-id="DAZN4.de" tvg-name="DAZN 4 (1080p)" tvg-logo="https://kovi.ml/data/picons/dazn-4-hd.png" group-title="Sport" tvg-shift="-1",DAZN 4 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+4
+#EXTINF:-1 tvg-id="DAZN5.de" tvg-name="DAZN 5 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_05.png" group-title="Sport" tvg-shift="-1",DAZN 5 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+5
+#EXTINF:-1 tvg-id="DAZN7.de" tvg-name="DAZN 7 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_07.png" group-title="Sport" tvg-shift="-1",DAZN 7 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+7
+#EXTINF:-1 tvg-id="DAZN8.de" tvg-name="DAZN 8 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_08.png" group-title="Sport" tvg-shift="-1",DAZN 8 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+8
+#EXTINF:-1 tvg-id="DAZN9.de" tvg-name="DAZN 9 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_09.png" group-title="Sport" tvg-shift="-1",DAZN 9 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+9
+#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DAZN 10 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_10.png" group-title="Sport" tvg-shift="-1",DAZN 10 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+10
+#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DAZN 11 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_11.png" group-title="Sport" tvg-shift="-1",DAZN 11 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+11
+#EXTINF:-1 tvg-id="DAZN12.de" tvg-name="DAZN 12 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_12.png" group-title="Sport" tvg-shift="-1",DAZN 12 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+12
+#EXTINF:-1 tvg-id="DAZN13.de" tvg-name="DAZN 13 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_13.png" group-title="Sport" tvg-shift="-1",DAZN 13 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+13
+#EXTINF:-1 tvg-id="DAZN14.de" tvg-name="DAZN 14 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_14.png" group-title="Sport" tvg-shift="-1",DAZN 14 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+14
+#EXTINF:-1 tvg-id="DAZN11.de" tvg-name="DAZN 15 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_15.png" group-title="Sport" tvg-shift="-1",DAZN 15 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+15
+#EXTINF:-1 tvg-id="DAZN16.de" tvg-name="DAZN 16 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_16.png" group-title="Sport" tvg-shift="-1",DAZN 16 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+16
+#EXTINF:-1 tvg-id="DAZN17.de" tvg-name="DAZN 17 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_17.png" group-title="Sport" tvg-shift="-1",DAZN 17 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+17
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 (1080p)" tvg-logo="https://kovi.ml/data/picons/eurosport1.png" group-title="Sport" tvg-shift="-1",Eurosport 1 (1080p)
+plugin://plugin.video.vavooto/?name=EUROSPORT+1
+#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="Eurosport 2 (1080p)" tvg-logo="https://kovi.ml/data/picons/eurosport2.png" group-title="Sport" tvg-shift="-1",Eurosport 2 (1080p)
+plugin://plugin.video.vavooto/?name=EUROSPORT+2
+#EXTINF:-1 tvg-id="Eurosport2XTRA.de" tvg-name="Eurosport 2 XTRA (1080p) " tvg-logo="https://kovi.ml/data/picons/eurosport2-xtra-hd.png" group-title="Sport" tvg-shift="-1",Eurosport 2 XTRA (1080p) 
+plugin://plugin.video.vavooto/?name=EUROSPORT+2+XTRA
+#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 XTRA (1080p) (Backup)" tvg-logo="https://kovi.ml/data/picons/eurosport2hdv2.png" group-title="Sport" tvg-shift="-1",Eurosport 2 XTRA (1080p) (Backup)
+plugin://plugin.video.vavooto/?name=EUROSPORT+XTRA+2%2B
+#EXTINF:-1 tvg-id="FCBayern.de" tvg-name="FC Bayern TV" tvg-logo="https://www.seitwerk.de/media/cache/customer/cms/media/customer/fcbayern-logo.png" group-title="Sport" tvg-shift="-1",FC Bayern TV
+plugin://plugin.video.vavooto/?name=FC+BAYERN
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 1" tvg-logo="https://logo watchhd.cc/logo/Magenta/magenta-01.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 1
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 2" tvg-logo="https://kovi.ml/data/picons/Magenta/magenta-02.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 2
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 3" tvg-logo="https://kovi.ml/data/picons/Magenta/magenta-03.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 3
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 4" tvg-logo="https://kovi.ml/data/picons/Magenta/magenta-04.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 4
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 5" tvg-logo="https://kovi.ml/data/picons/Magenta/magenta-05.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 5
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 6" tvg-logo="https://kovi.ml/data/picons/Magenta/magenta-06.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 6
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 7" tvg-logo="https://kovi.ml/data/picons/Magenta/magenta-07.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 7
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 8" tvg-logo="https://kovi.ml/data/picons/Magenta/magenta-08.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 8
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 9" tvg-logo="https://kovi.ml/data/picons/Magenta/magenta-09.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 9
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 10" tvg-logo="https://kovi.ml/data/picons/Magenta/magenta-10.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 10
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+10
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 11" tvg-logo="https://kovi.ml/data/picons/Magenta/magenta-11.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 11
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+11
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 12" tvg-logo="https://kovi.ml/data/picons/Magenta/magenta-12.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 12
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+12
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 13" tvg-logo="https://kovi.ml/data/picons/magenta-13.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 13
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+13
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 14" tvg-logo="https://kovi.ml/data/picons/magenta-14.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 14
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+14
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 15" tvg-logo="https://kovi.ml/data/picons/magenta-15.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 15
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+15
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 16" tvg-logo="https://kovi.ml/data/picons/magenta-16.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 16
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+16
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 17" tvg-logo="https://kovi.ml/data/picons/magenta-17.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 17
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+17
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 18" tvg-logo="https://kovi.ml/data/picons/magenta-18.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 18
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+18
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 19" tvg-logo="https://kovi.ml/data/picons/magenta-19.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 19
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+19
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 20" tvg-logo="https://kovi.ml/data/picons/magenta-20.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 20
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+20
+#EXTINF:-1 tvg-id="UHD1(src01).de" tvg-name="Magenta Sport 1 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-1.png" group-title="Sport" tvg-shift="-1",Magenta Sport 1 (1080p)
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 2 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-2.png" group-title="Sport" tvg-shift="-1",Magenta Sport 2 (1080p)
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 3 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-3.png" group-title="Sport" tvg-shift="-1",Magenta Sport 3 (1080p)
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 4 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-4.png" group-title="Sport" tvg-shift="-1",Magenta Sport 4 (1080p)
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 5 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-5.png" group-title="Sport" tvg-shift="-1",Magenta Sport 5 (1080p)
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 6 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-6.png" group-title="Sport" tvg-shift="-1",Magenta Sport 6 (1080p)
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 7 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-7.png" group-title="Sport" tvg-shift="-1",Magenta Sport 7 (1080p)
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 8 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-8.png" group-title="Sport" tvg-shift="-1",Magenta Sport 8 (1080p)
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 9 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-9.png" group-title="Sport" tvg-shift="-1",Magenta Sport 9 (1080p)
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 10 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-10.png" group-title="Sport" tvg-shift="-1",Magenta Sport 10 (1080p)
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+10
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 11 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-11.png" group-title="Sport" tvg-shift="-1",Magenta Sport 11 (1080p)
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+11
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 12 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-12.png" group-title="Sport" tvg-shift="-1",Magenta Sport 12 (1080p)
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+12
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 13 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-13.png" group-title="Sport" tvg-shift="-1",Magenta Sport 13 (1080p)
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+13
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 14 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-14.png" group-title="Sport" tvg-shift="-1",Magenta Sport 14 (1080p)
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+14
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 15 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-15.png" group-title="Sport" tvg-shift="-1",Magenta Sport 15 (1080p)
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+15
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 16 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-16.png" group-title="Sport" tvg-shift="-1",Magenta Sport 16 (1080p)
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+16
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 17 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-17.png" group-title="Sport" tvg-shift="-1",Magenta Sport 17 (1080p)
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+17
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 18 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-18.png" group-title="Sport" tvg-shift="-1",Magenta Sport 18 (1080p)
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+18
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 19 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-19.png" group-title="Sport" tvg-shift="-1",Magenta Sport 19 (1080p)
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+19
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 20 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-Programm.png" group-title="Sport" tvg-shift="-1",Magenta Sport 20 (1080p)
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+20
+#EXTINF:-1 tvg-id="MyTeamTVEishockey1.de" tvg-name="Magenta DEL / Eishockey (1080p)" tvg-logo="https://kovi.ml/data/picons/Telekom-Eishockey.png" group-title="Sport" tvg-shift="-1",Magenta DEL / Eishockey (1080p)
+plugin://plugin.video.vavooto/?name=DEL+SPORT+1
+#EXTINF:-1 tvg-id="SkySportBundesliga1.de" tvg-name="Sky Bundesliga 1 (480p) (TapTV)" tvg-logo="https://kovi.ml/data/picons/SKY-Bundesliga-1HD.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 1 (480p) (TapTV)
+plugin://plugin.video.taptv/play/401/play.pvr
+#EXTINF:-1 tvg-id="SkySportBundesliga2.de" tvg-name="Sky Bundesliga 2 (480p) (TapTV)" tvg-logo="https://kovi.ml/data/picons/SKY-Bundesliga-2HD.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 2 (480p) (TapTV)
+plugin://plugin.video.taptv/play/431/play.pvr
+#EXTINF:-1 tvg-id="SkySportBundesliga3.de" tvg-name="Sky Bundesliga 3 (1080p) (TapTV)" tvg-logo="https://kovi.ml/data/picons/SKY-Bundesliga-3HD.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 3 (1080p) (TapTV)
+plugin://plugin.video.taptv/play/432/play.pvr
+#EXTINF:-1 tvg-id="SkySportBundesliga4.de" tvg-name="Sky Bundesliga 4 (1080p) (TapTV)" tvg-logo="https://kovi.ml/data/picons/SKY-Bundesliga-4HD.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 4 (1080p) (TapTV)
+plugin://plugin.video.taptv/play/433/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 5 (1080p) (TapTV)" tvg-logo="https://kovi.ml/data/picons/Sky-bundesliga-5hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 5 (1080p) (TapTV)
+plugin://plugin.video.taptv/play/444/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 6 (1080p) (TapTV)" tvg-logo="https://kovi.ml/data/picons/Sky-bundesliga-6hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 6 (1080p) (TapTV)
+plugin://plugin.video.taptv/play/435/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 7 (1080p) (TapTV)" tvg-logo="https://kovi.ml/data/picons/Sky-bundesliga-7hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 7 (1080p) (TapTV)
+plugin://plugin.video.taptv/play/436/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 8 (1080p) (TapTV)" tvg-logo="https://kovi.ml/data/picons/Sky-bundesliga-8hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 8 (1080p) (TapTV)
+plugin://plugin.video.taptv/play/437/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport 1 (TapTV)" tvg-logo="https://kovi.ml/data/picons/sky-sport-1HD.png" group-title="Sport" tvg-shift="-1",Sky Sport 1 (TapTV)
+plugin://plugin.video.taptv/play/403/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport 2 (TapTV)" tvg-logo="https://kovi.ml/data/picons/sky-sport-2HD.png" group-title="Sport" tvg-shift="-1",Sky Sport 2 (TapTV)
+plugin://plugin.video.taptv/play/404/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport1 (TapTV)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_08.png" group-title="Sport" tvg-shift="-1",Sport1 (TapTV)
+plugin://plugin.video.taptv/play/405/play.pvr
+#EXTINF:-1 tvg-id="Sport001.de" tvg-name="Sport1 (1080p)" tvg-logo="https://kovi.ml/data/picons/sport1.png" group-title="Sport" tvg-shift="-1",Sport1 (1080p)
+plugin://plugin.video.vavooto/?name=SPORT+1
+#EXTINF:-1 tvg-id="SPORT1plus.de" tvg-name="Sport1+ (1080p)" tvg-logo="https://kovi.ml/data/picons/sport1+.png" group-title="Sport" tvg-shift="-1",Sport1+ (1080p)
+plugin://plugin.video.vavooto/?name=SPORT+1+PLUS
+#EXTINF:-1 tvg-id="SPORT1+" tvg-name="Sport1+ (1080p) (Backup)" tvg-logo="https://kovi.ml/data/picons/sport1+hd.png" group-title="Sport" tvg-shift="-1",Sport1+ (1080p) (Backup)
+plugin://plugin.video.vavooto/?name=SPORT+1%2B
+#EXTINF:-1 tvg-id="sportdigital(src01).de" tvg-name="Sport Digital (1080p)" tvg-logo="https://kovi.ml/data/picons/sportdigital.png" group-title="Sport" tvg-shift="-1",Sport Digital (1080p)
+plugin://plugin.video.vavooto/?name=SPORT+DIGITAL
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="Das Erste HD" tvg-logo="http://kovi.ml/data/picons/das-erste.png" group-title="Standart" tvg-shift="-1",Das Erste HD
+plugin://plugin.video.vavooto/?name=ARD+DAS+ERSTE
+#EXTINF:-1 tvg-id="ONE" tvg-name="Das Erste One HD" tvg-logo="http://kovi.ml/data/picons/one.png" group-title="Standart" tvg-shift="-1",Das Erste One HD
+plugin://plugin.video.vavooto/?name=ONE
+#EXTINF:-1 tvg-id="tagesschau24" tvg-name="Tagesschau 24" tvg-logo="http://kovi.ml/data/picons/tagesschau24.png" group-title="Standart" tvg-shift="-1",Tagesschau 24
+plugin://plugin.video.vavooto/?name=TAGESSCHAU+24
+#EXTINF:-1 tvg-id="ZDF" tvg-name="ZDF HD " tvg-logo="http://kovi.ml/data/picons/zdf.png" group-title="Standart" tvg-shift="-1",ZDF HD 
 plugin://plugin.video.vavooto/?name=ZDF%2B
-#EXTINF:-1 tvg-id="ZDFinfo" tvg-name="ZDF info" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1013.png" group-title="Standart",ZDF info
+#EXTINF:-1 tvg-id="ZDFinfo" tvg-name="ZDF info" tvg-logo="http://kovi.ml/data/picons/zdf-info.png" group-title="Standart" tvg-shift="-1",ZDF info
 plugin://plugin.video.vavooto/?name=ZDF+INFO
-#EXTINF:-1 tvg-id="ZDFneo" tvg-name="ZDF neo" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1015.png" group-title="Standart",ZDF neo
+#EXTINF:-1 tvg-id="ZDFneo" tvg-name="ZDF neo" tvg-logo="http://kovi.ml/data/picons/zdf-neo.png" group-title="Standart" tvg-shift="-1",ZDF neo
 plugin://plugin.video.vavooto/?name=ZDF+NEO
-#EXTINF:-1 channel-id="samsung-DEAJ3500002EO" tvg-id="DEAJ3500002EO" tvg-chno="4004" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3500002EO_20221109T010520SQUARE.png_20221109010521.png" group-title="Samsung TV Plus" , Komödien - Rakuten TV
-https://d69cd6f2ab304e228ebea8afc7420983.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_RakutenComedyMovies/playlist.m3u8?ads.wurl_channel=432&ads.wurl_name=RakutenComedyMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBC35000020P" tvg-id="DEBC35000020P" tvg-chno="4950" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC35000020P_20221012T015939SQUARE.png_20221012015939.png" group-title="Samsung TV Plus" , Filmgold
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-filmgold-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 channel-id="samsung-DEBA3300034HH" tvg-id="DEBA3300034HH" tvg-chno="4954" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300034HH_20220323T075300SQUARE.png_20220323075303.png" group-title="Samsung TV Plus" , wedo movies
-https://videosolu-watch4movies-samsunguk-tfgq4.amagi.tv/playlist/videosolu-watch4movies-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0&is_lat=REPLACEME&gdpr=REPLACEME
-#EXTINF:-1 channel-id="samsung-DEBA15000130L" tvg-id="DEBA15000130L" tvg-chno="4957" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA15000130L_20220323T074933SQUARE.png_20220323074936.png" group-title="Samsung TV Plus" , Fabella
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/fca9f5ec-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEAJ0500419A" tvg-id="DEAJ0500419A" tvg-chno="4960" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500419A_20220323T075046SQUARE.png_20220323075049.png" group-title="Samsung TV Plus" , Netzkino
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9390cd38-818d-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBA3300040CR" tvg-id="DEBA3300040CR" tvg-chno="4963" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300040CR_20220323T075034SQUARE.png_20220323075036.png" group-title="Samsung TV Plus" , Moviedome Family
-https://samsunguk-kochmedia-moviedomefamily-samsunguk-vl9ot.amagi.tv/playlist/samsunguk-kochmedia-moviedomefamily-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 channel-id="samsung-DEAK3504517A" tvg-id="DEAK3504517A" tvg-chno="4966" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504517A_20220323T075105SQUARE.png_20220323075108.png" group-title="Samsung TV Plus" , Pluto TV Movies
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d0a1f73654db655a9274428/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-#EXTINF:-1 channel-id="samsung-DEBA1500011RJ" tvg-id="DEBA1500011RJ" tvg-chno="4969" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1500011RJ_20220323T074945SQUARE.png_20220323074948.png" group-title="Samsung TV Plus" , Fantasja
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/db0bd9b5-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEAK0500449A" tvg-id="DEAK0500449A" tvg-chno="4972" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500449A_20221123T010236SQUARE.png_20221123010237.png" group-title="Samsung TV Plus" , Grjngo
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/11edf121-80c2-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBA1500024PZ" tvg-id="DEBA1500024PZ" tvg-chno="4975" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1500024PZ_20220323T075003SQUARE.png_20220323075006.png" group-title="Samsung TV Plus" , Heimatkino
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a5fd52f5-b250-11eb-a7de-bacfe1f83627/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBA3300017VV" tvg-id="DEBA3300017VV" tvg-chno="4976" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300017VV_20230322T075315SQUARE.png_20230322075315.png" group-title="Samsung TV Plus" , Deutsches Kino - Rakuten TV
-https://ef2cc38dcb4840cf98fcfb225a1a494b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-de_DeutschesKino/playlist.m3u8?ads.wurl_channel=796&ads.wurl_name=DeutschesKino&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBA3300039TT" tvg-id="DEBA3300039TT" tvg-chno="4978" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300039TT_20220810T012638SQUARE.png_20220810012639.png" group-title="Samsung TV Plus" , Moviedome
-https://samsunguk-kochmedia-moviedome-samsunguk-j5440.amagi.tv/playlist/samsunguk-kochmedia-moviedome-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 channel-id="samsung-DEBA2200009C1" tvg-id="DEBA2200009C1" tvg-chno="4984" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200009C1_20220323T075135SQUARE.png_20220323075138.png" group-title="Samsung TV Plus" , Sofy.tv
-https://samsunguk-sofytv-samsung-de-9autv.amagi.tv/playlist/samsunguk-sofytv-samsung-de/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 channel-id="samsung-DEAK0500448A" tvg-id="DEAK0500448A" tvg-chno="4987" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500448A_20221123T010235SQUARE.png_20221123010236.png" group-title="Samsung TV Plus" , Charlie
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bad234c1-7cd6-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBA3300032UV" tvg-id="DEBA3300032UV" tvg-chno="4993" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300032UV_20220323T075317SQUARE.png_20220323075320.png" group-title="Samsung TV Plus" , MyTime Movie Network
-https://amg00500-studiocitypictu-mytimegerman-samsungde-mpqro.amagi.tv/playlist/amg00500-studiocitypictu-mytimegerman-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 channel-id="samsung-DEBA3300015ZU" tvg-id="DEBA3300015ZU" tvg-chno="4994" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300015ZU_20221012T015945SQUARE.png_20221012015945.png" group-title="Samsung TV Plus" , Top Filme - Rakuten TV
-https://e15c6d5cc3f240df98d3bf8e1531ca1c.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-de_TopFree/playlist.m3u8?ads.wurl_channel=837&ads.wurl_name=TopFree&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBC1000001LB" tvg-id="DEBC1000001LB" tvg-chno="4997" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC1000001LB_20230426T015548SQUARE.png_20230426015549.png" group-title="Samsung TV Plus" , Cine Mix
-https://d25ai5zwjx4rs9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o79t9b0wedtb0-prod/amgcinemix/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEAJ3500003YF" tvg-id="DEAJ3500003YF" tvg-chno="4998" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3500003YF_20220323T074908SQUARE.png_20220323074911.png" group-title="Samsung TV Plus" , Drama Filme - Rakuten TV
-https://2937ba9c0c3e46babadc32c327b710b5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_RakutenTVShows/playlist.m3u8?ads.wurl_channel=433&ads.wurl_name=RakutenTVShows&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEAJ3500001Q1" tvg-id="DEAJ3500001Q1" tvg-chno="4999" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3500001Q1_20220323T074838SQUARE.png_20220323074840.png" group-title="Samsung TV Plus" , Actionfilme - Rakuten TV
-https://e4c3186527294735b034e99058776780.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_RakutenActionMovies/playlist.m3u8?ads.wurl_channel=431&ads.wurl_name=RakutenActionMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBA1000003IM" tvg-id="DEBA1000003IM" tvg-chno="4003" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1000003IM_20230222T012113SQUARE.png_20230222012113.png" group-title="Samsung TV Plus" , Euronews Live
-https://64ae17e353a144d38d09cb7530008fb7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_EuroNewsLive/playlist.m3u8?ads.wurl_channel=545&ads.wurl_name=EuroNewsLive&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBD800001S4" tvg-id="DEBD800001S4" tvg-chno="4005" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBD800001S4_20230308T021608SQUARE.png_20230308021608.png" group-title="Samsung TV Plus" , CNN
-https://d1mj4zol5huu6l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tp1e68v8mb0lb/index.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBA3300027ZJ" tvg-id="DEBA3300027ZJ" tvg-chno="4320" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300027ZJ_20221026T004408SQUARE.png_20221026004409.png" group-title="Samsung TV Plus" , Bloomberg TV+
-https://6fae2fb516504b2eaa11e5eb1e48bf1c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_Bloomberg/playlist.m3u8?ads.wurl_channel=389&ads.wurl_name=Bloomberg&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBA3300020Y3" tvg-id="DEBA3300020Y3" tvg-chno="4324" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300020Y3_20220323T072225SQUARE.png_20220323072228.png" group-title="Samsung TV Plus" , Reuters
-https://e6c161a2065f471aaf3136462778a6da.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ReutersNow/playlist.m3u8?ads.wurl_channel=481&ads.wurl_name=ReutersNow&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBA3300029HT" tvg-id="DEBA3300029HT" tvg-chno="4330" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300029HT_20230322T075311SQUARE.png_20230322075312.png" group-title="Samsung TV Plus" , Euronews Stories
-https://amg00712-alchimie-euronewsde-samsungde-rx0y1.amagi.tv/playlist/amg00712-alchimie-euronewsde-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 channel-id="samsung-DEAJ0500413A" tvg-id="DEAJ0500413A" tvg-chno="4336" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500413A_20221026T004328SQUARE.png_20221026004329.png" group-title="Samsung TV Plus" , Focus TV
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/f67c7d68-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEAK0500441A" tvg-id="DEAK0500441A" tvg-chno="4342" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500441A_20230208T012848SQUARE.png_20230208012849.png" group-title="Samsung TV Plus" , SPIEGEL TV
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/0ac124fc-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEAK3504502A" tvg-id="DEAK3504502A" tvg-chno="4110" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504502A_20221026T004357SQUARE.png_20221026004358.png" group-title="Samsung TV Plus" , MTV Catfish
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e7b855972c36600076b7ddd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-#EXTINF:-1 channel-id="samsung-DEAJ3200004UF" tvg-id="DEAJ3200004UF" tvg-chno="4114" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3200004UF_20221026T004402SQUARE.png_20221026004403.png" group-title="Samsung TV Plus" , FailArmy
-https://799e1e65b6954f11b65eba4ce0d6b8ae.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_FailArmy/playlist.m3u8?ads.wurl_channel=151&ads.wurl_name=FailArmy&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEAK3504508A" tvg-id="DEAK3504508A" tvg-chno="4118" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504508A_20221026T004401SQUARE.png_20221026004401.png" group-title="Samsung TV Plus" , Pluto TV Sitcoms
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cd149f021cb6c55e258bbe8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-#EXTINF:-1 channel-id="samsung-DEAJ3200005JH" tvg-id="DEAJ3200005JH" tvg-chno="4120" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3200005JH_20230222T012111SQUARE.png_20230222012112.png" group-title="Samsung TV Plus" , The Pet Collective
-https://7e317da828ea423886a65e2693b23248.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_ThePetCollective/playlist.m3u8?ads.wurl_channel=152&ads.wurl_name=ThePetCollective&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEAK3504501A" tvg-id="DEAK3504501A" tvg-chno="4126" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504501A_20221026T004356SQUARE.png_20221026004356.png" group-title="Samsung TV Plus" , Comedy Central Made in Germany
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e7b8923fc302800079e4f4f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-#EXTINF:-1 channel-id="samsung-DEBA3300038NO" tvg-id="DEBA3300038NO" tvg-chno="4128" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300038NO_20230426T015546SQUARE.png_20230426015547.png" group-title="Samsung TV Plus" , Craction TV
-https://samsunguk-palatin-cractiontv-samsunguk-t8lgw.amagi.tv/playlist/samsunguk-palatin-cractiontv-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 channel-id="samsung-DEAK3504500A" tvg-id="DEAK3504500A" tvg-chno="4130" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504500A_20221026T004354SQUARE.png_20221026004355.png" group-title="Samsung TV Plus" , Comedy Central Pluto TV
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcea6bc6fb8890009322ff3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-#EXTINF:-1 channel-id="samsung-DEAJ7000105I" tvg-id="DEAJ7000105I" tvg-chno="4132" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ7000105I_20220323T072040SQUARE.png_20220323072043.png" group-title="Samsung TV Plus" , MTV Teen Mom
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/6041236542d13a0007c600f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-#EXTINF:-1 channel-id="samsung-DEAJ3500005RK" tvg-id="DEAJ3500005RK" tvg-chno="4134" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ3500005RK_20220323T072130SQUARE.png_20220323072133.png" group-title="Samsung TV Plus" , People Are Awesome
-https://20f120ffdbfd4b5e928df7c47a2862a6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_PeopleAreAwesome/playlist.m3u8?ads.wurl_channel=386&ads.wurl_name=PeopleAreAwesome&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEAJ7000033P" tvg-id="DEAJ7000033P" tvg-chno="4136" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ7000033P_20220323T072034SQUARE.png_20220323072037.png" group-title="Samsung TV Plus" , MTV Pluto TV
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcebe53d352330009e56f5b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-#EXTINF:-1 channel-id="samsung-DEBC2200002E7" tvg-id="DEBC2200002E7" tvg-chno="4138" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2200002E7_20220914T041110SQUARE.png_20220914041110.png" group-title="Samsung TV Plus" , Comedy & Shows
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-comedyandshows-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 channel-id="samsung-DEBC2200003Z3" tvg-id="DEBC2200003Z3" tvg-chno="4139" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2200003Z3_20221012T015941SQUARE.png_20221012015942.png" group-title="Samsung TV Plus" , Stars in Gefahr
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-starsingefahr-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 channel-id="samsung-DEBA3300023IR" tvg-id="DEBA3300023IR" tvg-chno="4610" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300023IR_20220323T075159SQUARE.png_20220323075202.png" group-title="Samsung TV Plus" , Teletubbies
-https://39abeaa9edff457a8d0fda45c0f64e29.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_WildBrainPresentsTeletubbies/playlist.m3u8?ads.wurl_channel=669&ads.wurl_name=WildBrainPresentsTeletubbies&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBA3300025TK" tvg-id="DEBA3300025TK" tvg-chno="4613" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300025TK_20220824T005411SQUARE.png_20220824005411.png" group-title="Samsung TV Plus" , SuperToons TV
-https://050831e2427a4101b90eadb8bd424266.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_SuperToonsTV/playlist.m3u8?ads.wurl_channel=660&ads.wurl_name=SuperToonsTV&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBA33000212C" tvg-id="DEBA33000212C" tvg-chno="4615" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA33000212C_20230308T021555SQUARE.png_20230308021556.png" group-title="Samsung TV Plus" , Family - Rakuten TV
-https://558441307ee2441fbd0f67ae40a04646.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_RakutenFamily/playlist.m3u8?ads.wurl_channel=721&ads.wurl_name=RakutenFamily&ads.coppa=1&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEAJ70000561" tvg-id="DEAJ70000561" tvg-chno="4616" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ70000561_20221026T004351SQUARE.png_20221026004351.png" group-title="Samsung TV Plus" , SpongeBob Schwammkopf
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f3d2c4e501f18000788d8e9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-#EXTINF:-1 channel-id="samsung-DEAJ700004BT" tvg-id="DEAJ700004BT" tvg-chno="4619" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700004BT_20221026T004349SQUARE.png_20221026004350.png" group-title="Samsung TV Plus" , Nick Rewind
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f3d2bcd0fadc30007b4863b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-#EXTINF:-1 channel-id="samsung-DEAJ700002N8" tvg-id="DEAJ700002N8" tvg-chno="4622" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700002N8_20221026T004347SQUARE.png_20221026004348.png" group-title="Samsung TV Plus" , Nick Pluto TV
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f3d2b57d6c60800074cb305/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-#EXTINF:-1 channel-id="samsung-DEAJ700006MR" tvg-id="DEAJ700006MR" tvg-chno="4625" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700006MR_20221026T004353SQUARE.png_20221026004353.png" group-title="Samsung TV Plus" , iCarly
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f3d2cb9f5b291000773807a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-#EXTINF:-1 channel-id="samsung-DEBC4700007JV" tvg-id="DEBC4700007JV" tvg-chno="4628" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700007JV_20221214T045041SQUARE.png_20221214045042.png" group-title="Samsung TV Plus" , duckTV
-https://dz4jacps8l0pw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBB3100001AR" tvg-id="DEBB3100001AR" tvg-chno="4006" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBB3100001AR_20230412T042623SQUARE.png_20230412042623.png" group-title="Samsung TV Plus" , Crime Mix
-https://d1gkt8v6hadmy7.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/MysteryKrimi-DE-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEAJ700007OT" tvg-id="DEAJ700007OT" tvg-chno="4166" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700007OT_20220323T072201SQUARE.png_20220323072203.png" group-title="Samsung TV Plus" , Pluto TV Serie
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ddbf866b1862a0009a0648e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-#EXTINF:-1 channel-id="samsung-DEBC2200001EO" tvg-id="DEBC2200001EO" tvg-chno="4169" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2200001EO_20221214T045035SQUARE.png_20221214045036.png" group-title="Samsung TV Plus" , Spannung & Emotionen
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-spannungemo-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 channel-id="samsung-DEBC3000003IG" tvg-id="DEBC3000003IG" tvg-chno="4200" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC3000003IG_20230308T021613SQUARE.png_20230308021614.png" group-title="Samsung TV Plus" , Terra X
-https://d1zs2gj7tbptpa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ghu9x4dfp5gx4-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBC220000422" tvg-id="DEBC220000422" tvg-chno="4207" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC220000422_20230412T042631SQUARE.png_20230412042631.png" group-title="Samsung TV Plus" , The Wicked Tuna Channel
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtunade-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 channel-id="samsung-DEAJ700008WL" tvg-id="DEAJ700008WL" tvg-chno="4210" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ700008WL_20220323T072155SQUARE.png_20220323072157.png" group-title="Samsung TV Plus" , Pluto TV Paranormal
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/6041222727dfcf000786e954/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-#EXTINF:-1 channel-id="samsung-DEBA1000007UF" tvg-id="DEBA1000007UF" tvg-chno="4216" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1000007UF_20220323T071820SQUARE.png_20220323071823.png" group-title="Samsung TV Plus" , BBC History
-https://7a0978fa08424aa3b473d22dc144bd01.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCHistory/playlist.m3u8?ads.wurl_channel=947&ads.wurl_name=BBCHistory&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEAK0500450A" tvg-id="DEAK0500450A" tvg-chno="4219" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500450A_20221026T004342SQUARE.png_20221026004342.png" group-title="Samsung TV Plus" , Tempora
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4a8e7464-7cd6-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEAJ7000096L" tvg-id="DEAJ7000096L" tvg-chno="4222" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ7000096L_20220323T072004SQUARE.png_20220323072007.png" group-title="Samsung TV Plus" , Ice Pilots
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/604123023ece0b0007a43049/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-#EXTINF:-1 channel-id="samsung-DEAK3504506A" tvg-id="DEAK3504506A" tvg-chno="4228" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504506A_20220914T041104SQUARE.png_20220914041105.png" group-title="Samsung TV Plus" , Pluto TV Science
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9b73efd87eb3a2717ccde/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-#EXTINF:-1 channel-id="samsung-DEAJ35000044V" tvg-id="DEAJ35000044V" tvg-chno="4229" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ35000044V_20221214T045017SQUARE.png_20221214045018.png" group-title="Samsung TV Plus" , Dokumentarfilme - Rakuten TV
-https://e9937d5e420843fd89b67166d91331f2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_RakutenSpotlight/playlist.m3u8?ads.wurl_channel=434&ads.wurl_name=RakutenSpotlight&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBA2200002AN" tvg-id="DEBA2200002AN" tvg-chno="4231" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200002AN_20230125T022359SQUARE.png_20230125022359.png" group-title="Samsung TV Plus" , INWONDER
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonder-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 channel-id="samsung-DEBA15000298V" tvg-id="DEBA15000298V" tvg-chno="4234" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA15000298V_20220323T071839SQUARE.png_20220323071841.png" group-title="Samsung TV Plus" , Bergblick Free
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/5ad84e6a-299b-11ec-b414-948e0b8da07d/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBA2200001LP" tvg-id="DEBA2200001LP" tvg-chno="4237" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200001LP_20230125T022357SQUARE.png_20230125022357.png" group-title="Samsung TV Plus" , INFAST
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00861-terninternation-lifestyle-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 channel-id="samsung-DEBC4700004VZ" tvg-id="DEBC4700004VZ" tvg-chno="4239" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC4700004VZ_20230426T015550SQUARE.png_20230426015550.png" group-title="Samsung TV Plus" , Love the Planet
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovetheplanetdesamsung-samsungde/playlist.m3u8?dnt=REPLACEME&app_bundle=REPLACEME&app_name=REPLACEME&app_store_url=REPLACEME&did=REPLACEME&app_domain=REPLACEME&device_make=REPLACEME&device_model=REPLACEME&coppa=REPLACEME&tc_string=REPLACEME
-#EXTINF:-1 channel-id="samsung-DEBA1500009ZY" tvg-id="DEBA1500009ZY" tvg-chno="4240" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1500009ZY_20221123T010238SQUARE.png_20221123010239.png" group-title="Samsung TV Plus" , Moconomy
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/77d4142c-7cd6-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBA3300042XG" tvg-id="DEBA3300042XG" tvg-chno="4260" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20230412T042613SQUARE.png_20230412042614.png" group-title="Samsung TV Plus" , Wilder Planet
-https://amg00477-samsunguk-wilderplanet-samsunguk-samsunguk-yt0go.amagi.tv/playlist/amg00477-samsunguk-wilderplanet-samsunguk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.tc_string=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEAJ0500423A" tvg-id="DEAJ0500423A" tvg-chno="4263" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500423A_20221026T004331SQUARE.png_20221026004331.png" group-title="Samsung TV Plus" , Tierwelt
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/5a7fe3dd-7cd6-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEAK3504503A" tvg-id="DEAK3504503A" tvg-chno="4266" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK3504503A_20221026T004359SQUARE.png_20221026004359.png" group-title="Samsung TV Plus" , Pluto TV Animals
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9b6f57ef2767e1846e59f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-#EXTINF:-1 channel-id="samsung-DEBA15000227H" tvg-id="DEBA15000227H" tvg-chno="4269" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA15000227H_20220323T072117SQUARE.png_20220323072120.png" group-title="Samsung TV Plus" , One Terra
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/0d7ddc61-818f-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBA1000009TT" tvg-id="DEBA1000009TT" tvg-chno="4402" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1000009TT_20220914T041055SQUARE.png_20220914041055.png" group-title="Samsung TV Plus" , BBC Travel
-https://ab96b349d4d14d80a1f8530a0bce4488.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCTravel/playlist.m3u8?ads.wurl_channel=985&ads.wurl_name=BBCTravel&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEAJ0500428A" tvg-id="DEAJ0500428A" tvg-chno="4406" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500428A_20230412T042618SQUARE.png_20230412042618.png" group-title="Samsung TV Plus" , just.fishing
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8fb3677f-7cd4-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEAJ0500422A" tvg-id="DEAJ0500422A" tvg-chno="4410" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500422A_20230412T042615SQUARE.png_20230412042616.png" group-title="Samsung TV Plus" , Xplore
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/bab21a88-7cd4-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBA1000006W2" tvg-id="DEBA1000006W2" tvg-chno="4412" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1000006W2_20220324T011819SQUARE.png_20220324011821.png" group-title="Samsung TV Plus" , Hallo:Eltern
-https://9b76b74987e54141b85aa9b3226b9612.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_HALLOELTERN/playlist.m3u8?ads.wurl_channel=909&ads.wurl_name=HALLOELTERN&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEAJ0500424A" tvg-id="DEAJ0500424A" tvg-chno="4418" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500424A_20220323T071957SQUARE.png_20220323072000.png" group-title="Samsung TV Plus" , Hip Trips
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ebd246c0-6faf-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBA100000404" tvg-id="DEBA100000404" tvg-chno="4422" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA100000404_20221026T004407SQUARE.png_20221026004407.png" group-title="Samsung TV Plus" , Travelxp
-https://dd87bd3119dc4cbca8c31c3f5d127aef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_TravelXP/playlist.m3u8?ads.wurl_channel=556&ads.wurl_name=TravelXP&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBA3300022IF" tvg-id="DEBA3300022IF" tvg-chno="4424" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300022IF_20220323T071939SQUARE.png_20220323071942.png" group-title="Samsung TV Plus" , Fashion TV
-https://288e7e5ea70f423590b5c441bbc0037e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-de_FashionTV/playlist.m3u8?ads.wurl_channel=689&ads.wurl_name=FashionTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBA1000010YG" tvg-id="DEBA1000010YG" tvg-chno="4435" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1000010YG_20220713T034436SQUARE.png_20220713034437.png" group-title="Samsung TV Plus" , BBC Food
-https://c367ab159c494e0daa775bd24aac404d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_BBCFood/playlist.m3u8?ads.wurl_channel=1016&ads.wurl_name=BBCFood&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBA2200006XB" tvg-id="DEBA2200006XB" tvg-chno="4438" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200006XB_20220323T072243SQUARE.png_20220323072246.png" group-title="Samsung TV Plus" , Tastemade
-https://tastemade-tastemade-germany-samsung-ukaa-cznnv.amagi.tv/playlist/tastemade-tastemade-germany-samsung-ukAA/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 channel-id="samsung-DEBA3300001L9" tvg-id="DEBA3300001L9" tvg-chno="4441" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300001L9_20220323T072142SQUARE.png_20220323072145.png" group-title="Samsung TV Plus" , Pluto TV Food
-https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/617bca50434b280007bbf97b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
-#EXTINF:-1 channel-id="samsung-DEAK0500439A" tvg-id="DEAK0500439A" tvg-chno="4447" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500439A_20230208T012847SQUARE.png_20230208012847.png" group-title="Samsung TV Plus" , Just Cooking
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/44bf4cd7-7cd5-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBC2100001ZJ" tvg-id="DEBC2100001ZJ" tvg-chno="4710" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2100001ZJ_20230412T042619SQUARE.png_20230412042620.png" group-title="Samsung TV Plus" , Vevo Pop
-https://d39h650n18zv79.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulfbldzmyh257/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBC21000022L" tvg-id="DEBC21000022L" tvg-chno="4716" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC21000022L_20230412T042621SQUARE.png_20230412042621.png" group-title="Samsung TV Plus" , Vevo Schlager Pop
-https://d3adb9tbhoq5j1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2kpqrzfxhh0ys/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBA2200003I0" tvg-id="DEBA2200003I0" tvg-chno="4719" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200003I0_20220323T075123SQUARE.png_20220323075126.png" group-title="Samsung TV Plus" , Qwest TV Jazz and Beyond
-https://qwestaaaa-qwestjazz-uk-samsungtv-lew0b.amagi.tv/playlist/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 channel-id="samsung-DEBA2200007V6" tvg-id="DEBA2200007V6" tvg-chno="4722" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200007V6_20220323T075230SQUARE.png_20220323075233.png" group-title="Samsung TV Plus" , XITE Hits
-https://xite-samsung-de-tsv2-g31rd.amagi.tv/playlist/xiteaaaaa-xite-samsung-de/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 channel-id="samsung-DEBB3900001NE" tvg-id="DEBB3900001NE" tvg-chno="4725" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBB3900001NE_20221026T004412SQUARE.png_20221026004412.png" group-title="Samsung TV Plus" , Stingray Karaoke
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_de_stingraykaraoke_001.m3u8?ads.caid=stingraykaraoke&ads.csid=samsungtvplus_de_stingraykaraoke_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=DE&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=1824&ads.xumo_contentName=stingraykaraoke&ads.xumo_providerId=1824&ads.xumo_providerName=stingraykaraoke&ads.xumo_channelId=9992450&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=stingraykaraoke_de&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-#EXTINF:-1 channel-id="samsung-DEBA150003050" tvg-id="DEBA150003050" tvg-chno="4728" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA150003050_20220323T075311SQUARE.png_20220323075313.png" group-title="Samsung TV Plus" , Deluxe Deutschpop
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/95d6544c-4164-11ec-9c7c-2cf753b8a203/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBB3900002V9" tvg-id="DEBB3900002V9" tvg-chno="4731" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBB3900002V9_20221026T004410SQUARE.png_20221026004411.png" group-title="Samsung TV Plus" , Qello Concerts by Stingray
-https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_de_stingrayqello_001.m3u8?ads.caid=stingrayqello&ads.csid=samsungtvplus_de_stingrayqello_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1---&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB1-6&ads._fw_content_genre=music&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=1&ads._fw_gdpr_consent=%7BTC_STRING%7D&ads._fw_h_x_country=DE&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=187&ads.xumo_contentName=stingray&ads.xumo_providerId=187&ads.xumo_providerName=stingray&ads.xumo_channelId=9992451&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=qelloconcertsbystingray_de&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-#EXTINF:-1 channel-id="samsung-DEAH3904006A" tvg-id="DEAH3904006A" tvg-chno="4734" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAH3904006A_20220323T074902SQUARE.png_20220323074905.png" group-title="Samsung TV Plus" , Deluxe Lounge HD
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEAK0500445A" tvg-id="DEAK0500445A" tvg-chno="4737" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500445A_20221026T004339SQUARE.png_20221026004340.png" group-title="Samsung TV Plus" , GoldStar TV
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/4d36a94b-6fb0-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBA3300030O1" tvg-id="DEBA3300030O1" tvg-chno="4740" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300030O1_20220713T034441SQUARE.png_20220713034442.png" group-title="Samsung TV Plus" , Trace Urban
-https://amg01131-tracetv-traceurbande-samsungde-jxa3n.amagi.tv/playlist/amg01131-tracetv-traceurbande-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 channel-id="samsung-DEBA3300031Q8" tvg-id="DEBA3300031Q8" tvg-chno="4743" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300031Q8_20220323T075335SQUARE.png_20220323075338.png" group-title="Samsung TV Plus" , XITE Rock On
-https://amg01243-xitenetworksint-rockoneu-samsungde-urpi1.amagi.tv/playlist/amg01243-xitenetworksint-rockoneu-samsungde/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 channel-id="samsung-DEBB1900001Z6" tvg-id="DEBB1900001Z6" tvg-chno="4752" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBB1900001Z6_20220323T074850SQUARE.png_20220323074852.png" group-title="Samsung TV Plus" , Clubbing TV
-https://d3v9jn0ncs1ra2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9iy7jv4hjjike-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBC2300001EU" tvg-id="DEBC2300001EU" tvg-chno="4007" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBC2300001EU_20230412T042628SQUARE.png_20230412042628.png" group-title="Samsung TV Plus" , Red Bull TV
-https://dcaugt012swzs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nx2plzkkcowte-ssai-prd/hls/live/2004294/RBTVDACHPri/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBA1000008OY" tvg-id="DEBA1000008OY" tvg-chno="4516" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1000008OY_20220323T072344SQUARE.png_20220323072346.png" group-title="Samsung TV Plus" , World Poker Tour
-https://e22c2098b9ac42adbbf965b46f869046.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-de_WorldPokerTour/playlist.m3u8?ads.wurl_channel=983&ads.wurl_name=WorldPokerTour&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBA33000419P" tvg-id="DEBA33000419P" tvg-chno="4519" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA33000419P_20220324T011824SQUARE.png_20220324011827.png" group-title="Samsung TV Plus" , Horse & Country
-https://samsunguk-hnc-free-samsung-germany-7q8cw.amagi.tv/playlist/samsunguk-hnc-free-samsung-germany/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 channel-id="samsung-DEAJ0500429A" tvg-id="DEAJ0500429A" tvg-chno="4522" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500429A_20230208T012845SQUARE.png_20230208012846.png" group-title="Samsung TV Plus" , Sportdigital Free
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/3af04d27-818e-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBA2200008NL" tvg-id="DEBA2200008NL" tvg-chno="4525" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA2200008NL_20220323T075206SQUARE.png_20220323075209.png" group-title="Samsung TV Plus" , Tennis Channel Deutschland
-https://samsunguk-tennischannel-int-samsunguk-w5aqh.amagi.tv/playlist/samsunguk-tennischannel-int-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
-#EXTINF:-1 channel-id="samsung-DEBA1500026EV" tvg-id="DEBA1500026EV" tvg-chno="4528" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA1500026EV_20220323T075022SQUARE.png_20220323075025.png" group-title="Samsung TV Plus" , More Than Sports TV
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/61a7d63a-1d2e-11ec-b414-948e0b8da07d/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEAK0500452A" tvg-id="DEAK0500452A" tvg-chno="4485" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAK0500452A_20221026T004343SQUARE.png_20221026004343.png" group-title="Samsung TV Plus" , auto motor und sport
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/31209ff0-72bd-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEAH3904004A" tvg-id="DEAH3904004A" tvg-chno="4491" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAH3904004A_20221026T004323SQUARE.png_20221026004323.png" group-title="Samsung TV Plus" , Motorvision
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/a6f58959-7cd5-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEAJ0500425A" tvg-id="DEAJ0500425A" tvg-chno="4494" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEAJ0500425A_20221026T004332SQUARE.png_20221026004333.png" group-title="Samsung TV Plus" , Motorvision Classic
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9755626d-7cd5-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D
-#EXTINF:-1 channel-id="samsung-DEBA3300016EV" tvg-id="DEBA3300016EV" tvg-chno="4557" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300016EV_20230125T022401SQUARE.png_20230125022401.png" group-title="Samsung TV Plus" , Strongman Champions League
-https://c303ebf661a74c40b3ec71ee07072176.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-de_StrongmanChampionsLeague/playlist.m3u8?ads.wurl_channel=1203&ads.wurl_name=StrongmanChampionsLeague&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 tvg-id="NDR" tvg-name="NDR HD " tvg-logo="http://kovi.ml/data/picons/ndr.png" group-title="Standart" tvg-shift="-1",NDR HD 
+plugin://plugin.video.vavooto/?name=NDR
+#EXTINF:-1 tvg-id="WDR" tvg-name="WDR HD " tvg-logo="http://kovi.ml/data/picons/wdr.png" group-title="Standart" tvg-shift="-1",WDR HD 
+plugin://plugin.video.vavooto/?name=WDR
+#EXTINF:-1 tvg-id="HR" tvg-name="HR HD " tvg-logo="http://kovi.ml/data/picons/hr-hd.png" group-title="Standart" tvg-shift="-1",HR HD 
+plugin://plugin.video.vavooto/?name=HR-FERNSEHEN
+#EXTINF:-1 tvg-id="SWR/SR" tvg-name="SWR HD " tvg-logo="http://kovi.ml/data/picons/swr.png" group-title="Standart" tvg-shift="-1",SWR HD 
+plugin://plugin.video.vavooto/?name=SWR
+#EXTINF:-1 tvg-id="RBB" tvg-name="RBB HD " tvg-logo="http://kovi.ml/data/picons/rbb.png" group-title="Standart" tvg-shift="-1",RBB HD 
+plugin://plugin.video.vavooto/?name=RBB
+#EXTINF:-1 tvg-id="BR" tvg-name="BR HD " tvg-logo="http://kovi.ml/data/picons/br.png" group-title="Standart" tvg-shift="-1",BR HD 
+plugin://plugin.video.vavooto/?name=BR
+#EXTINF:-1 tvg-id="MDR" tvg-name="MDR HD " tvg-logo="http://kovi.ml/data/picons/mdr.png" group-title="Standart" tvg-shift="-1",MDR HD 
+plugin://plugin.video.vavooto/?name=MDR
+#EXTINF:-1 tvg-id="3sat" tvg-name="3sat HD " tvg-logo="http://kovi.ml/data/picons/3sat.png" group-title="Standart" tvg-shift="-1",3sat HD 
+plugin://plugin.video.vavooto/?name=3+SAT
+#EXTINF:-1 tvg-id="PHOENIX" tvg-name="Phoenix HD " tvg-logo="http://kovi.ml/data/picons/phoenix.png" group-title="Standart" tvg-shift="-1",Phoenix HD 
+plugin://plugin.video.vavooto/?name=PHOENIX
+#EXTINF:-1 tvg-id="ARTE" tvg-name="Arte HD " tvg-logo="http://kovi.ml/data/picons/arte.png" group-title="Standart" tvg-shift="-1",Arte HD 
+plugin://plugin.video.vavooto/?name=ARTE
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX HD " tvg-logo="http://kovi.ml/data/picons/dmax.png" group-title="Standart" tvg-shift="-1",DMAX HD 
+plugin://plugin.video.vavooto/?name=DMAX
+#EXTINF:-1 tvg-id="ORF 1" tvg-name="ORF 1" tvg-logo="http://kovi.ml/data/picons/orf-eins.png" group-title="Standart" tvg-shift="-1",ORF 1
+plugin://plugin.video.vavooto/?name=ORF+1
+#EXTINF:-1 tvg-id="ORF 2" tvg-name="ORF 2" tvg-logo="http://kovi.ml/data/picons/orf2.png" group-title="Standart" tvg-shift="-1",ORF 2
+plugin://plugin.video.vavooto/?name=ORF+2
+#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="http://kovi.ml/data/picons/atv.png" group-title="Standart" tvg-shift="-1",ATV
+plugin://plugin.video.vavooto/?name=ATV
+#EXTINF:-1 tvg-id="ATV II" tvg-name="ATV 2" tvg-logo="http://kovi.ml/data/picons/atv-2.png" group-title="Standart" tvg-shift="-1",ATV 2
+plugin://plugin.video.vavooto/?name=ATV+2
+#EXTINF:-1 tvg-id="N24 Doku" tvg-name="N24 Doku" tvg-logo="http://kovi.ml/data/picons/n24-doku.png" group-title="Standart" tvg-shift="-1",N24 Doku
+plugin://plugin.video.vavooto/?name=N24
+#EXTINF:-1 tvg-id="n-tv" tvg-name="n-tv" tvg-logo="http://kovi.ml/data/picons/ntv.png" group-title="Standart" tvg-shift="-1",n-tv
+plugin://plugin.video.vavooto/?name=NTV
+#EXTINF:-1 tvg-id="kabel eins" tvg-name="Kabel 1" tvg-logo="http://kovi.ml/data/picons/kabel1-hd.png" group-title="Standart" tvg-shift="-1",Kabel 1
+plugin://plugin.video.vavooto/?name=KABEL+1
+#EXTINF:-1 tvg-id="kabel eins Doku" tvg-name="Kabel 1 Doku" tvg-logo="http://kovi.ml/data/picons/kabel1-doku-hd.png" group-title="Standart" tvg-shift="-1",Kabel 1 Doku
+plugin://plugin.video.vavooto/?name=KABEL+1+DOKU
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="ProSieben" tvg-logo="http://kovi.ml/data/picons/pro7.png" group-title="Standart" tvg-shift="-1",ProSieben
+plugin://plugin.video.vavooto/?name=PRO+7
+#EXTINF:-1 tvg-id="ProSieben MAXX" tvg-name="ProSieben MAXX" tvg-logo="http://kovi.ml/data/picons/pro7-maxx.png" group-title="Standart" tvg-shift="-1",ProSieben MAXX
+plugin://plugin.video.vavooto/?name=PRO+7+MAXX
+#EXTINF:-1 tvg-id="ProSieben Fun" tvg-name="ProSieben Fun" tvg-logo="http://kovi.ml/data/picons/pro7-fun.png" group-title="Standart" tvg-shift="-1",ProSieben Fun
+plugin://plugin.video.vavooto/?name=PRO+7+FUN
+#EXTINF:-1 tvg-id="RTL" tvg-name="RTL" tvg-logo="http://kovi.ml/data/picons/rtl.png" group-title="Standart" tvg-shift="-1",RTL
+plugin://plugin.video.vavooto/?name=RTL
+#EXTINF:-1 tvg-id="RTL Crime" tvg-name="RTL Crime" tvg-logo="http://kovi.ml/data/picons/rtl-crime.png" group-title="Standart" tvg-shift="-1",RTL Crime
+plugin://plugin.video.vavooto/?name=RTL+CRIME
+#EXTINF:-1 tvg-id="RTL Living" tvg-name="RTL Living" tvg-logo="http://kovi.ml/data/picons/rtl-living.png" group-title="Standart" tvg-shift="-1",RTL Living
+plugin://plugin.video.vavooto/?name=RTL+LIVING
+#EXTINF:-1 tvg-id="NITRO" tvg-name="RTL Nitro" tvg-logo="http://kovi.ml/data/picons/rtl-nitro.png" group-title="Standart" tvg-shift="-1",RTL Nitro
+plugin://plugin.video.vavooto/?name=RTL+NITRO
+#EXTINF:-1 tvg-id="RTL Passion" tvg-name="RTL Passion" tvg-logo="http://kovi.ml/data/picons/rtl-passion.png" group-title="Standart" tvg-shift="-1",RTL Passion
+plugin://plugin.video.vavooto/?name=RTL+PASSION
+#EXTINF:-1 tvg-id="RTLplus" tvg-name="RTL Plus" tvg-logo="http://kovi.ml/data/picons/rtl-plus.png" group-title="Standart" tvg-shift="-1",RTL Plus
+plugin://plugin.video.vavooto/?name=RTL+UP
+#EXTINF:-1 tvg-id="RTL II" tvg-name="RTL 2" tvg-logo="http://kovi.ml/data/picons/rtl2.png" group-title="Standart" tvg-shift="-1",RTL 2
+plugin://plugin.video.vavooto/?name=RTL+2
+#EXTINF:-1 tvg-id="SAT.1" tvg-name="Sat.1" tvg-logo="http://kovi.ml/data/picons/sat1.png" group-title="Standart" tvg-shift="-1",Sat.1
+plugin://plugin.video.vavooto/?name=SAT+1
+#EXTINF:-1 tvg-id="SAT.1 emotions" tvg-name="Sat.1 emotions" tvg-logo="http://kovi.ml/data/picons/sat1-emotions.png" group-title="Standart" tvg-shift="-1",Sat.1 Emotions
+plugin://plugin.video.vavooto/?name=SAT+1+EMOTIONS
+#EXTINF:-1 tvg-id="SAT.1 Gold" tvg-name="Sat.1 Gold" tvg-logo="http://kovi.ml/data/picons/sat1-gold.png" group-title="Standart" tvg-shift="-1",Sat.1 Gold
+plugin://plugin.video.vavooto/?name=SAT+1+GOLD
+#EXTINF:-1 tvg-id="13th Street Universal" tvg-name="13th Street" tvg-logo="http://kovi.ml/data/picons/13th-street.png" group-title="Standart" tvg-shift="-1",13th Street
+plugin://plugin.video.vavooto/?name=13TH+STREET
+#EXTINF:-1 tvg-id="VOX" tvg-name="VOX" tvg-logo="http://kovi.ml/data/picons/vox.png" group-title="Standart" tvg-shift="-1",VOX
+plugin://plugin.video.vavooto/?name=VOX
+#EXTINF:-1 tvg-id="VOXup" tvg-name="VOX Up" tvg-logo="http://kovi.ml/data/picons/vox.png" group-title="Standart" tvg-shift="-1",VOX Up
+plugin://plugin.video.vavooto/?name=VOX+UP
+#EXTINF:-1 tvg-id="Tele 5" tvg-name="Tele 5" tvg-logo="http://kovi.ml/data/picons/tele5.png" group-title="Standart" tvg-shift="-1",Tele5
+plugin://plugin.video.vavooto/?name=TELE+5
+#EXTINF:-1 tvg-id="sixx" tvg-name="Sixx" tvg-logo="http://kovi.ml/data/picons/sixx.png" group-title="Standart" tvg-shift="-1",Sixx
+plugin://plugin.video.vavooto/?name=SIXX
+#EXTINF:-1 tvg-id="ANIXE" tvg-name="Anixe" tvg-logo="http://kovi.ml/data/picons/anixe.png" group-title="Standart" tvg-shift="-1",Anixe
+plugin://plugin.video.vavooto/?name=ANIXE
+#EXTINF:-1 tvg-id="GEO Television" tvg-name="Geo" tvg-logo="http://kovi.ml/data/picons/geo-hd.png" group-title="Standart" tvg-shift="-1",Geo
+plugin://plugin.video.vavooto/?name=GEO+TV
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="http://kovi.ml/data/picons/syfy.png" group-title="Standart" tvg-shift="-1",Syfy
+plugin://plugin.video.vavooto/?name=SYFY
+#EXTINF:-1 tvg-id="Motorvision TV" tvg-name="Motorvision" tvg-logo="http://kovi.ml/data/picons/motorvision.png" group-title="Standart" tvg-shift="-1",Motorvision
+plugin://plugin.video.vavooto/?name=MOTORVISION
+#EXTINF:-1 tvg-id="Auto Motor Sport" tvg-name="Auto Motor Sport" tvg-logo="http://kovi.ml/data/picons/auto-motor-sport.png" group-title="Standart" tvg-shift="-1",Auto Motor Sport
+plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="http://kovi.ml/data/picons/animal-planet.png" group-title="Standart" tvg-shift="-1",Animal Planet
+plugin://plugin.video.vavooto/?name=PLANET
+#EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery HD " tvg-logo="http://kovi.ml/data/picons/discovery.png" group-title="Standart" tvg-shift="-1",Discovery HD 
+plugin://plugin.video.vavooto/?name=DISCOVERY
+#EXTINF:-1 tvg-id="History HD" tvg-name="History HD" tvg-logo="http://kovi.ml/data/picons/history-hd.png" group-title="Standart" tvg-shift="-1",History
+plugin://plugin.video.vavooto/?name=HISTORY
+#EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="National Geographic " tvg-logo="http://kovi.ml/data/picons/n24-doku.png" group-title="Standart" tvg-shift="-1",National Geographic 
+plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="National Geographic Wild" tvg-logo="http://kovi.ml/data/picons/n24-doku.png" group-title="Standart" tvg-shift="-1",National Geographic Wild
+plugin://plugin.video.vavooto/?name=NAT+GEO+WILD
+#EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="Universal Channel" tvg-logo="http://kovi.ml/data/picons/universal-channel.png" group-title="Standart" tvg-shift="-1",Universal Channel
+plugin://plugin.video.vavooto/?name=UNIVERSAL
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://kovi.ml/data/picons/axn.png" group-title="Standart" tvg-shift="-1",AXN
+plugin://plugin.video.vavooto/?name=AXN
+#EXTINF:-1 tvg-id="AandE.de" tvg-name="A&E" tvg-logo="http://kovi.ml/data/picons/a+e.png" group-title="Standart" tvg-shift="-1",A&E
+plugin://plugin.video.vavooto/?name=A%26E
+#EXTINF:-1 tvg-id="E! Entertainment" tvg-name="E! Entertainment" tvg-logo="http://kovi.ml/data/picons/e-entertainment.png" group-title="Standart" tvg-shift="-1",E! Entertainment
+plugin://plugin.video.vavooto/?name=E%21+ENTERTAINMENT
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://kovi.ml/data/picons/tlc.png" group-title="Standart" tvg-shift="-1",TLC
+plugin://plugin.video.vavooto/?name=TLC
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://kovi.ml/data/picons/comedy-central.png" group-title="Standart" tvg-shift="-1",Comedy Central
+plugin://plugin.video.vavooto/?name=COMEDY+CENTRAL
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://kovi.ml/data/picons/mtv.png" group-title="Standart" tvg-shift="-1",MTV
+plugin://plugin.video.vavooto/?name=MTV
+#EXTINF:-1 tvg-id="Jukebox" tvg-name="Jukebox" tvg-logo="http://kovi.ml/data/picons/jukebox.png" group-title="Standart" tvg-shift="-1",Jukebox
+plugin://plugin.video.vavooto/?name=JUKEBOX
+#EXTINF:-1 tvg-id="Romance TV" tvg-name="Romance" tvg-logo="http://kovi.ml/data/picons/romance-tv.png" group-title="Standart" tvg-shift="-1",Romance
+plugin://plugin.video.vavooto/?name=ROMANCE+TV
+#EXTINF:-1 tvg-id="Heimatkanal" tvg-name="Heimatkanal" tvg-logo="http://kovi.ml/data/picons/heimat-kanal.png" group-title="Standart" tvg-shift="-1",Heimatkanal
+plugin://plugin.video.vavooto/?name=HEIMATKANAL
+#EXTINF:-1 tvg-id="ServusTV" tvg-name="Servus TV" tvg-logo="http://kovi.ml/data/picons/servus-tv.png" group-title="Standart" tvg-shift="-1",Servus TV
+plugin://plugin.video.vavooto/?name=SERVUS+TV
+#EXTINF:-1 tvg-id="Sky Crime" tvg-name="Sky Crime" tvg-logo="http://kovi.ml/data/picons/sky-crime.png" group-title="Standart" tvg-shift="-1",Sky Crime
+plugin://plugin.video.vavooto/?name=SKY+CRIME
+#EXTINF:-1 tvg-id="Sky Documentaries" tvg-name="Sky Documentaries" tvg-logo="http://kovi.ml/data/picons/sky-documentaries.png" group-title="Standart" tvg-shift="-1",Sky Documentaries
+plugin://plugin.video.vavooto/?name=SKY+DOCUMENTARIES
+#EXTINF:-1 tvg-id="Spiegel Geschichte" tvg-name="Spiegel Geschichte" tvg-logo="http://kovi.ml/data/picons/spiegel-geschichte.png" group-title="Standart" tvg-shift="-1",Spiegel Geschichte
+plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
+#EXTINF:-1 tvg-id="SpiegelTV Wissen" tvg-name="Spiegel TV Wissen" tvg-logo="http://kovi.ml/data/picons/spiegel-tv-wissen.png" group-title="Standart" tvg-shift="-1",Spiegel TV Wissen
+plugin://plugin.video.vavooto/?name=SPIEGEL+WISSEN
+#EXTINF:-1 tvg-id="Waidwerk" tvg-name="Waidwerk" tvg-logo="http://kovi.ml/data/picons/waidwerk.png" group-title="Standart" tvg-shift="-1",Waidwerk
+plugin://plugin.video.vavooto/?name=WAIDWERK
+#EXTINF:-1 tvg-id="Welt der Wunder TV" tvg-name="Welt der Wunder TV" tvg-logo="http://kovi.ml/data/picons/welt-der-wunder.png" group-title="Standart" tvg-shift="-1",Welt der Wunder
+plugin://plugin.video.vavooto/?name=WELT+DER+Wunder
+#EXTINF:-1 tvg-id="TOGGO plus" tvg-name="Toggo Plus " tvg-logo="http://kovi.ml/data/picons/toggo-plus.png" group-title="Standart" tvg-shift="-1",Toggo Plus 
+plugin://plugin.video.vavooto/?name=TOGGO+PLUS
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Junior" tvg-logo="http://kovi.ml/data/picons/junior.png" group-title="Standart" tvg-shift="-1",Junior
+plugin://plugin.video.vavooto/?name=JUNIOR
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://kovi.ml/data/picons/boomerang.png" group-title="Standart" tvg-shift="-1",Boomerang
+plugin://plugin.video.vavooto/?name=BOOMERANG
+#EXTINF:-1 tvg-id="KiKA" tvg-name="KiKA" tvg-logo="http://kovi.ml/data/picons/kika.png" group-title="Standart" tvg-shift="-1",KiKA
+plugin://plugin.video.vavooto/?name=KIKA
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://kovi.ml/data/picons/cartoon-network.png" group-title="Standart" tvg-shift="-1",Cartoon Network
+plugin://plugin.video.vavooto/?name=CARTOON+NETWORK
+#EXTINF:-1 tvg-id="Nicktoons" tvg-name="nicktoons" tvg-logo="http://kovi.ml/data/picons/nickelodeon.png" group-title="Standart" tvg-shift="-1",nicktoons
+plugin://plugin.video.vavooto/?name=NICKTOONS
+#EXTINF:-1 tvg-id="Fix &amp; Foxi" tvg-name="Fix &amp; Foxi" tvg-logo="http://kovi.ml/data/picons/fix+foxi.png" group-title="Standart" tvg-shift="-1",Fix und Foxi
+plugin://plugin.video.vavooto/?name=FIX+%26+FOXI
