@@ -53,8 +53,6 @@ plugin://plugin.video.vavooto/?name=EUROSPORT+1
 plugin://plugin.video.vavooto/?name=EUROSPORT+2
 #EXTINF:-1 tvg-id="GEO Television" tvg-name="Geo" tvg-logo="https://kovi.ml/data/picons/geo-hd.png" group-title="Standard" tvg-shift="-1",Geo
 plugin://plugin.video.vavooto/?name=GEO+TV
-#EXTINF:-1 tvg-id="gotv" tvg-name="Go TV" tvg-logo="http://kovi.ml/data/picons/go-tv.png" group-title="Standard" tvg-shift="-1",Go TV
-plugin://plugin.video.vavooto/?name=GOTV
 #EXTINF:-1 tvg-id="Heimatkanal" tvg-name="Heimatkanal" tvg-logo="https://kovi.ml/data/picons/heimat-kanal.png" group-title="Standard" tvg-shift="-1",Heimatkanal
 plugin://plugin.video.vavooto/?name=HEIMATKANAL
 #EXTINF:-1 tvg-id="History HD" tvg-name="History HD" tvg-logo="https://kovi.ml/data/picons/history.png" group-title="Standard" tvg-shift="-1",History
