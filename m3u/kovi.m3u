@@ -179,8 +179,8 @@ plugin://plugin.video.vavooto/?name=WARNER TV FILM
 plugin://plugin.video.vavooto/?name=WARNER TV SERIE
 #EXTINF:-1 tvg-id="WDR" tvg-name="WDR" tvg-logo="https://kovi.ml/data/picons/wdr-hd.png" group-title="Standard" tvg-shift="-1",WDR
 plugin://plugin.video.vavooto/?name=WDR
-#EXTINF:-1 tvg-id="Welt der Wunder TV " tvg-name="Welt der Wunder" tvg-logo="https://kovi.ml/data/picons/welt-der-wunder.png" group-title="Standard" tvg-shift="-1",Welt der Wunder
-plugin://plugin.video.vavooto/?name=WELT+DER+WUNDER
+#EXTINF:-1 tvg-id="Welt der Wunder TV" tvg-name="Welt der Wunder" tvg-logo="https://kovi.ml/data/picons/welt-der-wunder.png" group-title="Standard" tvg-shift="-1",Welt der Wunder
+plugin://plugin.video.vavooto/?name=WELT+DER+Wunder
 #EXTINF:-1 tvg-id="ZDF" tvg-name="ZDF" tvg-logo="https://kovi.ml/data/picons/zdf-hd.png" group-title="Standard" tvg-shift="-1",ZDF
 plugin://plugin.video.vavooto/?name=ZDF
 #EXTINF:-1 tvg-id="ZDFinfo" tvg-name="ZDF Info" tvg-logo="https://kovi.ml/data/picons/zdf-info-hd.png" group-title="Standard" tvg-shift="-1",ZDF Info
