@@ -321,7 +321,7 @@ plugin://plugin.video.vavooto/?name=SKY+SPORT+TOP+EVENT+2
 plugin://plugin.video.vavooto/?name=SKY+SPORT+TOP+EVENT+3
 #EXTINF:-1 tvg-id="Sender.de" tvg-name="Sky Sports Premier League" tvg-logo="http://logo.watchhd.cc/logo/Logo_Sky_Sport_Premier_League.png" group-title="Sport" tvg-shift="-1",Sky Sports Premier League
 plugin://plugin.video.vavooto/?name=SKY+SPORTS+PREMIER+LEAGUE
-#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DAZN 1 (1080p)" tvg-logo="https://kovi.ml/data/picons/dazn-1-hd.png" group-title="Sport" tvg-shift="-1",DAZN 1 (1080p)
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://kovi.ml/data/picons/dazn-1-hd.png" group-title="Sport" tvg-shift="-1",DAZN 1 (1080p)
 plugin://plugin.video.vavooto/?name=DAZN+SPORT+1
 #EXTINF:-1 tvg-id="DAZN2.de" tvg-name="DAZN 2 (1080p)" tvg-logo="https://kovi.ml/data/picons/dazn-2-hd.png" group-title="Sport" tvg-shift="-1",DAZN 2 (1080p)
 1=plugin://plugin.video.vavooto/?name=DAZN+SPORT+2
