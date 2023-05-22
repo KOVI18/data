@@ -551,7 +551,7 @@ plugin://plugin.video.vavooto/?name=RTL+UP
 plugin://plugin.video.vavooto/?name=RTL+2
 #EXTINF:-1 tvg-id="SAT.1" tvg-name="Sat.1" tvg-logo="http://kovi.ml/data/picons/sat1.png" group-title="Standart" tvg-shift="-1",Sat.1
 plugin://plugin.video.vavooto/?name=SAT+1
-#EXTINF:-1 tvg-id="SAT.1 emotions" tvg-name="Sat.1 Emotions" tvg-logo="http://kovi.ml/data/picons/sat1-emotions.png" group-title="Standart" tvg-shift="-1",Sat.1 Emotions
+#EXTINF:-1 tvg-id="SAT.1 emotions" tvg-name="Sat.1 emotions" tvg-logo="http://kovi.ml/data/picons/sat1-emotions.png" group-title="Standart" tvg-shift="-1",Sat.1 Emotions
 plugin://plugin.video.vavooto/?name=SAT+1+EMOTIONS
 #EXTINF:-1 tvg-id="SAT.1 Gold" tvg-name="Sat.1 Gold" tvg-logo="http://kovi.ml/data/picons/sat1-gold.png" group-title="Standart" tvg-shift="-1",Sat.1 Gold
 plugin://plugin.video.vavooto/?name=SAT+1+GOLD
