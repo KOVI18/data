@@ -71,7 +71,7 @@ plugin://plugin.video.vavooto/?name=KABEL+1+CLASSICS
 plugin://plugin.video.vavooto/?name=KABEL+1+DOKU
 #EXTINF:-1 tvg-id="KiKA" tvg-name="KiKA" tvg-logo="https://kovi.ml/data/picons/kika-hd.png" group-title="Standard" tvg-shift="-1",KiKA
 plugin://plugin.video.vavooto/?name=KIKA
-#EXTINF:-1 tvg-id="KinoweltTV " tvg-name="Kinowelt" tvg-logo="https://kovi.ml/data/picons/kinowelt.png" group-title="Standard" tvg-shift="-1",Kinowelt
+#EXTINF:-1 tvg-id="KinoweltTV " tvg-name="KinoweltTV" tvg-logo="https://kovi.ml/data/picons/kinowelt.png" group-title="Standard" tvg-shift="-1",Kinowelt
 plugin://plugin.video.vavooto/?name=WELT
 #EXTINF:-1 tvg-id="MDR" tvg-name="MDR" tvg-logo="https://kovi.ml/data/picons/mdr-hd.png" group-title="Standard" tvg-shift="-1",MDR
 plugin://plugin.video.vavooto/?name=MDR
@@ -119,13 +119,13 @@ plugin://plugin.video.vavooto/?name=SILVERLINE
 plugin://plugin.video.vavooto/?name=SIXX
 #EXTINF:-1 tvg-id="Sky Action" tvg-name="Sky Action" tvg-logo="https://kovi.ml/data/picons/sky-cinema-action.png" group-title="Standard" tvg-shift="-1",Sky Action
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
-#EXTINF:-1 tvg-id="Sky Atlantic" tvg-name="Sky Atlantic" tvg-logo="https://kovi.ml/data/picons/sky-atlantic.png" group-title="Standard" tvg-shift="-1",Sky Atlantic
+#EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="Sky Atlantic HD" tvg-logo="https://kovi.ml/data/picons/sky-atlantic.png" group-title="Standard" tvg-shift="-1",Sky Atlantic
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
 #EXTINF:-1 tvg-id="Sky Cinema Best of" tvg-name="Sky Cinema Best of" tvg-logo="https://kovi.ml/data/picons/sky-cinema-bestof.png" group-title="Standard" tvg-shift="-1",Sky Cinema Best of
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+BEST+OF
 #EXTINF:-1 tvg-id="Sky Cinema Classics" tvg-name="Sky Cinema Classics" tvg-logo="https://kovi.ml/data/picons/sky-cinema-classics.png" group-title="Standard" tvg-shift="-1",Sky Cinema Classics
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+CLASSICS
-#EXTINF:-1 tvg-id="Sky Cinema Family" tvg-name="Sky Cinema Family" tvg-logo="https://kovi.ml/data/picons/sky-cinema-family.png" group-title="Standard" tvg-shift="-1",Sky Cinema Family
+#EXTINF:-1 tvg-id="Sky Family" tvg-name="Sky Family" tvg-logo="https://kovi.ml/data/picons/sky-cinema-family.png" group-title="Standard" tvg-shift="-1",Sky Cinema Family
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
 #EXTINF:-1 tvg-id="Sky Cinema Fun" tvg-name="Sky Cinema Fun" tvg-logo="https://kovi.ml/data/picons/sky-cinema-fun.png" group-title="Standard" tvg-shift="-1",Sky Cinema Fun
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+FUN
@@ -191,7 +191,7 @@ plugin://plugin.video.vavooto/?name=ZDF NEO
 plugin://plugin.video.vavooto/?name=DISNEY+CHANNEL
 #EXTINF:-1 tvg-id="kabel eins classics" tvg-name="Kabel 1 Classics" tvg-logo="http://kovi.ml/data/picons/kabel1-classics-hd.png" group-title="Film" tvg-shift="-1",Kabel 1 Classics
 plugin://plugin.video.vavooto/?name=KABEL+1+CLASSICS
-#EXTINF:-1 tvg-id="KinoweltTV" tvg-name="Kinowelt" tvg-logo="http://kovi.ml/data/picons/kinowelt.png" group-title="Film" tvg-shift="-1",Kinowelt
+#EXTINF:-1 tvg-id="KinoweltTV" tvg-name="KinoweltTV" tvg-logo="http://kovi.ml/data/picons/kinowelt.png" group-title="Film" tvg-shift="-1",Kinowelt
 plugin://plugin.video.vavooto/?name=WELT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Kino" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/png/max1.png" group-title="Film" tvg-shift="-1",Max Kino
 plugin://plugin.video.vavooto/?name=MAX+KINO
@@ -217,7 +217,7 @@ plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+5
 plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+8
 #EXTINF:-1 tvg-id="Silverline" tvg-name="Silverline" tvg-logo="http://kovi.ml/data/picons/silverline.png" group-title="Film" tvg-shift="-1",Silverline
 plugin://plugin.video.vavooto/?name=SILVERLINE
-#EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="Sky Atlantic" tvg-logo="http://kovi.ml/data/picons/sky-atlantic.png" group-title="Film" tvg-shift="-1",Sky Atlantic
+#EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="Sky Atlantic HD" tvg-logo="http://kovi.ml/data/picons/sky-atlantic.png" group-title="Film" tvg-shift="-1",Sky Atlantic
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
 #EXTINF:-1 tvg-id="Sky Action" tvg-name="Sky Cinema Action" tvg-logo="http://kovi.ml/data/picons/sky-cinema-action.png" group-title="Film" tvg-shift="-1",Sky Cinema Action
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
