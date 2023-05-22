@@ -217,6 +217,8 @@ plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+5
 plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+8
 #EXTINF:-1 tvg-id="Silverline" tvg-name="Silverline" tvg-logo="http://kovi.ml/data/picons/silverline.png" group-title="Film" tvg-shift="-1",Silverline
 plugin://plugin.video.vavooto/?name=SILVERLINE
+#EXTINF:-1 tvg-id="Sky Cinema 24" tvg-name="Sky Cinema 24" tvg-logo="http://kovi.ml/data/picons/sky-cinema-24.png" group-title="Film" tvg-shift="-1", Sky Cinema 24
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+24
 #EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="Sky Atlantic HD" tvg-logo="http://kovi.ml/data/picons/sky-atlantic.png" group-title="Film" tvg-shift="-1",Sky Atlantic HD
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
 #EXTINF:-1 tvg-id="Sky Action" tvg-name="Sky Cinema Action" tvg-logo="http://kovi.ml/data/picons/sky-cinema-action.png" group-title="Film" tvg-shift="-1",Sky Cinema Action
