@@ -82,7 +82,7 @@ plugin://plugin.video.vavooto/?name=MTV
 #EXTINF:-1 tvg-id="n-tv" tvg-name="N-TV" tvg-logo="https://kovi.ml/data/picons/ntv-hd.png" group-title="Standard" tvg-shift="-1",N-TV
 plugin://plugin.video.vavooto/?name=NTV
 #EXTINF:-1 tvg-id="N24 Doku" tvg-name="N24 Doku" tvg-logo="https://kovi.ml/data/picons/n24-doku.png" group-title="Standard" tvg-shift="-1",N24 Doku
-plugin://plugin.video.vavooto/?name=N24+DOKU
+plugin://plugin.video.vavooto/?name=N24+DOCU
 #EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="National Geographic Wild" tvg-logo="https://kovi.ml/data/picons/nat-geo-wild.png" group-title="Standard" tvg-shift="-1",National Geographic Wild
 plugin://plugin.video.vavooto/?name=NAT+GEO+WILD
 #EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="National Geographic" tvg-logo="https://kovi.ml/data/picons/national-geographic.png" group-title="Standard" tvg-shift="-1",National Geographic
