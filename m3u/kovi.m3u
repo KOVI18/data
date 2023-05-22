@@ -1,21 +1,21 @@
 #EXTM3U url-tvg="https://github.com/michaz1988/epgguide/raw/master/guide.xml.gz"
 #EXTINF:-1 tvg-id="13th Street Universal" tvg-name="13th Street" tvg-logo="https://kovi.ml/data/picons/13thstreethdv2.png" group-title="Standard" tvg-shift="-1",13th Street
 plugin://plugin.video.vavooto/?name=13TH+STREET
-#EXTINF:-1 tvg-id="3sat" tvg-name="3sat" tvg-logo="https://kovi.ml/data/picons/3sat_Logo.png" group-title="Standard" tvg-shift="-1",3sat
+#EXTINF:-1 tvg-id="3sat" tvg-name="3sat" tvg-logo="https://kovi.ml/data/picons/3sat.png" group-title="Standard" tvg-shift="-1",3sat
 plugin://plugin.video.vavooto/?name=3+SAT
 #EXTINF:-1 tvg-id="CRIME + INVESTIGATION" tvg-name="A&E" tvg-logo="https://kovi.ml/data/picons/a&ehd.png" group-title="Standard" tvg-shift="-1",A&E
 plugin://plugin.video.vavooto/?name=A%26E
-#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://kovi.ml/data/picons/animalhd.png" group-title="Standard" tvg-shift="-1",Animal Planet
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://kovi.ml/data/picons/animal-planet-hd.png" group-title="Standard" tvg-shift="-1",Animal Planet
 plugin://plugin.video.vavooto/?name=PLANET
-#EXTINF:-1 tvg-id="ANIXE" tvg-name="Anixe" tvg-logo="https://kovi.ml/data/picons/ANIXE_HD.png" group-title="Standard" tvg-shift="-1",Anixe
+#EXTINF:-1 tvg-id="ANIXE" tvg-name="Anixe" tvg-logo="https://kovi.ml/data/picons/anixe_hd.png" group-title="Standard" tvg-shift="-1",Anixe
 plugin://plugin.video.vavooto/?name=ANIXE
-#EXTINF:-1 tvg-id="ANIXE" tvg-name="Anixe Serie" tvg-logo="https://kovi.ml/data/picons/ANIXE_HD.png" group-title="Standard" tvg-shift="-1",Anixe Serie
+#EXTINF:-1 tvg-id="ANIXE" tvg-name="Anixe Serie" tvg-logo="https://kovi.ml/data/picons/anixe-serie-hd.png" group-title="Standard" tvg-shift="-1",Anixe Serie
 plugin://plugin.video.vavooto/?name=ANIXE+SERIE
 #EXTINF:-1 tvg-id="ARD alpha" tvg-name="ARD Alpha" tvg-logo="https://kovi.ml/data/picons/ard-alpha.png" group-title="Standard" tvg-shift="-1",ARD Alpha
 plugin://plugin.video.vavooto/?name=ARD+ALPHA
-#EXTINF:-1 tvg-id="ARTE" tvg-name="Arte" tvg-logo="https://kovi.ml/data/picons/Arte_HD_2.png" group-title="Standard" tvg-shift="-1",Arte
+#EXTINF:-1 tvg-id="ARTE" tvg-name="Arte" tvg-logo="https://kovi.ml/data/picons/arte-hd.png" group-title="Standard" tvg-shift="-1",Arte
 plugin://plugin.video.vavooto/?name=ARTE
-#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://kovi.ml/data/picons/atv1hd.png" group-title="Standard" tvg-shift="-1",ATV
+#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://kovi.ml/data/picons/atv1-hd.png" group-title="Standard" tvg-shift="-1",ATV
 plugin://plugin.video.vavooto/?name=ATV
 #EXTINF:-1 tvg-id="ATV II" tvg-name="ATV 2" tvg-logo="https://kovi.ml/data/picons/atv-II.png" group-title="Standard" tvg-shift="-1",ATV 2
 plugin://plugin.video.vavooto/?name=ATV+2
