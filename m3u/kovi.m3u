@@ -33,9 +33,7 @@ plugin://plugin.video.vavooto/?name=BR
 plugin://plugin.video.vavooto/?name=CARTOON+NETWORK
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://kovi.ml/data/picons/comedy-central.png" group-title="Standard" tvg-shift="-1",Comedy Central
 plugin://plugin.video.vavooto/?name=VIVA
-#EXTINF:-1 tvg-id="Das Erste" tvg-name="Das Erste" tvg-logo="https://kovi.ml/data/picons/das-erste.png" group-title="Standard" tvg-shift="-1",Das Erste 
-plugin://plugin.video.vavooto/?name=DAS+ERSTE
-#EXTINF:-1 tvg-id="Das Erste" tvg-name="Das Erste" tvg-logo="https://kovi.ml/data/picons/das-erste.png" group-title="Standard" tvg-shift="-1",Das Erste (1080p) (Backup)
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="Das Erste" tvg-logo="https://kovi.ml/data/picons/das-erste-hd.png" group-title="Standard" tvg-shift="-1",Das Erste HD
 plugin://plugin.video.vavooto/?name=ARD+DAS+ERSTE
 #EXTINF:-1 tvg-id="DELUXE MUSIC" tvg-name="Deluxe Music" tvg-logo="https://kovi.ml/data/picons/deluxe-music.png" group-title="Standard" tvg-shift="-1",Deluxe Music
 plugin://plugin.video.vavooto/?name=DELUXE+MUSIC
