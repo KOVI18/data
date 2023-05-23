@@ -3,7 +3,7 @@
 plugin://plugin.video.vavooto/?name=13TH+STREET
 #EXTINF:-1 tvg-id="3sat" tvg-name="3sat" tvg-logo="https://kovi.ml/data/picons/3sat.png" group-title="Standard" tvg-shift="-1",3sat
 plugin://plugin.video.vavooto/?name=3+SAT
-#EXTINF:-1 tvg-id="CRIME + INVESTIGATION" tvg-name="CRIME + INVESTIGATION" tvg-logo="https://kovi.ml/data/picons/a+e-hd.png" group-title="Standard" tvg-shift="-1",CRIME + INVESTIGATION
+#EXTINF:-1 tvg-id="CRIME + INVESTIGATION" tvg-name="CRIME + INVESTIGATION" tvg-logo="https://kovi.ml/data/picons/a+e-hd.png" group-title="Standard" tvg-shift="-1",A&E
 plugin://plugin.video.vavooto/?name=A%26E
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://kovi.ml/data/picons/animal-planet-hd.png" group-title="Standard" tvg-shift="-1",Animal Planet
 plugin://plugin.video.vavooto/?name=PLANET
