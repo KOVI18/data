@@ -23,7 +23,7 @@ plugin://plugin.video.vavooto/?name=ATV+2
 plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://kovi.ml/data/picons/axn.png" group-title="Standard" tvg-shift="-1",AXN
 plugin://plugin.video.vavooto/?name=AXN
-#EXTINF:-1 tvg-id="BILD TV" tvg-name="BILD TV" tvg-logo="https://kovi.ml/data/picons/bild-tv.png" group-title="Standard" tvg-shift="-1",Bild TV
+#EXTINF:-1 tvg-id="BILD TV" tvg-name="BILD TV" tvg-logo="https://kovi.ml/data/picons/bild-hd.png" group-title="Standard" tvg-shift="-1",Bild TV
 plugin://plugin.video.vavooto/?name=BILD+TV
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://kovi.ml/data/picons/boomerang.png" group-title="Standard" tvg-shift="-1",Boomerang
 plugin://plugin.video.vavooto/?name=BOOMERANG
@@ -33,7 +33,7 @@ plugin://plugin.video.vavooto/?name=BR
 plugin://plugin.video.vavooto/?name=CARTOON+NETWORK
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://kovi.ml/data/picons/comedy-central.png" group-title="Standard" tvg-shift="-1",Comedy Central
 plugin://plugin.video.vavooto/?name=VIVA
-#EXTINF:-1 tvg-id="Das Erste" tvg-name="Das Erste " tvg-logo="https://kovi.ml/data/picons/das-erste.png" group-title="Standard" tvg-shift="-1",Das Erste 
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="Das Erste" tvg-logo="https://kovi.ml/data/picons/das-erste.png" group-title="Standard" tvg-shift="-1",Das Erste 
 plugin://plugin.video.vavooto/?name=DAS+ERSTE
 #EXTINF:-1 tvg-id="Das Erste" tvg-name="Das Erste (1080p) (Backup)" tvg-logo="https://kovi.ml/data/picons/das-erste.png" group-title="Standard" tvg-shift="-1",Das Erste (1080p) (Backup)
 plugin://plugin.video.vavooto/?name=ARD+DAS+ERSTE
@@ -156,7 +156,7 @@ plugin://plugin.video.taptv/play/407/play.pvr
 #EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="https://kovi.ml/data/picons/syfy-hd.png" group-title="Standard" tvg-shift="-1",Syfy
 plugin://plugin.video.vavooto/?name=SYFY
 #EXTINF:-1 tvg-id="tagesschau24" tvg-name="Tagesschau 24" tvg-logo="https://kovi.ml/data/picons/tagesschau24.png" group-title="Standard" tvg-shift="-1",Tagesschau 24
-plugin://plugin.video.vavooto/?name=TAGESSCHAU 24
+plugin://plugin.video.vavooto/?name=TAGESSCHAU+24
 #EXTINF:-1 tvg-id="Tele 5" tvg-name="Tele 5" tvg-logo="https://kovi.ml/data/picons/tele5.png" group-title="Standard" tvg-shift="-1",Tele 5
 plugin://plugin.video.vavooto/?name=TELE+5
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://kovi.ml/data/picons/tlc-hd.png" group-title="Standard" tvg-shift="-1",TLC
@@ -217,7 +217,7 @@ plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+5
 plugin://plugin.video.vavooto/?name=SKY+POPCORN+SELECT+8
 #EXTINF:-1 tvg-id="Silverline" tvg-name="Silverline" tvg-logo="http://kovi.ml/data/picons/silverline.png" group-title="Film" tvg-shift="-   1",Silverline
 plugin://plugin.video.vavooto/?name=SILVERLINE
-#EXTINF:-1 tvg-id="Sky Cinema 24" tvg-name="Sky Cinema 24" tvg-logo="http://kovi.ml/data/picons/sky-cinema-24.png" group-title="Film" tvg-shift="-1", Sky Cinema 24
+#EXTINF:-1 tvg-id="Sky Cinema Premieren +24" tvg-name="Sky Cinema Premieren +24" tvg-logo="http://kovi.ml/data/picons/sky-cinema-24.png" group-title="Film" tvg-shift="-1", Sky Cinema Premieren 24
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+24
 #EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="Sky Atlantic HD" tvg-logo="http://kovi.ml/data/picons/sky-atlantic.png" group-title="Film" tvg-shift="-1",Sky Atlantic HD
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
