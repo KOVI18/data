@@ -619,5 +619,3 @@ plugin://plugin.video.vavooto/?name=KIKA
 plugin://plugin.video.vavooto/?name=CARTOON+NETWORK
 #EXTINF:-1 tvg-id="Nicktoons" tvg-name="nicktoons" tvg-logo="http://kovi.ml/data/picons/nickelodeon.png" group-title="Standart" tvg-shift="-1",nicktoons
 plugin://plugin.video.vavooto/?name=NICKTOONS
-#EXTINF:-1 tvg-id="Fix &amp; Foxi" tvg-name="Fix &amp; Foxi" tvg-logo="http://kovi.ml/data/picons/fix+foxi.png" group-title="Standart" tvg-shift="-1",Fix und Foxi
-plugin://plugin.video.vavooto/?name=FIX+%26+FOXI
