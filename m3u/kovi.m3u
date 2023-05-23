@@ -35,7 +35,7 @@ plugin://plugin.video.vavooto/?name=CARTOON+NETWORK
 plugin://plugin.video.vavooto/?name=VIVA
 #EXTINF:-1 tvg-id="Das Erste" tvg-name="Das Erste" tvg-logo="https://kovi.ml/data/picons/das-erste.png" group-title="Standard" tvg-shift="-1",Das Erste 
 plugin://plugin.video.vavooto/?name=DAS+ERSTE
-#EXTINF:-1 tvg-id="Das Erste" tvg-name="Das Erste (1080p) (Backup)" tvg-logo="https://kovi.ml/data/picons/das-erste.png" group-title="Standard" tvg-shift="-1",Das Erste (1080p) (Backup)
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="Das Erste" tvg-logo="https://kovi.ml/data/picons/das-erste.png" group-title="Standard" tvg-shift="-1",Das Erste (1080p) (Backup)
 plugin://plugin.video.vavooto/?name=ARD+DAS+ERSTE
 #EXTINF:-1 tvg-id="DELUXE MUSIC" tvg-name="Deluxe Music" tvg-logo="https://kovi.ml/data/picons/deluxe-music.png" group-title="Standard" tvg-shift="-1",Deluxe Music
 plugin://plugin.video.vavooto/?name=DELUXE+MUSIC
@@ -152,8 +152,6 @@ plugin://plugin.video.vavooto/?name=SPIEGEL+WISSEN
 #EXTINF:-1 tvg-id="SWR/SR" tvg-name="SWR" tvg-logo="https://kovi.ml/data/picons/swr-hd.png" group-title="Standard" tvg-shift="-1",SWR
 plugin://plugin.video.vavooto/?name=SWR
 #EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="https://kovi.ml/data/picons/syfy-hd.png" group-title="Standard" tvg-shift="-1",Syfy
-plugin://plugin.video.taptv/play/407/play.pvr
-#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="https://kovi.ml/data/picons/syfy-hd.png" group-title="Standard" tvg-shift="-1",Syfy
 plugin://plugin.video.vavooto/?name=SYFY
 #EXTINF:-1 tvg-id="tagesschau24" tvg-name="Tagesschau 24" tvg-logo="https://kovi.ml/data/picons/tagesschau24.png" group-title="Standard" tvg-shift="-1",Tagesschau 24
 plugin://plugin.video.vavooto/?name=TAGESSCHAU+24
@@ -167,10 +165,6 @@ plugin://plugin.video.vavooto/?name=UNIVERSAL
 plugin://plugin.video.vavooto/?name=VOX
 #EXTINF:-1 tvg-id="VOXup" tvg-name="Vox Up" tvg-logo="https://kovi.ml/data/picons/vox-up.png" group-title="Standard" tvg-shift="-1",Vox Up
 plugin://plugin.video.vavooto/?name=VOX+UP
-#EXTINF:-1 tvg-id="TNT Film" tvg-name="Warner TV Film" tvg-logo="https://kovi.ml/data/picons/warner-tv-film.png" group-title="Standard" tvg-shift="-1",Warner TV Film
-plugin://plugin.video.taptv/play/656/play.pvr
-#EXTINF:-1 tvg-id="TNT Serie" tvg-name="Warner TV Serie" tvg-logo="https://kovi.ml/data/picons/warner-tv-serie.png" group-title="Standard" tvg-shift="-1",Warner TV Serie
-plugin://plugin.video.taptv/play/655/play.pvr
 #EXTINF:-1 tvg-id="TNT Comedy" tvg-name="WarnerTV Comedy" tvg-logo="https://kovi.ml/data/picons/warner-tv-comedy.png" group-title="Standard" tvg-shift="-1",WarnerTV Comedy
 plugin://plugin.video.vavooto/?name=WARNER TV COMEDY
 #EXTINF:-1 tvg-id="TNT Film" tvg-name="WarnerTV Film" tvg-logo="https://kovi.ml/data/picons/warner-tv-film.png" group-title="Standard" tvg-shift="-1",WarnerTV Film
@@ -284,27 +278,27 @@ plugin://plugin.video.vavooto/?name=EUROSPORT+2
 #EXTINF:-1 tvg-id="ORF SPORT +" tvg-name="ORF Sport" tvg-logo="http://kovi.ml/data/picons/orf-sport+hd.png" group-title="Sport" tvg-shift="-1",ORF Sport
 plugin://plugin.video.vavooto/?name=ORF-SPORT
 #EXTINF:-1 tvg-id="Sky Bundesliga" tvg-name="Sky Bundesliga 1 (1080p)" tvg-logo="https://kovi.ml/data/picons/sky-sport-bl1-hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 1 (1080p)
-plugin.video.vavooto/?name=SKY+BUNDESLIGA1
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 2 (1080p)" tvg-logo="https://kovi.ml/data/picons/sky-sport-bl2-hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 2 (1080p)
-plugin.video.vavooto/?name=SKY+BUNDESLIGA+2
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+2
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 3 (1080p)" tvg-logo="https://kovi.ml/data/picons/sky-sport-bl3-hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 3 (1080p)
-plugin.video.vavooto/?name=SKY+BUNDESLIGA+3
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+3
 #EXTINF:-1 tvg-id="Sky Bundesliga 4" tvg-name="Sky Bundesliga 4 (720p)" tvg-logo="https://kovi.ml/data/picons/sky-sport-bl4-hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 4 (720p)
-plugin.video.vavooto/?name=SKY+BUNDESLIGA+4
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+4
 #EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="Sky Bundesliga 5 (720p)" tvg-logo="https://kovi.ml/data/picons/sky-sport-bl5-hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 5 (720p)
-plugin.video.vavooto/?name=SKY+BUNDESLIGA+5
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+5
 #EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="Sky Bundesliga 6 (1080p)" tvg-logo="https://kovi.ml/data/picons/sky-sport-bl6-hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 6 (1080p)
-plugin.video.vavooto/?name=SKY+BUNDESLIGA+6
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+6
 #EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="Sky Bundesliga 7 (1080p)" tvg-logo="https://kovi.ml/data/picons/sky-sport-bl7-hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 7 (1080p)
-plugin.video.vavooto/?name=SKY+BUNDESLIGA+7
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+7
 #EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="Sky Bundesliga 8 (1080p)" tvg-logo="https://kovi.ml/data/picons/sky-sport-bl8-hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 8 (1080p)
-plugin.video.vavooto/?name=SKY+BUNDESLIGA+8
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+8
 #EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="Sky Bundesliga 9 (720p)" tvg-logo="https://kovi.ml/data/picons/sky-sport-bl9-hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 9 (720p)
-plugin.video.vavooto/?name=SKY+BUNDESLIGA+9
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+9
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 9+ (1080p)" tvg-logo="https://kovi.ml/data/picons/sky-sport-bl9-hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 9+ (1080p)
-plugin.video.vavooto/?name=SKY+BUNDESLIGA+9%2B
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+9%2B
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 10 (1080p)" tvg-logo="https://kovi.ml/data/picons/sky-sport-bl10-hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 10 (1080p)
-plugin.video.vavooto/?name=SKY+BUNDESLIGA+10
+plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+10
 #EXTINF:-1 tvg-id="Sender.de" tvg-name="Sky Sport F1" tvg-logo="https://kovi.ml/data/picons/sky-sport-f1-hd.png" group-title="Sport" tvg-shift="-1",Sky Sport F1
 plugin://plugin.video.vavooto/?name=SKY+SPORT+F1
 #EXTINF:-1 tvg-id="Sender.de" tvg-name="Sky Sport F1 +" tvg-logo="https://kovi.ml/data/picons/sky-sport-f1-hd.png" group-title="Sport" tvg-shift="-1",Sky Sport F1 +
@@ -325,9 +319,9 @@ plugin://plugin.video.vavooto/?name=SKY+SPORT+TOP+EVENT+3
 plugin://plugin.video.vavooto/?name=SKY+SPORTS+PREMIER+LEAGUE
 #EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN" tvg-logo="https://kovi.ml/data/picons/dazn-1-hd.png" group-title="Sport" tvg-shift="-1",DAZN 1 (1080p)
 plugin://plugin.video.vavooto/?name=DAZN+SPORT+1
-#EXTINF:-1 tvg-id="DAZN2.de" tvg-name="DAZN 2 (1080p)" tvg-logo="https://kovi.ml/data/picons/dazn-2-hd.png" group-title="Sport" tvg-shift="-1",DAZN 2 (1080p)
-1=plugin://plugin.video.vavooto/?name=DAZN+SPORT+2
-#EXTINF:-1 tvg-id="DAZN1.de" tvg-name="DAZN 1 (1080p)" tvg-logo="https://kovi.ml/data/picons/dazn-1-hd.png" group-title="Sport" tvg-shift="-1",DAZN 1 (1080p)
+#EXTINF:-1 tvg-id="DAZN1" tvg-name="DAZN 1" tvg-logo="https://kovi.ml/data/picons/dazn-2-hd.png" group-title="Sport" tvg-shift="-1",DAZN 2 (1080p)
+plugin://plugin.video.vavooto/?name=DAZN+SPORT+2
+#EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN 2" tvg-logo="https://kovi.ml/data/picons/dazn-1-hd.png" group-title="Sport" tvg-shift="-1",DAZN 1 (1080p)
 plugin://plugin.video.vavooto/?name=DAZN+1
 #EXTINF:-1 tvg-id="DAZN2.de" tvg-name="DAZN 2 (1080p)" tvg-logo="https://kovi.ml/data/picons/dazn-2-hd.png" group-title="Sport" tvg-shift="-1",DAZN 2 (1080p)
 plugin://plugin.video.vavooto/?name=DAZN+2
@@ -359,9 +353,9 @@ plugin://plugin.video.vavooto/?name=DAZN+15
 plugin://plugin.video.vavooto/?name=DAZN+16
 #EXTINF:-1 tvg-id="DAZN17.de" tvg-name="DAZN 17 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_17.png" group-title="Sport" tvg-shift="-1",DAZN 17 (1080p)
 plugin://plugin.video.vavooto/?name=DAZN+17
-#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 (1080p)" tvg-logo="https://kovi.ml/data/picons/eurosport1.png" group-title="Sport" tvg-shift="-1",Eurosport 1 (1080p)
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://kovi.ml/data/picons/eurosport1.png" group-title="Sport" tvg-shift="-1",Eurosport 1 (1080p)
 plugin://plugin.video.vavooto/?name=EUROSPORT+1
-#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="Eurosport 2 (1080p)" tvg-logo="https://kovi.ml/data/picons/eurosport2.png" group-title="Sport" tvg-shift="-1",Eurosport 2 (1080p)
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://kovi.ml/data/picons/eurosport2.png" group-title="Sport" tvg-shift="-1",Eurosport 2 (1080p)
 plugin://plugin.video.vavooto/?name=EUROSPORT+2
 #EXTINF:-1 tvg-id="Eurosport2XTRA.de" tvg-name="Eurosport 2 XTRA (1080p) " tvg-logo="https://kovi.ml/data/picons/eurosport2-xtra-hd.png" group-title="Sport" tvg-shift="-1",Eurosport 2 XTRA (1080p) 
 plugin://plugin.video.vavooto/?name=EUROSPORT+2+XTRA
@@ -371,115 +365,107 @@ plugin://plugin.video.vavooto/?name=EUROSPORT+XTRA+2%2B
 plugin://plugin.video.vavooto/?name=FC+BAYERN
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 1" tvg-logo="https://logo watchhd.cc/logo/Magenta/magenta-01.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 1
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 2" tvg-logo="s/Magenta/magenta-02.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 2" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta-02.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 2
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 3" tvg-logo="https://kovi.ml/data/picons/Magenta/magenta-03.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 3" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta-03.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 3
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 4" tvg-logo="https://kovi.ml/data/picons/Magenta/magenta-04.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 4" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta-04.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 4
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 5" tvg-logo="https://kovi.ml/data/picons/Magenta/magenta-05.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 5" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta-05.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 5
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 6" tvg-logo="https://kovi.ml/data/picons/Magenta/magenta-06.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 6" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta-06.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 6
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+6
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 7" tvg-logo="https://kovi.ml/data/picons/Magenta/magenta-07.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 7" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta-07.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 7
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+7
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 8" tvg-logo="https://kovi.ml/data/picons/Magenta/magenta-08.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 8" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta-08.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 8
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 9" tvg-logo="https://kovi.ml/data/picons/Magenta/magenta-09.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 9" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta-09.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 9
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+9
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 10" tvg-logo="https://kovi.ml/data/picons/Magenta/magenta-10.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 10
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 10" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta-10.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 10
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+10
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 11" tvg-logo="https://kovi.ml/data/picons/Magenta/magenta-11.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 11
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 11" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta-11.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 11
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+11
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 12" tvg-logo="https://kovi.ml/data/picons/Magenta/magenta-12.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 12
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 12" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta-12.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 12
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+12
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 13" tvg-logo="https://kovi.ml/data/picons/magenta-13.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 13
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 13" tvg-logo="http://logo.watchhd.cc/logo/magenta-13.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 13
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+13
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 14" tvg-logo="https://kovi.ml/data/picons/magenta-14.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 14
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 14" tvg-logo="http://logo.watchhd.cc/logo/magenta-14.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 14
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+14
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 15" tvg-logo="https://kovi.ml/data/picons/magenta-15.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 15
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 15" tvg-logo="http://logo.watchhd.cc/logo/magenta-15.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 15
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+15
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 16" tvg-logo="https://kovi.ml/data/picons/magenta-16.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 16
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 16" tvg-logo="http://logo.watchhd.cc/logo/magenta-16.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 16
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+16
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 17" tvg-logo="https://kovi.ml/data/picons/magenta-17.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 17
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 17" tvg-logo="http://logo.watchhd.cc/logo/magenta-17.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 17
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+17
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 18" tvg-logo="https://kovi.ml/data/picons/magenta-18.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 18
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 18" tvg-logo="http://logo.watchhd.cc/logo/magenta-18.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 18
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+18
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 19" tvg-logo="https://kovi.ml/data/picons/magenta-19.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 19
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 19" tvg-logo="http://logo.watchhd.cc/logo/magenta-19.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 19
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+19
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 20" tvg-logo="https://kovi.ml/data/picons/magenta-20.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 20
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 20" tvg-logo="http://logo.watchhd.cc/logo/magenta-20.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 20
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+20
-#EXTINF:-1 tvg-id="UHD1(src01).de" tvg-name="Magenta Sport 1 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-1.png" group-title="Sport" tvg-shift="-1",Magenta Sport 1 (1080p)
+#EXTINF:-1 tvg-id="UHD1(src01).de" tvg-name="Magenta Sport 1 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-1.png" group-title="Sport" tvg-shift="-1",Magenta Sport 1 (1080p)
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 2 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-2.png" group-title="Sport" tvg-shift="-1",Magenta Sport 2 (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 2 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-2.png" group-title="Sport" tvg-shift="-1",Magenta Sport 2 (1080p)
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 3 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-3.png" group-title="Sport" tvg-shift="-1",Magenta Sport 3 (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 3 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-3.png" group-title="Sport" tvg-shift="-1",Magenta Sport 3 (1080p)
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 4 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-4.png" group-title="Sport" tvg-shift="-1",Magenta Sport 4 (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 4 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-4.png" group-title="Sport" tvg-shift="-1",Magenta Sport 4 (1080p)
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 5 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-5.png" group-title="Sport" tvg-shift="-1",Magenta Sport 5 (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 5 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-5.png" group-title="Sport" tvg-shift="-1",Magenta Sport 5 (1080p)
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 6 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-6.png" group-title="Sport" tvg-shift="-1",Magenta Sport 6 (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 6 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-6.png" group-title="Sport" tvg-shift="-1",Magenta Sport 6 (1080p)
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+6
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 7 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-7.png" group-title="Sport" tvg-shift="-1",Magenta Sport 7 (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 7 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-7.png" group-title="Sport" tvg-shift="-1",Magenta Sport 7 (1080p)
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+7
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 8 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-8.png" group-title="Sport" tvg-shift="-1",Magenta Sport 8 (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 8 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-8.png" group-title="Sport" tvg-shift="-1",Magenta Sport 8 (1080p)
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 9 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-9.png" group-title="Sport" tvg-shift="-1",Magenta Sport 9 (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 9 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-9.png" group-title="Sport" tvg-shift="-1",Magenta Sport 9 (1080p)
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+9
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 10 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-10.png" group-title="Sport" tvg-shift="-1",Magenta Sport 10 (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 10 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-10.png" group-title="Sport" tvg-shift="-1",Magenta Sport 10 (1080p)
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+10
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 11 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-11.png" group-title="Sport" tvg-shift="-1",Magenta Sport 11 (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 11 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-11.png" group-title="Sport" tvg-shift="-1",Magenta Sport 11 (1080p)
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+11
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 12 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-12.png" group-title="Sport" tvg-shift="-1",Magenta Sport 12 (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 12 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-12.png" group-title="Sport" tvg-shift="-1",Magenta Sport 12 (1080p)
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+12
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 13 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-13.png" group-title="Sport" tvg-shift="-1",Magenta Sport 13 (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 13 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-13.png" group-title="Sport" tvg-shift="-1",Magenta Sport 13 (1080p)
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+13
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 14 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-14.png" group-title="Sport" tvg-shift="-1",Magenta Sport 14 (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 14 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-14.png" group-title="Sport" tvg-shift="-1",Magenta Sport 14 (1080p)
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+14
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 15 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-15.png" group-title="Sport" tvg-shift="-1",Magenta Sport 15 (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 15 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-15.png" group-title="Sport" tvg-shift="-1",Magenta Sport 15 (1080p)
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+15
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 16 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-16.png" group-title="Sport" tvg-shift="-1",Magenta Sport 16 (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 16 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-16.png" group-title="Sport" tvg-shift="-1",Magenta Sport 16 (1080p)
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+16
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 17 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-17.png" group-title="Sport" tvg-shift="-1",Magenta Sport 17 (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 17 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-17.png" group-title="Sport" tvg-shift="-1",Magenta Sport 17 (1080p)
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+17
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 18 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-18.png" group-title="Sport" tvg-shift="-1",Magenta Sport 18 (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 18 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-18.png" group-title="Sport" tvg-shift="-1",Magenta Sport 18 (1080p)
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+18
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 19 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-19.png" group-title="Sport" tvg-shift="-1",Magenta Sport 19 (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 19 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-19.png" group-title="Sport" tvg-shift="-1",Magenta Sport 19 (1080p)
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+19
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 20 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-Programm.png" group-title="Sport" tvg-shift="-1",Magenta Sport 20 (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 20 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-Programm.png" group-title="Sport" tvg-shift="-1",Magenta Sport 20 (1080p)
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+20
+#EXTINF:-1 tvg-id="UHD1(src01).de" tvg-name="Magenta Sport 1 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-1.png" group-title="Sport" tvg-shift="-1",Telekom Bundesliga 1 (1080p)
+plugin://plugin.video.vavooto/?name=TELEKOM+BUNDESLIGA+1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 2 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-2.png" group-title="Sport" tvg-shift="-1",Telekom Bundesliga 2 (1080p)
+plugin://plugin.video.vavooto/?name=TELEKOM+BUNDESLIGA+2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 3 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-3.png" group-title="Sport" tvg-shift="-1",Telekom Bundesliga 3 (1080p)
+plugin://plugin.video.vavooto/?name=TELEKOM+BUNDESLIGA+3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 4 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-4.png" group-title="Sport" tvg-shift="-1",Telekom Bundesliga 4 (1080p)
+plugin://plugin.video.vavooto/?name=TELEKOM+BUNDESLIGA+4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 5 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-5.png" group-title="Sport" tvg-shift="-1",Telekom Bundesliga 5 (1080p)
+plugin://plugin.video.vavooto/?name=TELEKOM+BUNDESLIGA+5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 6 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-6.png" group-title="Sport" tvg-shift="-1",Telekom Bundesliga 6 (1080p)
+plugin://plugin.video.vavooto/?name=TELEKOM+BUNDESLIGA+6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 7 (1080p)" tvg-logo="https://kovi.ml/data/picons/Magenta/Logo-Magenta-Sport-7.png" group-title="Sport" tvg-shift="-1",Telekom Bundesliga 7 (1080p)
+plugin://plugin.video.vavooto/?name=TELEKOM+BUNDESLIGA+7
 #EXTINF:-1 tvg-id="MyTeamTVEishockey1.de" tvg-name="Magenta DEL / Eishockey (1080p)" tvg-logo="https://kovi.ml/data/picons/Telekom-Eishockey.png" group-title="Sport" tvg-shift="-1",Magenta DEL / Eishockey (1080p)
 plugin://plugin.video.vavooto/?name=DEL+SPORT+1
-#EXTINF:-1 tvg-id="SkySportBundesliga1.de" tvg-name="Sky Bundesliga 1 (480p) (TapTV)" tvg-logo="https://kovi.ml/data/picons/SKY-Bundesliga-1HD.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 1 (480p) (TapTV)
-plugin://plugin.video.taptv/play/401/play.pvr
-#EXTINF:-1 tvg-id="SkySportBundesliga2.de" tvg-name="Sky Bundesliga 2 (480p) (TapTV)" tvg-logo="https://kovi.ml/data/picons/SKY-Bundesliga-2HD.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 2 (480p) (TapTV)
-plugin://plugin.video.taptv/play/431/play.pvr
-#EXTINF:-1 tvg-id="SkySportBundesliga3.de" tvg-name="Sky Bundesliga 3 (1080p) (TapTV)" tvg-logo="https://kovi.ml/data/picons/SKY-Bundesliga-3HD.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 3 (1080p) (TapTV)
-plugin://plugin.video.taptv/play/432/play.pvr
-#EXTINF:-1 tvg-id="SkySportBundesliga4.de" tvg-name="Sky Bundesliga 4 (1080p) (TapTV)" tvg-logo="https://kovi.ml/data/picons/SKY-Bundesliga-4HD.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 4 (1080p) (TapTV)
-plugin://plugin.video.taptv/play/433/play.pvr
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 5 (1080p) (TapTV)" tvg-logo="https://kovi.ml/data/picons/Sky-bundesliga-5hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 5 (1080p) (TapTV)
-plugin://plugin.video.taptv/play/444/play.pvr
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 6 (1080p) (TapTV)" tvg-logo="https://kovi.ml/data/picons/Sky-bundesliga-6hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 6 (1080p) (TapTV)
-plugin://plugin.video.taptv/play/435/play.pvr
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 7 (1080p) (TapTV)" tvg-logo="https://kovi.ml/data/picons/Sky-bundesliga-7hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 7 (1080p) (TapTV)
-plugin://plugin.video.taptv/play/436/play.pvr
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Bundesliga 8 (1080p) (TapTV)" tvg-logo="https://kovi.ml/data/picons/Sky-bundesliga-8hd.png" group-title="Sport" tvg-shift="-1",Sky Bundesliga 8 (1080p) (TapTV)
-plugin://plugin.video.taptv/play/437/play.pvr
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport 1 (TapTV)" tvg-logo="https://kovi.ml/data/picons/sky-sport-1HD.png" group-title="Sport" tvg-shift="-1",Sky Sport 1 (TapTV)
-plugin://plugin.video.taptv/play/403/play.pvr
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport 2 (TapTV)" tvg-logo="https://kovi.ml/data/picons/sky-sport-2HD.png" group-title="Sport" tvg-shift="-1",Sky Sport 2 (TapTV)
-plugin://plugin.video.taptv/play/404/play.pvr
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sport1 (TapTV)" tvg-logo="http://logo.watchhd.cc/logo/RTL+DAZN/Logo_DE_DAZN_EVENT_08.png" group-title="Sport" tvg-shift="-1",Sport1 (TapTV)
-plugin://plugin.video.taptv/play/405/play.pvr
-#EXTINF:-1 tvg-id="Sport001.de" tvg-name="Sport1 (1080p)" tvg-logo="https://kovi.ml/data/picons/sport1.png" group-title="Sport" tvg-shift="-1",Sport1 (1080p)
+#EXTINF:-1 tvg-id="Sport1" tvg-name="Sport1 (1080p)" tvg-logo="https://kovi.ml/data/picons/sport1.png" group-title="Sport" tvg-shift="-1",Sport1 (1080p)
 plugin://plugin.video.vavooto/?name=SPORT+1
-#EXTINF:-1 tvg-id="SPORT1plus.de" tvg-name="Sport1+ (1080p)" tvg-logo="https://kovi.ml/data/picons/sport1+.png" group-title="Sport" tvg-shift="-1",Sport1+ (1080p)
+#EXTINF:-1 tvg-id="SPORT1+" tvg-name="Sport1+ (1080p)" tvg-logo="https://kovi.ml/data/picons/sport1+.png" group-title="Sport" tvg-shift="-1",Sport1+ (1080p)
 plugin://plugin.video.vavooto/?name=SPORT+1+PLUS
-#EXTINF:-1 tvg-id="SPORT1+" tvg-name="Sport1+ (1080p) (Backup)" tvg-logo="https://kovi.ml/data/picons/sport1+hd.png" group-title="Sport" tvg-shift="-1",Sport1+ (1080p) (Backup)
+#EXTINF:-1 tvg-id="SPORT1" tvg-name="Sport1 (1080p) (Backup)" tvg-logo="https://kovi.ml/data/picons/sport1+hd.png" group-title="Sport" tvg-shift="-1",Sport1+ (1080p) (Backup)
 plugin://plugin.video.vavooto/?name=SPORT+1%2B
-#EXTINF:-1 tvg-id="sportdigital(src01).de" tvg-name="Sport Digital (1080p)" tvg-logo="https://kovi.ml/data/picons/sportdigital.png" group-title="Sport" tvg-shift="-1",Sport Digital (1080p)
+#EXTINF:-1 tvg-id="sportdigital Fussball" tvg-name="sportdigital Fussball" tvg-logo="https://kovi.ml/data/picons/sportdigital.png" group-title="Sport" tvg-shift="-1",Sport Digital (1080p)
 plugin://plugin.video.vavooto/?name=SPORT+DIGITAL
 #EXTINF:-1 tvg-id="Das Erste" tvg-name="Das Erste HD" tvg-logo="http://kovi.ml/data/picons/das-erste.png" group-title="Standart" tvg-shift="-1",Das Erste HD
 plugin://plugin.video.vavooto/?name=ARD+DAS+ERSTE
