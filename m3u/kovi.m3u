@@ -582,7 +582,7 @@ plugin://plugin.video.vavooto/?name=E%21+ENTERTAINMENT
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://kovi.ml/data/picons/tlc.png" group-title="Standart" tvg-shift="-1",TLC
 plugin://plugin.video.vavooto/?name=TLC
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://kovi.ml/data/picons/comedy-central.png" group-title="Standart" tvg-shift="-1",Comedy Central
-plugin://plugin.video.vavooto/?name=COMEDY+CENTRAL
+plugin://plugin.video.vavooto/?name=VIVA
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://kovi.ml/data/picons/mtv.png" group-title="Standart" tvg-shift="-1",MTV
 plugin://plugin.video.vavooto/?name=MTV
 #EXTINF:-1 tvg-id="Jukebox" tvg-name="Jukebox" tvg-logo="http://kovi.ml/data/picons/jukebox.png" group-title="Standart" tvg-shift="-1",Jukebox
