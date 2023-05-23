@@ -3,7 +3,7 @@
 plugin://plugin.video.vavooto/?name=13TH+STREET
 #EXTINF:-1 tvg-id="3sat" tvg-name="3sat" tvg-logo="https://kovi.ml/data/picons/3sat.png" group-title="Standard" tvg-shift="-1",3sat
 plugin://plugin.video.vavooto/?name=3+SAT
-#EXTINF:-1 tvg-id="CRIME + INVESTIGATION" tvg-name="A&E" tvg-logo="https://kovi.ml/data/picons/a&ehd.png" group-title="Standard" tvg-shift="-1",A&E
+#EXTINF:-1 tvg-id="CRIME + INVESTIGATION" tvg-name="CRIME + INVESTIGATION" tvg-logo="https://kovi.ml/data/picons/a&ehd.png" group-title="Standard" tvg-shift="-1",CRIME + INVESTIGATION
 plugin://plugin.video.vavooto/?name=A%26E
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://kovi.ml/data/picons/animal-planet-hd.png" group-title="Standard" tvg-shift="-1",Animal Planet
 plugin://plugin.video.vavooto/?name=PLANET
@@ -45,13 +45,13 @@ plugin://plugin.video.vavooto/?name=DISCOVERY
 plugin://plugin.video.vavooto/?name=DISNEY+CHANNEL
 #EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://kovi.ml/data/picons/dmax.png" group-title="Standard" tvg-shift="-1",DMAX
 plugin://plugin.video.vavooto/?name=DMAX
-#EXTINF:-1 tvg-id="E!Entertainment" tvg-name="E! Entertainment" tvg-logo="https://kovi.ml/data/picons/e-entertainment.png" group-title="Standard" tvg-shift="-1",E! Entertainment
+#EXTINF:-1 tvg-id="E! Entertainment" tvg-name="E! Entertainment" tvg-logo="https://kovi.ml/data/picons/e-entertainment.png" group-title="Standard" tvg-shift="-1",E! Entertainment
 plugin://plugin.video.vavooto/?name=E%21+ENTERTAINMENT
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="http://kovi.ml/data/picons/eurosport1-hd.png" group-title="Standard" tvg-shift="-1",Eurosport 1
 plugin://plugin.video.vavooto/?name=EUROSPORT+1
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://kovi.ml/data/picons/eurosport2-hd.png" group-title="Standard" tvg-shift="-1",Eurosport 2
 plugin://plugin.video.vavooto/?name=EUROSPORT+2
-#EXTINF:-1 tvg-id="GEO Television" tvg-name="Geo" tvg-logo="https://kovi.ml/data/picons/geo-hd.png" group-title="Standard" tvg-shift="-1",Geo
+#EXTINF:-1 tvg-id="GEO Television" tvg-name="Geo" tvg-logo="https://kovi.ml/data/picons/geo-hd.png" group-title="Standard" tvg-shift="-1",Geo TV
 plugin://plugin.video.vavooto/?name=GEO+TV
 #EXTINF:-1 tvg-id="Heimatkanal" tvg-name="Heimatkanal" tvg-logo="https://kovi.ml/data/picons/heimat-kanal.png" group-title="Standard" tvg-shift="-1",Heimatkanal
 plugin://plugin.video.vavooto/?name=HEIMATKANAL
@@ -371,7 +371,7 @@ plugin://plugin.video.vavooto/?name=EUROSPORT+XTRA+2%2B
 plugin://plugin.video.vavooto/?name=FC+BAYERN
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 1" tvg-logo="https://logo watchhd.cc/logo/Magenta/magenta-01.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 1
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 2" tvg-logo="https://kovi.ml/data/picons/Magenta/magenta-02.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 2" tvg-logo="s/Magenta/magenta-02.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 2
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+2
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 3" tvg-logo="https://kovi.ml/data/picons/Magenta/magenta-03.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 3
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+3
