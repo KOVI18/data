@@ -11,7 +11,7 @@ plugin://plugin.video.vavooto/?name=PLANET
 plugin://plugin.video.vavooto/?name=ANIXE
 #EXTINF:-1 tvg-id="ANIXE" tvg-name="Anixe Serie" tvg-logo="https://kovi.ml/data/picons/anixe-serie-hd.png" group-title="Standard" tvg-shift="-1",Anixe Serie
 plugin://plugin.video.vavooto/?name=ANIXE+SERIE
-#EXTINF:-1 tvg-id="ARD alpha" tvg-name="ARD Alpha" tvg-logo="https://kovi.ml/data/picons/ard-alpha.png" group-title="Standard" tvg-shift="-1",ARD Alpha
+#EXTINF:-1 tvg-id="ARD alpha" tvg-name="ARD Alpha" tvg-logo="https://kovi.ml/data/picons/alpha-hd.png" group-title="Standard" tvg-shift="-1",ARD Alpha
 plugin://plugin.video.vavooto/?name=ARD+ALPHA
 #EXTINF:-1 tvg-id="ARTE" tvg-name="Arte" tvg-logo="https://kovi.ml/data/picons/arte-hd.png" group-title="Standard" tvg-shift="-1",Arte
 plugin://plugin.video.vavooto/?name=ARTE
