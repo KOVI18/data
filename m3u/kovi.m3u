@@ -474,7 +474,7 @@ plugin://plugin.video.vavooto/?name=ONE
 #EXTINF:-1 tvg-id="tagesschau24" tvg-name="Tagesschau 24" tvg-logo="http://kovi.ml/data/picons/tagesschau24.png" group-title="Standart" tvg-shift="-1",Tagesschau 24
 plugin://plugin.video.vavooto/?name=TAGESSCHAU+24
 #EXTINF:-1 tvg-id="ZDF" tvg-name="ZDF HD " tvg-logo="http://kovi.ml/data/picons/zdf.png" group-title="Standart" tvg-shift="-1",ZDF HD 
-plugin://plugin.video.vavooto/?name=ZDF%2B
+plugin://plugin.video.vavooto/?name=ZDF
 #EXTINF:-1 tvg-id="ZDFinfo" tvg-name="ZDF info" tvg-logo="http://kovi.ml/data/picons/zdf-info.png" group-title="Standart" tvg-shift="-1",ZDF info
 plugin://plugin.video.vavooto/?name=ZDF+INFO
 #EXTINF:-1 tvg-id="ZDFneo" tvg-name="ZDF neo" tvg-logo="http://kovi.ml/data/picons/zdf-neo.png" group-title="Standart" tvg-shift="-1",ZDF neo
