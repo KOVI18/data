@@ -362,85 +362,122 @@ plugin://plugin.video.vavooto/?name=EUROSPORT+XTRA+2%2B
 #EXTINF:-1 tvg-id="FCBayern.de" tvg-name="FC Bayern TV" tvg-logo="https://www.seitwerk.de/media/cache/customer/cms/media/customer/fcbayern-logo.png" group-title="Sport" tvg-shift="-1",FC Bayern TV
 plugin://plugin.video.vavooto/?name=FC+BAYERN
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 1" tvg-logo="https://logo watchhd.cc/logo/Magenta/magenta-01.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 1
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 2" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta-02.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 2
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 3" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta-03.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 3
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 4" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta-04.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 4
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 5" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta-05.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 5
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 6" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta-06.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 6
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+6
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 7" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta-07.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 7
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+7
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 8" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta-08.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 8
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 9" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta-09.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 9
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+9
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 10" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta-10.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 10
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+10
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 11" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta-11.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 11
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+11
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 12" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta-12.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 12
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+12
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 13" tvg-logo="http://logo.watchhd.cc/logo/magenta-13.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 13
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+13
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 14" tvg-logo="http://logo.watchhd.cc/logo/magenta-14.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 14
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+14
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 15" tvg-logo="http://logo.watchhd.cc/logo/magenta-15.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 15
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+15
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 16" tvg-logo="http://logo.watchhd.cc/logo/magenta-16.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 16
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+16
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 17" tvg-logo="http://logo.watchhd.cc/logo/magenta-17.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 17
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+17
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 18" tvg-logo="http://logo.watchhd.cc/logo/magenta-18.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 18
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+18
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 19" tvg-logo="http://logo.watchhd.cc/logo/magenta-19.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 19
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+19
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Fussball 20" tvg-logo="http://logo.watchhd.cc/logo/magenta-20.png" group-title="Sport" tvg-shift="-1",Magenta Fussball 20
-plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+20
-#EXTINF:-1 tvg-id="UHD1(src01).de" tvg-name="Magenta Sport 1 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-1.png" group-title="Sport" tvg-shift="-1",Magenta Sport 1 (1080p)
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+1
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 2 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-2.png" group-title="Sport" tvg-shift="-1",Magenta Sport 2 (1080p)
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 3 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-3.png" group-title="Sport" tvg-shift="-1",Magenta Sport 3 (1080p)
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+3
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 4 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-4.png" group-title="Sport" tvg-shift="-1",Magenta Sport 4 (1080p)
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+4
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 5 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-5.png" group-title="Sport" tvg-shift="-1",Magenta Sport 5 (1080p)
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+5
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 6 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-6.png" group-title="Sport" tvg-shift="-1",Magenta Sport 6 (1080p)
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+6
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 7 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-7.png" group-title="Sport" tvg-shift="-1",Magenta Sport 7 (1080p)
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+7
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 8 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-8.png" group-title="Sport" tvg-shift="-1",Magenta Sport 8 (1080p)
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 9 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-9.png" group-title="Sport" tvg-shift="-1",Magenta Sport 9 (1080p)
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+9
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 10 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-10.png" group-title="Sport" tvg-shift="-1",Magenta Sport 10 (1080p)
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+10
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 11 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-11.png" group-title="Sport" tvg-shift="-1",Magenta Sport 11 (1080p)
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+11
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 12 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-12.png" group-title="Sport" tvg-shift="-1",Magenta Sport 12 (1080p)
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+12
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 13 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-13.png" group-title="Sport" tvg-shift="-1",Magenta Sport 13 (1080p)
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+13
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 14 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-14.png" group-title="Sport" tvg-shift="-1",Magenta Sport 14 (1080p)
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+14
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 15 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-15.png" group-title="Sport" tvg-shift="-1",Magenta Sport 15 (1080p)
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+15
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 16 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-16.png" group-title="Sport" tvg-shift="-1",Magenta Sport 16 (1080p)
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+16
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 17 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-17.png" group-title="Sport" tvg-shift="-1",Magenta Sport 17 (1080p)
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+17
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 18 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-18.png" group-title="Sport" tvg-shift="-1",Magenta Sport 18 (1080p)
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+18
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 19 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-19.png" group-title="Sport" tvg-shift="-1",Magenta Sport 19 (1080p)
-plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+19
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 20 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-Programm.png" group-title="Sport" tvg-shift="-1",Magenta Sport 20 (1080p)
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport 1" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_1HD.png" group-title="Sport",Sky Sport 1
+plugin://plugin.video.taptv/play/403/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport 2" tvg-logo="http://logo.watchhd.cc/logo/sky_sport_2HD.png" group-title="Sport",Sky Sport 2
+plugin://plugin.video.taptv/play/404/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport Bundesliga 1 HD" tvg-logo="http://logo.watchhd.cc/logo/bulihd1v2.png" group-title="Sport",Sky Sport Bundesliga 1 HD
+plugin://plugin.video.taptv/play/401/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport Bundesliga 2 HD " tvg-logo="http://logo.watchhd.cc/logo/bulihd2v2.png" group-title="Sport",Sky Sport Bundesliga 2 HD 
+plugin://plugin.video.taptv/play/431/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport Bundesliga 3 HD " tvg-logo="http://logo.watchhd.cc/logo/bulihd3v2.png" group-title="Sport",Sky Sport Bundesliga 3 HD 
+plugin://plugin.video.taptv/play/432/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport Bundesliga 4 HD " tvg-logo="http://logo.watchhd.cc/logo/bulihd4v2.png" group-title="Sport",Sky Sport Bundesliga 4 HD 
+plugin://plugin.video.taptv/play/433/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport Bundesliga 6 HD " tvg-logo="http://logo.watchhd.cc/logo/bulihd66.png" group-title="Sport",Sky Sport Bundesliga 6 HD 
+plugin://plugin.video.taptv/play/435/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport Bundesliga 7 HD " tvg-logo="http://logo.watchhd.cc/logo/bulihd77.png" group-title="Sport",Sky Sport Bundesliga 7 HD 
+plugin://plugin.video.taptv/play/436/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport Bundesliga 8 HD " tvg-logo="http://logo.watchhd.cc/logo/bulihd88v2.png" group-title="Sport",Sky Sport Bundesliga 8 HD 
+plugin://plugin.video.taptv/play/437/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport 1" tvg-logo="" group-title="Sky Sport",Sky Sport 1
+plugin://plugin.video.taptv/play/403/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport 2" tvg-logo="" group-title="Sky Sport",Sky Sport 2
+plugin://plugin.video.taptv/play/404/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport Bundesliga 1 HD" tvg-logo="" group-title="Sky Sport",Sky Sport Bundesliga 1 HD
+plugin://plugin.video.taptv/play/401/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport Bundesliga 2 HD " tvg-logo="" group-title="Sky Sport",Sky Sport Bundesliga 2 HD 
+plugin://plugin.video.taptv/play/431/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport Bundesliga 3 HD " tvg-logo="" group-title="Sky Sport",Sky Sport Bundesliga 3 HD 
+plugin://plugin.video.taptv/play/432/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport Bundesliga 4 HD " tvg-logo="" group-title="Sky Sport",Sky Sport Bundesliga 4 HD 
+plugin://plugin.video.taptv/play/433/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport Bundesliga 6 HD " tvg-logo="" group-title="Sky Sport",Sky Sport Bundesliga 6 HD 
+plugin://plugin.video.taptv/play/435/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport Bundesliga 7 HD " tvg-logo="" group-title="Sky Sport",Sky Sport Bundesliga 7 HD 
+plugin://plugin.video.taptv/play/436/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sky Sport Bundesliga 8 HD " tvg-logo="" group-title="Sky Sport",Sky Sport Bundesliga 8 HD 
+plugin://plugin.video.taptv/play/437/play.pvr
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Sport 20" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_Programm.png" group-title="Telekom Magenta Sport ",Telekom Magenta Sport 20
 plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+20
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Sport 19" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_19.png" group-title="Telekom Magenta Sport ",Telekom Magenta Sport 19
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+19
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Sport 18" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_18.png" group-title="Telekom Magenta Sport ",Telekom Magenta Sport 18
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+18
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Sport 17" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_17.png" group-title="Telekom Magenta Sport ",Telekom Magenta Sport 17
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+17
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Sport 16" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_16.png" group-title="Telekom Magenta Sport ",Telekom Magenta Sport 16
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+16
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Sport 15" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_15.png" group-title="Telekom Magenta Sport ",Telekom Magenta Sport 15
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+15
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Sport 14" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_14.png" group-title="Telekom Magenta Sport ",Telekom Magenta Sport 14
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+14
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Sport 13" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_13.png" group-title="Telekom Magenta Sport ",Telekom Magenta Sport 13
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+13
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Sport 12" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_12.png" group-title="Telekom Magenta Sport ",Telekom Magenta Sport 12
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+12
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Sport 11" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_11.png" group-title="Telekom Magenta Sport ",Telekom Magenta Sport 11
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+11
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Sport 10" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_10.png" group-title="Telekom Magenta Sport ",Telekom Magenta Sport 10
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+10
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Sport 9" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_9.png" group-title="Telekom Magenta Sport ",Telekom Magenta Sport 9
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Sport 8" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_8.png" group-title="Telekom Magenta Sport ",Telekom Magenta Sport 8
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Sport 7" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_7.png" group-title="Telekom Magenta Sport ",Telekom Magenta Sport 7
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Sport 6" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_6.png" group-title="Telekom Magenta Sport ",Telekom Magenta Sport 6
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Sport 5" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_5.png" group-title="Telekom Magenta Sport ",Telekom Magenta Sport 5
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Sport 4" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_4.png" group-title="Telekom Magenta Sport ",Telekom Magenta Sport 4
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Sport 3" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_3.png" group-title="Telekom Magenta Sport ",Telekom Magenta Sport 3
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Sport 2" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_2.png" group-title="Telekom Magenta Sport ",Telekom Magenta Sport 2
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+2
+#EXTINF:-1 tvg-id="UHD1(src01).de" tvg-name="Telekom Magenta Sport 1" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo_Magenta_Sport_1.png" group-title="Telekom Magenta Sport ",Telekom Magenta Sport 1
+plugin://plugin.video.vavooto/?name=MAGENTA+SPORT+1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Fussball 20" tvg-logo="http://logo.watchhd.cc/logo/magenta_20.png" group-title="Telekom Magenta Sport ",Telekom Magenta Fussball 20
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+20
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Fussball 19" tvg-logo="http://logo.watchhd.cc/logo/magenta_19.png" group-title="Telekom Magenta Sport ",Telekom Magenta Fussball 19
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+19
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Fussball 18" tvg-logo="http://logo.watchhd.cc/logo/magenta_18.png" group-title="Telekom Magenta Sport ",Telekom Magenta Fussball 18
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+18
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Fussball 17" tvg-logo="http://logo.watchhd.cc/logo/magenta_17.png" group-title="Telekom Magenta Sport ",Telekom Magenta Fussball 17
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+17
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Fussball 16" tvg-logo="http://logo.watchhd.cc/logo/magenta_16.png" group-title="Telekom Magenta Sport ",Telekom Magenta Fussball 16
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+16
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Fussball 15" tvg-logo="http://logo.watchhd.cc/logo/magenta_15.png" group-title="Telekom Magenta Sport ",Telekom Magenta Fussball 15
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+15
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Fussball 14" tvg-logo="http://logo.watchhd.cc/logo/magenta_14.png" group-title="Telekom Magenta Sport ",Telekom Magenta Fussball 14
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+14
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Fussball 13" tvg-logo="http://logo.watchhd.cc/logo/magenta_13.png" group-title="Telekom Magenta Sport ",Telekom Magenta Fussball 13
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+13
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Fussball 12" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_12.png" group-title="Telekom Magenta Sport ",Telekom Magenta Fussball 12
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+12
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Fussball 11" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_11.png" group-title="Telekom Magenta Sport ",Telekom Magenta Fussball 11
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+11
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Fussball 10" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_10.png" group-title="Telekom Magenta Sport ",Telekom Magenta Fussball 10
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+10
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Fussball 9" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_09.png" group-title="Telekom Magenta Sport ",Telekom Magenta Fussball 9
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+9
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Fussball 8" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_08.png" group-title="Telekom Magenta Sport ",Telekom Magenta Fussball 8
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Fussball 7" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_07.png" group-title="Telekom Magenta Sport ",Telekom Magenta Fussball 7
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+7
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Fussball 6" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_06.png" group-title="Telekom Magenta Sport ",Telekom Magenta Fussball 6
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+6
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Fussball 5 " tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_05.png" group-title="Telekom Magenta Sport ",Telekom Magenta Fussball 5 
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+5
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Fussball 4" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_04.png" group-title="Telekom Magenta Sport ",Telekom Magenta Fussball 4
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+4
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Fussball 3" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_03.png" group-title="Telekom Magenta Sport ",Telekom Magenta Fussball 3
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+3
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Fussball 2" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_02.png" group-title="Telekom Magenta Sport ",Telekom Magenta Fussball 2
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Fussball 1" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_01.png" group-title="Telekom Magenta Sport ",Telekom Magenta Fussball 1
+plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+1
 #EXTINF:-1 tvg-id="UHD1(src01).de" tvg-name="Magenta Sport 1 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/Logo-Magenta-Sport-1.png" group-title="Sport" tvg-shift="-1",Telekom Bundesliga 1 (1080p)
 plugin://plugin.video.vavooto/?name=TELEKOM+BUNDESLIGA+1
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Magenta Sport 2 (1080p)" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_02.png" group-title="Sport" tvg-shift="-1",Telekom Bundesliga 2 (1080p)
