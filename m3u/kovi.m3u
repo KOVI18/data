@@ -176,15 +176,15 @@ plugin://plugin.video.vavooto/?name=WELT+DER+Wunder
 #EXTINF:-1 tvg-id="ZDF" tvg-name="ZDF" tvg-logo="https://kovi.ml/data/picons/zdf-hd.png" group-title="Standard" tvg-shift="-1",ZDF
 plugin://plugin.video.vavooto/?name=ZDF
 #EXTINF:-1 tvg-id="ZDFinfo" tvg-name="ZDF Info" tvg-logo="https://kovi.ml/data/picons/zdf-info-hd.png" group-title="Standard" tvg-shift="-1",ZDF Info
-plugin://plugin.video.vavooto/?name=ZDF INFO
+plugin://plugin.video.vavooto/?name=ZDF+INFO
 #EXTINF:-1 tvg-id="ZDFneo" tvg-name="ZDF Neo" tvg-logo="https://kovi.ml/data/picons/zdf-neo.png" group-title="Standard" tvg-shift="-1",ZDF Neo
-plugin://plugin.video.vavooto/?name=ZDF NEO
+plugin://plugin.video.vavooto/?name=ZDF+NEO
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://kovi.ml/data/picons/disney-channel.png" group-title="Film" tvg-shift="-1",Disney Channel
 plugin://plugin.video.vavooto/?name=DISNEY+CHANNEL
 #EXTINF:-1 tvg-id="kabel eins classics" tvg-name="Kabel 1 Classics" tvg-logo="http://kovi.ml/data/picons/kabel1-classics-hd.png" group-title="Film" tvg-shift="-1",Kabel 1 Classics
 plugin://plugin.video.vavooto/?name=KABEL+1+CLASSICS
 #EXTINF:-1 tvg-id="KinoweltTV" tvg-name="KinoweltTV" tvg-logo="http://kovi.ml/data/picons/kinowelt.png" group-title="Film" tvg-shift="-1",Kinowelt
-plugin://plugin.video.vavooto/?name=WELT
+plugin://plugin.video.vavooto/?name=KINOWELT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Kino" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/png/max1.png" group-title="Film" tvg-shift="-1",Max Kino
 plugin://plugin.video.vavooto/?name=MAX+KINO
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Max Kino 2" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/png/max2.png" group-title="Film" tvg-shift="-1",Max Kino 2
