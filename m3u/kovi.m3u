@@ -70,7 +70,7 @@ plugin://plugin.video.vavooto/?name=KABEL+1+DOKU
 #EXTINF:-1 tvg-id="KiKA" tvg-name="KiKA" tvg-logo="https://kovi.ml/data/picons/kika-hd.png" group-title="Standard" tvg-shift="-1",KiKA
 plugin://plugin.video.vavooto/?name=KIKA
 #EXTINF:-1 tvg-id="KinoweltTV " tvg-name="KinoweltTV" tvg-logo="https://kovi.ml/data/picons/kinowelt.png" group-title="Standard" tvg-shift="-1",Kinowelt
-plugin://plugin.video.vavooto/?name=WELT
+plugin://plugin.video.vavooto/?name=KINOWELT
 #EXTINF:-1 tvg-id="MDR" tvg-name="MDR" tvg-logo="https://kovi.ml/data/picons/mdr-hd.png" group-title="Standard" tvg-shift="-1",MDR
 plugin://plugin.video.vavooto/?name=MDR
 #EXTINF:-1 tvg-id="Motorvision TV" tvg-name="Motorvision" tvg-logo="https://kovi.ml/data/picons/motorvision.png" group-title="Standard" tvg-shift="-1",Motorvision
