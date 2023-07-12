@@ -16,7 +16,7 @@ plugin://plugin.video.vavooto/?name=ARD+ALPHA
 #EXTINF:-1 tvg-id="ARTE" tvg-name="Arte" tvg-logo="https://kovi.ml/data/picons/arte-hd.png" group-title="Standard" tvg-shift="-1",Arte
 plugin://plugin.video.vavooto/?name=ARTE
 #EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://kovi.ml/data/picons/atv1-hd.png" group-title="Standard" tvg-shift="-1",ATV
-plugin://plugin.video.vavooto/?name=ATV
+plugin://plugin.video.vavooto/?name=ATV+1
 #EXTINF:-1 tvg-id="ATV II" tvg-name="ATV 2" tvg-logo="https://kovi.ml/data/picons/atv-II.png" group-title="Standard" tvg-shift="-1",ATV 2
 plugin://plugin.video.vavooto/?name=ATV+2
 #EXTINF:-1 tvg-id="Auto Motor Sport" tvg-name="Auto Motor Sport" tvg-logo="https://kovi.ml/data/picons/auto-motor-sport.png" group-title="Standard" tvg-shift="-1",Auto Motor Sport
@@ -34,7 +34,7 @@ plugin://plugin.video.vavooto/?name=CARTOON+NETWORK
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://kovi.ml/data/picons/comedy-central.png" group-title="Standard" tvg-shift="-1",Comedy Central
 plugin://plugin.video.vavooto/?name=VIVA
 #EXTINF:-1 tvg-id="Das Erste" tvg-name="Das Erste" tvg-logo="https://kovi.ml/data/picons/das-erste-hd.png" group-title="Standard" tvg-shift="-1",Das Erste HD
-plugin://plugin.video.vavooto/?name=ARD+DAS+ERSTE
+plugin://plugin.video.vavooto/?name=DAS+ERSTE
 #EXTINF:-1 tvg-id="DELUXE MUSIC" tvg-name="Deluxe Music" tvg-logo="https://kovi.ml/data/picons/deluxe-music.png" group-title="Standard" tvg-shift="-1",Deluxe Music
 plugin://plugin.video.vavooto/?name=DELUXE+MUSIC
 #EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery HD" tvg-logo="https://kovi.ml/data/picons/discovery.png" group-title="Standard" tvg-shift="-1",Discovery Channel
