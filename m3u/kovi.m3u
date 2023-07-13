@@ -16,7 +16,7 @@ plugin://plugin.video.vavooto/?name=ARD+ALPHA
 #EXTINF:-1 tvg-id="ARTE" tvg-name="Arte" tvg-logo="https://kovi.ml/data/picons/arte-hd.png" group-title="Standard" tvg-shift="-1",Arte
 plugin://plugin.video.vavooto/?name=ARTE
 #EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://kovi.ml/data/picons/atv1-hd.png" group-title="Standard" tvg-shift="-1",ATV
-plugin://plugin.video.vavooto/?name=ATV+1
+plugin://plugin.video.vavooto/?name=ATV
 #EXTINF:-1 tvg-id="ATV II" tvg-name="ATV 2" tvg-logo="https://kovi.ml/data/picons/atv-II.png" group-title="Standard" tvg-shift="-1",ATV 2
 plugin://plugin.video.vavooto/?name=ATV+2
 #EXTINF:-1 tvg-id="Auto Motor Sport" tvg-name="Auto Motor Sport" tvg-logo="https://kovi.ml/data/picons/auto-motor-sport.png" group-title="Standard" tvg-shift="-1",Auto Motor Sport
@@ -468,7 +468,7 @@ plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+8
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+7
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Fussball 6" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_06.png" group-title="Telekom Magenta Sport ",Telekom Magenta Fussball 6
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+6
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Fussball 5 " tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_05.png" group-title="Telekom Magenta Sport ",Telekom Magenta Fussball 5 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Fussball 5 " tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_05.png" group-title="Telekom Magenta Sport ",Telekom Magenta Fussball 5
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+5
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Telekom Magenta Fussball 4" tvg-logo="http://logo.watchhd.cc/logo/Magenta/magenta_04.png" group-title="Telekom Magenta Sport ",Telekom Magenta Fussball 4
 plugin://plugin.video.vavooto/?name=MAGENTA+FUSSBALL+4
@@ -540,8 +540,8 @@ plugin://plugin.video.vavooto/?name=DMAX
 plugin://plugin.video.vavooto/?name=ORF+1
 #EXTINF:-1 tvg-id="ORF 2" tvg-name="ORF 2" tvg-logo="http://kovi.ml/data/picons/orf2.png" group-title="Standart" tvg-shift="-1",ORF 2
 plugin://plugin.video.vavooto/?name=ORF+2
-#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="http://kovi.ml/data/picons/atv.png" group-title="Standart" tvg-shift="-1",ATV+1
-plugin://plugin.video.vavooto/?name=ATV+1
+#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="http://kovi.ml/data/picons/atv.png" group-title="Standart" tvg-shift="-1",ATV
+plugin://plugin.video.vavooto/?name=ATV
 #EXTINF:-1 tvg-id="ATV II" tvg-name="ATV 2" tvg-logo="http://kovi.ml/data/picons/atv-2.png" group-title="Standart" tvg-shift="-1",ATV 2
 plugin://plugin.video.vavooto/?name=ATV+2
 #EXTINF:-1 tvg-id="N24 Doku" tvg-name="N24 Doku" tvg-logo="http://kovi.ml/data/picons/n24-doku.png" group-title="Standart" tvg-shift="-1",N24 Doku
