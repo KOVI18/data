@@ -140,8 +140,8 @@ plugin://plugin.video.vavooto/?name=SKY+KRIMI
 #EXTINF:-1 tvg-id="Sky One" tvg-name="Sky One" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/sky1.png" group-title="Standard" tvg-shift="-1",Sky One
 plugin://plugin.video.vavooto/?name=SKY+1
 #EXTINF:-1 tvg-id="Sony Channel" tvg-name="Sony Channel" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/sony-channel.png" group-title="Standard" tvg-shift="-1",Sony Channel
-plugin://plugin.video.vavooto/?name=SONY+TV
-#EXTINF:-1 tvg-id="Spiegel Geschichte" tvg-name="Spiegel Geschichte" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/sony-axn.png" group-title="Standard" tvg-shift="-1",Spiegel Geschichte
+plugin://plugin.video.vavooto/?name=SONY+CHANNEL
+#EXTINF:-1 tvg-id="Spiegel Geschichte" tvg-name="Spiegel Geschichte" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/spiegel-geschichte.png" group-title="Standard" tvg-shift="-1",Spiegel Geschichte
 plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
 #EXTINF:-1 tvg-id="Spiegel TV Wissen" tvg-name="Spiegel TV Wissen" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/spiegel-tv-wissen.png" group-title="Standard" tvg-shift="-1",Spiegel TV Wissen
 plugin://plugin.video.vavooto/?name=SPIEGEL+TV+WISSEN
@@ -171,8 +171,8 @@ plugin://plugin.video.vavooto/?name=WARNER TV FILM
 plugin://plugin.video.vavooto/?name=WARNER TV SERIE
 #EXTINF:-1 tvg-id="WDR" tvg-name="WDR" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/wdr-hd.png" group-title="Standard" tvg-shift="-1",WDR
 plugin://plugin.video.vavooto/?name=WDR
-#EXTINF:-1 tvg-id="Welt der Wunder TV" tvg-name="Welt der Wunder" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/welt-der-wunder.png" group-title="Standard" tvg-shift="-1",Welt der Wunder
-plugin://plugin.video.vavooto/?name=WELT+DER+Wunder
+#EXTINF:-1 tvg-id="Welt der  TV" tvg-name="Welt der " tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/welt-der-.png" group-title="Standard" tvg-shift="-1",Welt der 
+plugin://plugin.video.vavooto/?name=WELT+DER+
 #EXTINF:-1 tvg-id="ZDF" tvg-name="ZDF" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/zdf-hd.png" group-title="Standard" tvg-shift="-1",ZDF
 plugin://plugin.video.vavooto/?name=ZDF
 #EXTINF:-1 tvg-id="ZDFinfo" tvg-name="ZDF Info" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/zdf-info-hd.png" group-title="Standard" tvg-shift="-1",ZDF Info
@@ -610,8 +610,8 @@ plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
 plugin://plugin.video.vavooto/?name=NAT+GEO+WILD
 #EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="Universal Channel" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/universal-channel.png" group-title="Standart" tvg-shift="-1",Universal Channel
 plugin://plugin.video.vavooto/?name=UNIVERSAL
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/axn.png" group-title="Standart" tvg-shift="-1",AXN
-plugin://plugin.video.vavooto/?name=AXN
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/axn.png" group-title="Standart" tvg-shift="-1",SONY AXN
+plugin://plugin.video.vavooto/?name=SONY+AXN
 #EXTINF:-1 tvg-id="AandE.de" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/a+e.png" group-title="Standart" tvg-shift="-1",A&E
 plugin://plugin.video.vavooto/?name=A%26E
 #EXTINF:-1 tvg-id="E! Entertainment" tvg-name="E! Entertainment" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/e-entertainment.png" group-title="Standart" tvg-shift="-1",E! Entertainment
@@ -640,8 +640,8 @@ plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
 plugin://plugin.video.vavooto/?name=SPIEGEL+WISSEN
 #EXTINF:-1 tvg-id="Waidwerk" tvg-name="Waidwerk" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/waidwerk.png" group-title="Standart" tvg-shift="-1",Waidwerk
 plugin://plugin.video.vavooto/?name=WAIDWERK
-#EXTINF:-1 tvg-id="Welt der Wunder TV" tvg-name="Welt der Wunder TV" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/welt-der-wunder.png" group-title="Standart" tvg-shift="-1",Welt der Wunder
-plugin://plugin.video.vavooto/?name=WELT+DER+Wunder
+#EXTINF:-1 tvg-id="Welt der  TV" tvg-name="Welt der  TV" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/welt-der-.png" group-title="Standart" tvg-shift="-1",Welt der 
+plugin://plugin.video.vavooto/?name=WELT+DER+
 #EXTINF:-1 tvg-id="TOGGO plus" tvg-name="Toggo Plus " tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/toggo-plus.png" group-title="Standart" tvg-shift="-1",Toggo Plus 
 plugin://plugin.video.vavooto/?name=TOGGO+PLUS
 #EXTINF:-1 tvg-id="Nick Jr." tvg-name="Junior" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/junior.png" group-title="Standart" tvg-shift="-1",Junior
