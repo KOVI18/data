@@ -1,0 +1,173 @@
+#EXTM3U url-tvg="https://github.com/michaz1988/epgguide/raw/master/guide.xml.gz"
+#EXTINF:-1 tvg-id="13th Street Universal" tvg-name="13th Street" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/13thstreethdv2.png" group-title="Standard" tvg-shift="-1",13th Street
+plugin://plugin.video.vavooto/?name=13TH+STREET
+#EXTINF:-1 tvg-id="3sat" tvg-name="3sat" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/3sat.png" group-title="Standard" tvg-shift="-1",3sat
+plugin://plugin.video.vavooto/?name=3+SAT
+#EXTINF:-1 tvg-id="CRIME + INVESTIGATION" tvg-name="CRIME + INVESTIGATION" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/a+e-hd.png" group-title="Standard" tvg-shift="-1",A&E
+plugin://plugin.video.vavooto/?name=A%26E
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/animal-planet-hd.png" group-title="Standard" tvg-shift="-1",Animal Planet
+plugin://plugin.video.vavooto/?name=PLANET
+#EXTINF:-1 tvg-id="ANIXE" tvg-name="Anixe" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/anixe_hd.png" group-title="Standard" tvg-shift="-1",Anixe
+plugin://plugin.video.vavooto/?name=ANIXE
+#EXTINF:-1 tvg-id="ANIXE" tvg-name="Anixe Serie" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/anixe-serie-hd.png" group-title="Standard" tvg-shift="-1",Anixe Serie
+plugin://plugin.video.vavooto/?name=ANIXE+SERIE
+#EXTINF:-1 tvg-id="ARD alpha" tvg-name="ARD Alpha" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/alpha-hd.png" group-title="Standard" tvg-shift="-1",ARD Alpha
+plugin://plugin.video.vavooto/?name=ARD+ALPHA
+#EXTINF:-1 tvg-id="ARTE" tvg-name="Arte" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/arte-hd.png" group-title="Standard" tvg-shift="-1",Arte
+plugin://plugin.video.vavooto/?name=ARTE
+#EXTINF:-1 tvg-id="ATV" tvg-name="ATV" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/atv1-hd.png" group-title="Standard" tvg-shift="-1",ATV
+plugin://plugin.video.vavooto/?name=ATV
+#EXTINF:-1 tvg-id="ATV II" tvg-name="ATV 2" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/atv-II.png" group-title="Standard" tvg-shift="-1",ATV 2
+plugin://plugin.video.vavooto/?name=ATV+2
+#EXTINF:-1 tvg-id="Auto Motor Sport" tvg-name="Auto Motor Sport" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/auto-motor-sport.png" group-title="Standard" tvg-shift="-1",Auto Motor Sport
+plugin://plugin.video.vavooto/?name=AUTO+MOTOR+SPORT
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/axn.png" group-title="Standard" tvg-shift="-1",AXN
+plugin://plugin.video.vavooto/?name=AXN
+#EXTINF:-1 tvg-id="BILD TV" tvg-name="BILD TV" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/bild-hd.png" group-title="Standard" tvg-shift="-1",Bild TV
+plugin://plugin.video.vavooto/?name=BILD+TV
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/boomerang.png" group-title="Standard" tvg-shift="-1",Boomerang
+plugin://plugin.video.vavooto/?name=BOOMERANG
+#EXTINF:-1 tvg-id="BR" tvg-name="BR" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/br.png" group-title="Standard" tvg-shift="-1",BR
+plugin://plugin.video.vavooto/?name=BR
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/cartoon-network.png" group-title="Standard" tvg-shift="-1",Cartoon Network
+plugin://plugin.video.vavooto/?name=CARTOON+NETWORK
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/comedy-central.png" group-title="Standard" tvg-shift="-1",Comedy Central
+plugin://plugin.video.vavooto/?name=VIVA
+#EXTINF:-1 tvg-id="Das Erste" tvg-name="Das Erste" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/das-erste-hd.png" group-title="Standard" tvg-shift="-1",Das Erste HD
+plugin://plugin.video.vavooto/?name=ARD+-+DAS+ERSTE
+#EXTINF:-1 tvg-id="DELUXE MUSIC" tvg-name="Deluxe Music" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/deluxe-music.png" group-title="Standard" tvg-shift="-1",Deluxe Music
+plugin://plugin.video.vavooto/?name=DELUXE+MUSIC
+#EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery HD" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/discovery.png" group-title="Standard" tvg-shift="-1",Discovery Channel
+plugin://plugin.video.vavooto/?name=DISCOVERY
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/disney-channel.png" group-title="Standard" tvg-shift="-1",Disney Channel
+plugin://plugin.video.vavooto/?name=DISNEY+CHANNEL
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/dmax.png" group-title="Standard" tvg-shift="-1",DMAX
+plugin://plugin.video.vavooto/?name=DMAX
+#EXTINF:-1 tvg-id="E! Entertainment" tvg-name="E! Entertainment" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/e-entertainment.png" group-title="Standard" tvg-shift="-1",E! Entertainment
+plugin://plugin.video.vavooto/?name=E%21+ENTERTAINMENT
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/eurosport1-hd.png" group-title="Standard" tvg-shift="-1",Eurosport 1
+plugin://plugin.video.vavooto/?name=EUROSPORT+1
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/eurosport2-hd.png" group-title="Standard" tvg-shift="-1",Eurosport 2
+plugin://plugin.video.vavooto/?name=EUROSPORT+2
+#EXTINF:-1 tvg-id="GEO Television" tvg-name="Geo" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/geo-hd.png" group-title="Standard" tvg-shift="-1",Geo TV
+plugin://plugin.video.vavooto/?name=GEO+TV
+#EXTINF:-1 tvg-id="Heimatkanal" tvg-name="Heimatkanal" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/heimat-kanal.png" group-title="Standard" tvg-shift="-1",Heimatkanal
+plugin://plugin.video.vavooto/?name=HEIMATKANAL
+#EXTINF:-1 tvg-id="History HD" tvg-name="History HD" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/history.png" group-title="Standard" tvg-shift="-1",History
+plugin://plugin.video.vavooto/?name=HISTORY
+#EXTINF:-1 tvg-id="HR" tvg-name="HR" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/hr.png" group-title="Standard" tvg-shift="-1",HR
+plugin://plugin.video.vavooto/?name=HR+FERNSEHEN
+#EXTINF:-1 tvg-id="Jukebox" tvg-name="Jukebox" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/jukebox.png" group-title="Standard" tvg-shift="-1",Jukebox
+plugin://plugin.video.vavooto/?name=JUKEBOX
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Junior" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/nick-jr.png" group-title="Standard" tvg-shift="-1",Nick Junior
+plugin://plugin.video.vavooto/?name=JUNIOR
+#EXTINF:-1 tvg-id="Kabel eins" tvg-name="Kabel 1" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/kabel1.png" group-title="Standard" tvg-shift="-1",Kabel 1
+plugin://plugin.video.vavooto/?name=KABEL+1
+#EXTINF:-1 tvg-id="kabel eins classics" tvg-name="Kabel 1 Classics" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/kabel1-classics.png" group-title="Standard" tvg-shift="-1",Kabel 1 Classics
+plugin://plugin.video.vavooto/?name=KABEL+1+CLASSICS
+#EXTINF:-1 tvg-id="kabel eins Doku" tvg-name="Kabel 1 Doku" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/kabel1-doku.png" group-title="Standard" tvg-shift="-1",Kabel 1 Doku
+plugin://plugin.video.vavooto/?name=KABEL+1+DOKU
+#EXTINF:-1 tvg-id="KiKA" tvg-name="KiKA" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/kika-hd.png" group-title="Standard" tvg-shift="-1",KiKA
+plugin://plugin.video.vavooto/?name=KIKA
+#EXTINF:-1 tvg-id="KinoweltTV " tvg-name="KinoweltTV" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/kinowelt.png" group-title="Standard" tvg-shift="-1",Kinowelt
+plugin://plugin.video.vavooto/?name=KINOWELT
+#EXTINF:-1 tvg-id="MDR" tvg-name="MDR" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/mdr-hd.png" group-title="Standard" tvg-shift="-1",MDR
+plugin://plugin.video.vavooto/?name=MDR
+#EXTINF:-1 tvg-id="Motorvision TV" tvg-name="Motorvision" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/motorvision.png" group-title="Standard" tvg-shift="-1",Motorvision
+plugin://plugin.video.vavooto/?name=MOTORVISION
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/mtv.png" group-title="Standard" tvg-shift="-1",MTV
+plugin://plugin.video.vavooto/?name=MTV
+#EXTINF:-1 tvg-id="n-tv" tvg-name="N-TV" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/ntv-hd.png" group-title="Standard" tvg-shift="-1",N-TV
+plugin://plugin.video.vavooto/?name=NTV
+#EXTINF:-1 tvg-id="N24 Doku" tvg-name="N24 Doku" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/n24-doku.png" group-title="Standard" tvg-shift="-1",N24 Doku
+plugin://plugin.video.vavooto/?name=N24+DOKU
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="National Geographic Wild" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/nat-geo-wild-hd.png" group-title="Standard" tvg-shift="-1",National Geographic Wild
+plugin://plugin.video.vavooto/?name=NAT+GEO+WILD
+#EXTINF:-1 tvg-id="Nat Geo HD" tvg-name="National Geographic" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/national-geographic.png" group-title="Standard" tvg-shift="-1",National Geographic
+plugin://plugin.video.vavooto/?name=NATIONAL+GEOGRAPHIC
+#EXTINF:-1 tvg-id="NDR" tvg-name="NDR" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/ndr-hd.png" group-title="Standard" tvg-shift="-1",NDR
+plugin://plugin.video.vavooto/?name=NDR
+#EXTINF:-1 tvg-id="nick" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/nick.png" group-title="Standard" tvg-shift="-1",Nickelodeon
+plugin://plugin.video.vavooto/?name=NICKELODEON
+#EXTINF:-1 tvg-id="ONE" tvg-name="One" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/one.png" group-title="Standard" tvg-shift="-1",One
+plugin://plugin.video.vavooto/?name=ONE
+#EXTINF:-1 tvg-id="PHOENIX" tvg-name="Phoenix" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/phoenix-hd.png" group-title="Standard" tvg-shift="-1",Phoenix
+plugin://plugin.video.vavooto/?name=PHOENIX
+#EXTINF:-1 tvg-id="ProSieben" tvg-name="ProSieben" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/pro7.png" group-title="Standard" tvg-shift="-1",ProSieben
+plugin://plugin.video.vavooto/?name=PRO+7
+#EXTINF:-1 tvg-id="ProSieben Fun" tvg-name="ProSieben Fun" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/pro7-fun.png" group-title="Standard" tvg-shift="-1",ProSieben Fun
+plugin://plugin.video.vavooto/?name=PRO+7+FUN
+#EXTINF:-1 tvg-id="ProSieben MAXX" tvg-name="ProSieben MAXX" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/pro7-maxx.png" group-title="Standard" tvg-shift="-1",ProSieben MAXX
+plugin://plugin.video.vavooto/?name=PRO+7+MAXX
+#EXTINF:-1 tvg-id="RBB" tvg-name="RBB" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/rbb-hd.png" group-title="Standard" tvg-shift="-1",RBB
+plugin://plugin.video.vavooto/?name=RBB
+#EXTINF:-1 tvg-id="Romance TV" tvg-name="Romance" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/romance-tv.png" group-title="Standard" tvg-shift="-1",Romance
+plugin://plugin.video.vavooto/?name=ROMANCE+TV
+#EXTINF:-1 tvg-id="RTL Up" tvg-name="RTL Up" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/rtl-up.png" group-title="Standard" tvg-shift="-1",RTL Up
+plugin://plugin.video.vavooto/?name=RTL+UP
+#EXTINF:-1 tvg-id="SAT.1" tvg-name="Sat.1" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/sat1-hd.png" group-title="Standard" tvg-shift="-1",Sat.1
+plugin://plugin.video.vavooto/?name=SAT+1
+#EXTINF:-1 tvg-id="Sat.1 Emotions" tvg-name="Sat.1 Emotions" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/sat1-emotions.png" group-title="Standard" tvg-shift="-1",Sat.1 Emotions
+plugin://plugin.video.vavooto/?name=SAT+1+EMOTIONS
+#EXTINF:-1 tvg-id="Sat.1 Gold" tvg-name="Sat.1 Gold" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/sat1-gold.png" group-title="Standard" tvg-shift="-1",Sat.1 Gold
+plugin://plugin.video.vavooto/?name=SAT+1+GOLD
+#EXTINF:-1 tvg-id="Silverline" tvg-name="Silverline" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/silverline1.png" group-title="Standard" tvg-shift="-1",Silverline
+plugin://plugin.video.vavooto/?name=SILVERLINE
+#EXTINF:-1 tvg-id="sixx" tvg-name="Sixx" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/sixx-hd.png" group-title="Standard" tvg-shift="-1",Sixx
+plugin://plugin.video.vavooto/?name=SIXX
+#EXTINF:-1 tvg-id="Sky Action" tvg-name="Sky Action" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/sky-cinema-action.png" group-title="Standard" tvg-shift="-1",Sky Action
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
+#EXTINF:-1 tvg-id="Sky Atlantic HD" tvg-name="Sky Atlantic HD" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/sky-atlantic.png" group-title="Standard" tvg-shift="-1",Sky Atlantic
+plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
+#EXTINF:-1 tvg-id="Sky Cinema Best of" tvg-name="Sky Cinema Best of" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/sky-cinema-bestof.png" group-title="Standard" tvg-shift="-1",Sky Cinema Best of
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+BEST+OF
+#EXTINF:-1 tvg-id="Sky Cinema Classics" tvg-name="Sky Cinema Classics" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/sky-cinema-classics.png" group-title="Standard" tvg-shift="-1",Sky Cinema Classics
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+CLASSICS
+#EXTINF:-1 tvg-id="Sky Family" tvg-name="Sky Family" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/sky-cinema-family.png" group-title="Standard" tvg-shift="-1",Sky Cinema Family
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
+#EXTINF:-1 tvg-id="Sky Cinema Fun" tvg-name="Sky Cinema Fun" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/sky-cinema-fun.png" group-title="Standard" tvg-shift="-1",Sky Cinema Fun
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+FUN
+#EXTINF:-1 tvg-id="Sky Cinema Premieren" tvg-name="Sky Cinema Premieren" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/sky-cinema-premieren.png" group-title="Standard" tvg-shift="-1",Sky Cinema Premieren
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
+#EXTINF:-1 tvg-id="Sky Cinema Thriller" tvg-name="Sky Cinema Thriller" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/sky-cinema-thriller.png" group-title="Standard" tvg-shift="-1",Sky Cinema Thriller
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+THRILLER
+#EXTINF:-1 tvg-id="Sky Comedy" tvg-name="Sky Comedy" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/sky-cinema-comedy.png" group-title="Standard" tvg-shift="-1",Sky Comedy
+plugin://plugin.video.vavooto/?name=SKY+COMEDY
+#EXTINF:-1 tvg-id="Sky Crime" tvg-name="Sky Crime" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/sky-crime.png" group-title="Standard" tvg-shift="-1",Sky Crime
+plugin://plugin.video.vavooto/?name=SKY+CRIME
+#EXTINF:-1 tvg-id="Sky Krimi" tvg-name="Sky Krimi" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/sky-krimi.png" group-title="Standard" tvg-shift="-1",Sky Krimi
+plugin://plugin.video.vavooto/?name=SKY+KRIMI
+#EXTINF:-1 tvg-id="Sky One" tvg-name="Sky One" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/sky1.png" group-title="Standard" tvg-shift="-1",Sky One
+plugin://plugin.video.vavooto/?name=SKY+1
+#EXTINF:-1 tvg-id="Sony Channel" tvg-name="Sony Channel" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/sony-channel.png" group-title="Standard" tvg-shift="-1",Sony Channel
+plugin://plugin.video.vavooto/?name=SONY+CHANNEL
+#EXTINF:-1 tvg-id="Spiegel Geschichte" tvg-name="Spiegel Geschichte" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/sony-axn.png" group-title="Standard" tvg-shift="-1",Spiegel Geschichte
+plugin://plugin.video.vavooto/?name=SPIEGEL+GESCHICHTE
+#EXTINF:-1 tvg-id="Spiegel TV Wissen" tvg-name="Spiegel TV Wissen" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/spiegel-tv-wissen.png" group-title="Standard" tvg-shift="-1",Spiegel TV Wissen
+plugin://plugin.video.vavooto/?name=SPIEGEL+TV+WISSEN
+#EXTINF:-1 tvg-id="SpiegelTV" tvg-name="Spiegel TV Wissen" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/spiegel-tv-wissen.png" group-title="Standard" tvg-shift="-1",Spiegel TV Wissen
+plugin://plugin.video.vavooto/?name=SPIEGEL+WISSEN
+#EXTINF:-1 tvg-id="SWR/SR" tvg-name="SWR" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/swr-hd.png" group-title="Standard" tvg-shift="-1",SWR
+plugin://plugin.video.vavooto/?name=SWR
+#EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/syfy-hd.png" group-title="Standard" tvg-shift="-1",Syfy
+plugin://plugin.video.vavooto/?name=SYFY
+#EXTINF:-1 tvg-id="tagesschau24" tvg-name="Tagesschau 24" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/tagesschau24.png" group-title="Standard" tvg-shift="-1",Tagesschau 24
+plugin://plugin.video.vavooto/?name=TAGESSCHAU+24
+#EXTINF:-1 tvg-id="Tele 5" tvg-name="Tele 5" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/tele5.png" group-title="Standard" tvg-shift="-1",Tele 5
+plugin://plugin.video.vavooto/?name=TELE+5
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/tlc-hd.png" group-title="Standard" tvg-shift="-1",TLC
+plugin://plugin.video.vavooto/?name=TLC
+#EXTINF:-1 tvg-id="Universal Channel HD" tvg-name="Universal Channel" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/universal-channel.png" group-title="Standard" tvg-shift="-1",Universal Channel
+plugin://plugin.video.vavooto/?name=UNIVERSAL
+#EXTINF:-1 tvg-id="VOX" tvg-name="Vox HD" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/vox-hd.png" group-title="Standard" tvg-shift="-1",Vox HD
+plugin://plugin.video.vavooto/?name=VOX
+#EXTINF:-1 tvg-id="VOXup" tvg-name="Vox Up" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/vox-up.png" group-title="Standard" tvg-shift="-1",Vox Up
+plugin://plugin.video.vavooto/?name=VOX+UP
+#EXTINF:-1 tvg-id="TNT Comedy" tvg-name="WarnerTV Comedy" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/warner-tv-comedy.png" group-title="Standard" tvg-shift="-1",WarnerTV Comedy
+plugin://plugin.video.vavooto/?name=WARNER TV COMEDY
+#EXTINF:-1 tvg-id="TNT Film" tvg-name="WarnerTV Film" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/warner-tv-film.png" group-title="Standard" tvg-shift="-1",WarnerTV Film
+plugin://plugin.video.vavooto/?name=WARNER TV FILM
+#EXTINF:-1 tvg-id="TNT Serie" tvg-name="WarnerTV Serie" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/warner-tv-serie.png" group-title="Standard" tvg-shift="-1",WarnerTV Serie
+plugin://plugin.video.vavooto/?name=WARNER TV SERIE
+#EXTINF:-1 tvg-id="WDR" tvg-name="WDR" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/wdr-hd.png" group-title="Standard" tvg-shift="-1",WDR
+plugin://plugin.video.vavooto
