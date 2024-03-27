@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/michaz1988/epgguide/raw/master/guide.xml.gz"
+#EXTM3U url-tvg="https://michaz1988.github.io/guide.xml.gz"
 #EXTINF:-1 tvg-id="13th Street Universal" tvg-name="13th Street" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/13thstreethdv2.png" group-title="Standard" tvg-shift="-1",13th Street
 plugin://plugin.video.vavooto/?name=13TH+STREET
 #EXTINF:-1 tvg-id="3sat" tvg-name="3sat" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/3sat.png" group-title="Standard" tvg-shift="-1",3sat
