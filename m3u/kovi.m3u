@@ -654,25 +654,25 @@ plugin://plugin.video.vavooto/?name=KIKA
 plugin://plugin.video.vavooto/?name=CARTOON+NETWORK
 #EXTINF:-1 tvg-id="Nicktoons" tvg-name="nicktoons" tvg-logo="https://raw.githubusercontent.com/KOVI18/data/main/picons/nickelodeon.png" group-title="Standart" tvg-shift="-1",nicktoons
 plugin://plugin.video.vavooto/?name=NICKTOONS
-#EXTINF:-1 tvg-id="Blue TV 4K ABENTEUER" tvg-name="Blue TV 4K ABENTEUER" tvg-logo="https://cdn.prod.website-files.com/6019a046f8d96509acef9032/602d060c9fc1f42bb0f0dbf0_Artboard%201%20copy%201.svg" group-title="Film" tvg-shift="-1",Blue TV 4K ABENTEUER
+#EXTINF:-1 tvg-id="Blue TV 4K ABENTEUER" tvg-name="Blue TV 4K ABENTEUER" tvg-logo="https://cdn.prod.website-files.com/6019a046f8d96509acef9032/604d00a8370442553859595e_1.bluetvTRANSPERANT.png" group-title="Film" tvg-shift="-1",Blue TV 4K ABENTEUER
 plugin://plugin.video.vavooto/?name=BLUETV+4K+ABENTEUER
-#EXTINF:-1 tvg-id="Blue TV 4K ACTION" tvg-name="Blue TV 4K ACTION" tvg-logo="https://cdn.prod.website-files.com/6019a046f8d96509acef9032/602d060c9fc1f42bb0f0dbf0_Artboard%201%20copy%201.svg" group-title="Film" tvg-shift="-1",Blue TV 4K ACTION
+#EXTINF:-1 tvg-id="Blue TV 4K ACTION" tvg-name="Blue TV 4K ACTION" tvg-logo="https://cdn.prod.website-files.com/6019a046f8d96509acef9032/604d00a8370442553859595e_1.bluetvTRANSPERANT.png" group-title="Film" tvg-shift="-1",Blue TV 4K ACTION
 plugin://plugin.video.vavooto/?name=BLUETV+4K+ACTION
-#EXTINF:-1 tvg-id="Blue TV 4K BOLLYWOOD" tvg-name="Blue TV 4K BOLLYWOOD" tvg-logo="https://cdn.prod.website-files.com/6019a046f8d96509acef9032/602d060c9fc1f42bb0f0dbf0_Artboard%201%20copy%201.svg" group-title="Film" tvg-shift="-1",Blue TV 4K BOLLYWOOD
+#EXTINF:-1 tvg-id="Blue TV 4K BOLLYWOOD" tvg-name="Blue TV 4K BOLLYWOOD" tvg-logo="https://cdn.prod.website-files.com/6019a046f8d96509acef9032/604d00a8370442553859595e_1.bluetvTRANSPERANT.png" group-title="Film" tvg-shift="-1",Blue TV 4K BOLLYWOOD
 plugin://plugin.video.vavooto/?name=BLUETV+4K+BOLLYWOOD
-#EXTINF:-1 tvg-id="Blue TV 4K DRAMA" tvg-name="Blue TV 4K DRAMA" tvg-logo="https://cdn.prod.website-files.com/6019a046f8d96509acef9032/602d060c9fc1f42bb0f0dbf0_Artboard%201%20copy%201.svg" group-title="Film" tvg-shift="-1",Blue TV 4K DRAMA
+#EXTINF:-1 tvg-id="Blue TV 4K DRAMA" tvg-name="Blue TV 4K DRAMA" tvg-logo="https://cdn.prod.website-files.com/6019a046f8d96509acef9032/604d00a8370442553859595e_1.bluetvTRANSPERANT.png" group-title="Film" tvg-shift="-1",Blue TV 4K DRAMA
 plugin://plugin.video.vavooto/?name=BLUETV+4K+DRAMA
-#EXTINF:-1 tvg-id="Blue TV 4K FAMILY" tvg-name="Blue TV 4K FAMILY" tvg-logo="https://cdn.prod.website-files.com/6019a046f8d96509acef9032/602d060c9fc1f42bb0f0dbf0_Artboard%201%20copy%201.svg" group-title="Film" tvg-shift="-1",Blue TV 4K FAMILY
+#EXTINF:-1 tvg-id="Blue TV 4K FAMILY" tvg-name="Blue TV 4K FAMILY" tvg-logo="https://cdn.prod.website-files.com/6019a046f8d96509acef9032/604d00a8370442553859595e_1.bluetvTRANSPERANT.png" group-title="Film" tvg-shift="-1",Blue TV 4K FAMILY
 plugin://plugin.video.vavooto/?name=BLUETV+4K+FAMILY
-#EXTINF:-1 tvg-id="Blue TV 4K FANTASY" tvg-name="Blue TV 4K FANTASY" tvg-logo="https://cdn.prod.website-files.com/6019a046f8d96509acef9032/602d060c9fc1f42bb0f0dbf0_Artboard%201%20copy%201.svg" group-title="Film" tvg-shift="-1",Blue TV 4K FANTASY
+#EXTINF:-1 tvg-id="Blue TV 4K FANTASY" tvg-name="Blue TV 4K FANTASY" tvg-logo="https://cdn.prod.website-files.com/6019a046f8d96509acef9032/604d00a8370442553859595e_1.bluetvTRANSPERANT.png" group-title="Film" tvg-shift="-1",Blue TV 4K FANTASY
 plugin://plugin.video.vavooto/?name=BLUETV+4K+FANTASY
-#EXTINF:-1 tvg-id="Blue TV 4K HORROR" tvg-name="Blue TV 4K HORROR" tvg-logo="https://cdn.prod.website-files.com/6019a046f8d96509acef9032/602d060c9fc1f42bb0f0dbf0_Artboard%201%20copy%201.svg" group-title="Film" tvg-shift="-1",Blue TV 4K HORROR
+#EXTINF:-1 tvg-id="Blue TV 4K HORROR" tvg-name="Blue TV 4K HORROR" tvg-logo="https://cdn.prod.website-files.com/6019a046f8d96509acef9032/604d00a8370442553859595e_1.bluetvTRANSPERANT.png" group-title="Film" tvg-shift="-1",Blue TV 4K HORROR
 plugin://plugin.video.vavooto/?name=BLUETV+4K+HORROR
-#EXTINF:-1 tvg-id="Blue TV 4K KRIMI" tvg-name="Blue TV 4K KRIMI" tvg-logo="https://cdn.prod.website-files.com/6019a046f8d96509acef9032/602d060c9fc1f42bb0f0dbf0_Artboard%201%20copy%201.svg" group-title="Film" tvg-shift="-1",Blue TV 4K KRIMI
+#EXTINF:-1 tvg-id="Blue TV 4K KRIMI" tvg-name="Blue TV 4K KRIMI" tvg-logo="https://cdn.prod.website-files.com/6019a046f8d96509acef9032/604d00a8370442553859595e_1.bluetvTRANSPERANT.png" group-title="Film" tvg-shift="-1",Blue TV 4K KRIMI
 plugin://plugin.video.vavooto/?name=BLUETV+4K+KRIMI
-#EXTINF:-1 tvg-id="Blue TV 4K MYSERY" tvg-name="Blue TV 4K MYSTERY" tvg-logo="https://cdn.prod.website-files.com/6019a046f8d96509acef9032/602d060c9fc1f42bb0f0dbf0_Artboard%201%20copy%201.svg" group-title="Film" tvg-shift="-1",Blue TV 4K MYSTERY
+#EXTINF:-1 tvg-id="Blue TV 4K MYSERY" tvg-name="Blue TV 4K MYSTERY" tvg-logo="https://cdn.prod.website-files.com/6019a046f8d96509acef9032/604d00a8370442553859595e_1.bluetvTRANSPERANT.png" group-title="Film" tvg-shift="-1",Blue TV 4K MYSTERY
 plugin://plugin.video.vavooto/?name=BLUETV+4K+MYSTERY
-#EXTINF:-1 tvg-id="Blue TV 4K KOMÖDIE" tvg-name="Blue TV 4K KOMÖDIE" tvg-logo="https://cdn.prod.website-files.com/6019a046f8d96509acef9032/602d060c9fc1f42bb0f0dbf0_Artboard%201%20copy%201.svg" group-title="Film" tvg-shift="-1",Blue TV 4K KOMÖDIE
+#EXTINF:-1 tvg-id="Blue TV 4K KOMÖDIE" tvg-name="Blue TV 4K KOMÖDIE" tvg-logo="https://cdn.prod.website-files.com/6019a046f8d96509acef9032/604d00a8370442553859595e_1.bluetvTRANSPERANT.png" group-title="Film" tvg-shift="-1",Blue TV 4K KOMÖDIE
 plugin://plugin.video.vavooto/?name=BLUETV+4K+KOM+DIE
 #EXTINF:-1 tvg-name="Radio Westfalica" group-title="Radio-DE" radio="true" tvg-logo="https://assets.radioplayer.org/276/276221/288/162/kyergp78.png",Radio Westfalica
 https://radiowestfalica--di--nacs-ais-lgc--03--cdn.cast.addradio.de/radiowestfalica/live/mp3/high
