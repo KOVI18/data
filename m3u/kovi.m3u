@@ -674,6 +674,8 @@ plugin://plugin.video.vavooto/?name=BLUETV+4K+KRIMI
 plugin://plugin.video.vavooto/?name=BLUETV+4K+MYSTERY
 #EXTINF:-1 tvg-id="Blue TV 4K KOMÖDIE" tvg-name="Blue TV 4K KOMÖDIE" tvg-logo="https://cdn.prod.website-files.com/6019a046f8d96509acef9032/602d060c9fc1f42bb0f0dbf0_Artboard%201%20copy%201.svg" group-title="Film" tvg-shift="-1",Blue TV 4K KOMÖDIE
 plugin://plugin.video.vavooto/?name=BLUETV+4K+KOM+DIE
+#EXTINF:-1 tvg-name="Radio Westfalica" group-title="Radio-DE" radio="true" tvg-logo="https://assets.radioplayer.org/276/276221/288/162/kyergp78.png",Radio Westfalica
+https://radiowestfalica--di--nacs-ais-lgc--03--cdn.cast.addradio.de/radiowestfalica/live/mp3/high
 #EXTINF:-1 tvg-name="Sunshine Live Avicii" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Avicii
 http://stream.sunshine-live.de/avicii/mp3-192
 #EXTINF:-1 tvg-name="Sunshine Live Vocal & Classic House" group-title="Radio-DE" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/sunshinelive.png",Sunshine Live Vocal & Classic House
