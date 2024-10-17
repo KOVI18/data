@@ -1237,7 +1237,6 @@ https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1
 https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="WWTV.de" tvg-name="WWTV" tvg-shift="" radio="" tvg-chno="241" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/westerwald-tv.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",Westerwald TV
 https://live2.telvi.de/hls/wwtv.m3u8
-
 #EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/a1/b6/39399/2/c300.png" group-title="Germany Radio",80ER
 https://tuner.m1.fm/80er.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/01/62/39400/2/c300.png" group-title="Germany Radio",90ER
@@ -1262,7 +1261,6 @@ https://tuner.m1.fm/hits.mp3
 https://tuner.m1.fm/charts.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/ce/4d/39410/2/c300.png" group-title="Germany Radio",URBAN
 https://icepool.silvacast.com/DEFJAY_rde.mp3
-
 #EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/af/e4/1444/4/c300.png" group-title="Germany Radio",bigFM
 https://streams.bigfm.de/bigfm-deutschland-128-mp3
 #EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/30/00/17477/5/c300.png" group-title="Germany Radio",bigFM BALKAN
@@ -1313,7 +1311,6 @@ https://streams.bigfm.de/bigfm-usrap-64-aac
 https://streams.bigfm.de/bigfm-worldbeats-64-aac
 #EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/66/96/17476/5/c300.png" group-title="Germany Radio",bigSES
 https://streams.bigfm.de/bigfm-turkey-64-aac
-
 #EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/83/4a/3876/c300.png" group-title="Germany Radio",I LOVE RADIO
 https://streams.ilovemusic.de/iloveradio1.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/1f/a9/11583/c300.png" group-title="Germany Radio",I LOVE 2 DANCE
@@ -1370,7 +1367,6 @@ https://streams.ilovemusic.de/iloveradio14.mp3
 https://streams.ilovemusic.de/iloveradio13.mp3
 #EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/a8/ea/138177/1/c300.png" group-title="Germany Radio",I LOVE WORKOUT
 https://streams.ilovemusic.de/iloveradio23-aac.mp3
-
 #EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/0f/45/133122/2/c300.png" group-title="Germany Radio" group-title="Germany Radio",80s HITS by rautemusik
 https://rautemusik-de-hz-fal-stream16.radiohost.de/rm-80s_mp3-192
 #EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/28/2a/34581/2/c300.png" group-title="Germany Radio" group-title="Germany Radio",90s HITS by rautemusik
