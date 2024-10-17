@@ -958,3 +958,536 @@ https://rs103-krk.rmfstream.pl/RMFFM48
 https://ssl.servereradio.ro/8044/stream
 #EXTINF:-1 tvg-name="Radio 2000" group-title="Radio-IT" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radio2000it.png",Radio 2000
 http://159.69.217.78:8000/?radio=radio2000.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-chno="001" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/flag.png" group-title="Germany TV;Germany Free TV;Germany Pay TV",[B]Germany TV[/B]
+https://kodi-unlimited-support.de/tv/m3u/kus_promo.mp4
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das_Erste" tvg-shift="" radio="" tvg-chno="002" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/das-erste-hd.png" group-title="Germany TV;Germany Free TV",Das Erste HD
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-id="One.de" tvg-name="ONE" tvg-shift="" radio="" tvg-chno="003" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/one-hd.png" group-title="Germany TV;Germany Free TV",ONE HD
+https://mcdn.one.ard.de/ardone/hls/master.m3u8
+#EXTINF:-1 tvg-id="ARD-alpha.de" tvg-name="ARD-alpha" tvg-shift="" radio="" tvg-chno="004" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/alpha-hd.png" group-title="Germany TV;Germany Free TV",ARD-alpha HD
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-shift="" radio="" tvg-chno="005" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/zdf-hd.png" group-title="Germany TV;Germany Free TV",ZDF HD
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo" tvg-shift="" radio="" tvg-chno="006" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/zdf-info-hd.png" group-title="Germany TV;Germany Free TV",ZDF info HD
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo" tvg-shift="" radio="" tvg-chno="007" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/zdf-neo-hd.png" group-title="Germany TV;Germany Free TV",ZDF neo HD
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1" tvg-shift="" radio="" tvg-chno="009" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/sat1.png" group-title="Germany TV",SAT.1 ([COLORdeepskyblue]JOYN Free Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1" tvg-shift="" radio="" tvg-chno="010" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/sat1-hd.png" group-title="Germany TV;Germany Pay TV",SAT.1 HD ([COLORdeepskyblue]JOYN+ Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="Sat1Comedy.de" tvg-name="SAT.1_emotions" tvg-shift="" radio="" tvg-chno="011" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/sat1-emotions-hd.png" group-title="Germany TV;Germany Pay TV",SAT.1 emotions HD ([COLORdeepskyblue]JOYN+ Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1emotions-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="SAT.1_GOLD" tvg-shift="" radio="" tvg-chno="013" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/sat1-gold.png" group-title="Germany TV",SAT.1 Gold ([COLORdeepskyblue]JOYN Free Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1gold-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="SAT.1_GOLD" tvg-shift="" radio="" tvg-chno="014" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/sat1-gold-hd.png" group-title="Germany TV;Germany Pay TV",SAT.1 Gold HD ([COLORdeepskyblue]JOYN+ Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1gold-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-shift="" radio="" tvg-chno="015" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/rtl-hd.png" group-title="Germany TV",RTL HD ([COLORdeepskyblue]RTL+ Account[/COLOR])
+plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://pnowlive-a.akamaized.net/live/rtl1hd/dash/rtl1hd.mpd&xdrm=True&xfree&xtele=RTL
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTLZWEI" tvg-shift="" radio="" tvg-chno="016" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/rtl-zwei-hd.png" group-title="Germany TV;Germany Pay TV",RTL II HD ([COLORdeepskyblue]RTL+ Account[/COLOR])
+plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://pnowlive-a.akamaized.net/live/rtl21hd/dash/rtl21hd.mpd&xdrm=True&xfree&xtele=RTL2
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super_RTL" tvg-shift="" radio="" tvg-chno="017" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/super-rtl-hd.png" group-title="Germany TV;Germany Pay TV",Super RTL HD ([COLORdeepskyblue]RTL+ Account[/COLOR])
+plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://pnowlive-a.akamaized.net/live/superrtl1hd/dash/superrtl1hd.mpd&xdrm=True&xfree&xtele=SUPERRTL
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="NITRO" tvg-shift="" radio="" tvg-chno="018" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/rtl-nitro-hd.png" group-title="Germany TV;Germany Pay TV",NITRO HD ([COLORdeepskyblue]RTL+ Account[/COLOR])
+plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://pnowlive-a.akamaized.net/live/nitro1hd/dash/nitro1hd.mpd&xdrm=True&xfree&xtele=NITRO
+#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTLup" tvg-shift="" radio="" tvg-chno="019" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/rtl-up-hd.png" group-title="Germany TV;Germany Pay TV",RTL UP HD ([COLORdeepskyblue]RTL+ Account[/COLOR])
+plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://pnowlive-a.akamaized.net/live/rtlup1hd/dash/rtlup1hd.mpd&xdrm=True&xfree&xtele=RTLUP
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="RTL_Crime" tvg-shift="" radio="" tvg-chno="020" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/rtl-crime-hd.png" group-title="Germany TV;Germany Pay TV",RTL Crime HD ([COLORdeepskyblue]RTL+ Account[/COLOR])
+plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://pnowlive-a.akamaized.net/live/rtlcrime1hd/dash/rtlcrime1hd.mpd&xdrm=True&xfree&xtele=RTLCRIME
+#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="RTL_Living" tvg-shift="" radio="" tvg-chno="021" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/rtl-living-hd.png" group-title="Germany TV;Germany Pay TV",RTL Living HD ([COLORdeepskyblue]RTL+ Account[/COLOR])
+plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://pnowlive-a.akamaized.net/live/rtlliving1hd/dash/rtlliving1hd.mpd&xdrm=True&xfree&xtele=RTLLIVING
+#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="RTL_Passion" tvg-shift="" radio="" tvg-chno="022" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/rtl-passion-hd.png" group-title="Germany TV;Germany Pay TV",RTL Passion HD ([COLORdeepskyblue]RTL+ Account[/COLOR])
+plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://pnowlive-a.akamaized.net/live/rtlpassion1hd/dash/rtlpassion1hd.mpd&xdrm=True&xfree&xtele=RTLPASSION
+#EXTINF:-1 tvg-id="Sixx.de" tvg-name="sixx" tvg-shift="" radio="" tvg-chno="025" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/sixx.png" group-title="Germany TV",sixx ([COLORdeepskyblue]JOYN Free Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sixx-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="Sixx.de" tvg-name="sixx" tvg-shift="" radio="" tvg-chno="026" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/sixx-hd.png" group-title="Germany TV;Germany Pay TV",sixx HD ([COLORdeepskyblue]JOYN+ Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sixx-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben" tvg-shift="" radio="" tvg-chno="028" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/pro7.png" group-title="Germany TV",ProSieben ([COLORdeepskyblue]JOYN Free Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=prosieben-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="ProSieben" tvg-shift="" radio="" tvg-chno="029" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/pro7-hd.png" group-title="Germany TV;Germany Pay TV",ProSieben HD ([COLORdeepskyblue]JOYN+ Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=prosieben-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben_MAXX" tvg-shift="" radio="" tvg-chno="031" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/pro7-maxx.png" group-title="Germany TV",ProSieben MAXX ([COLORdeepskyblue]JOYN Free Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=prosiebenmaxx-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben_MAXX" tvg-shift="" radio="" tvg-chno="032" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/pro7-maxx-hd.png" group-title="Germany TV;Germany Pay TV",ProSieben MAXX HD ([COLORdeepskyblue]JOYN+ Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=prosiebenmaxx-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="ProSiebenFun.de" tvg-name="ProSieben_FUN" tvg-shift="" radio="" tvg-chno="033" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/pro7-fun-hd.png" group-title="Germany TV;Germany Pay TV",ProSieben FUN HD ([COLORdeepskyblue]JOYN+ Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=prosiebenfun-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="VOX" tvg-shift="" radio="" tvg-chno="034" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/vox-hd.png" group-title="Germany TV;Germany Pay TV",VOX HD ([COLORdeepskyblue]RTL+ Account[/COLOR])
+plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://pnowlive-a.akamaized.net/live/vox1hd/dash/vox1hd.mpd&xdrm=True&xfree&xtele=VOX
+#EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup" tvg-shift="" radio="" tvg-chno="035" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/vox-up-hd.png" group-title="Germany TV;Germany Pay TV",VOXup HD ([COLORdeepskyblue]RTL+ Account[/COLOR])
+plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://pnowlive-a.akamaized.net/live/voxup1hd/dash/voxup1hd.mpd&xdrm=True&xfree&xtele=VOXUP
+#EXTINF:-1 tvg-id="Kabel.de" tvg-name="Kabel_Eins" tvg-shift="" radio="" tvg-chno="037" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/kabel1.png" group-title="Germany TV",Kabel Eins ([COLORdeepskyblue]JOYN Free Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=kabeleins-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="Kabel.de" tvg-name="Kabel_Eins" tvg-shift="" radio="" tvg-chno="038" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/kabel1-hd.png" group-title="Germany TV;Germany Pay TV",Kabel Eins HD ([COLORdeepskyblue]JOYN+ Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=kabeleins-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="Kabel_Eins_Doku" tvg-shift="" radio="" tvg-chno="040" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/kabel1-doku.png" group-title="Germany TV",Kabel Eins Doku ([COLORdeepskyblue]JOYN Free Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=kabeleinsdoku-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="Kabel_Eins_Doku" tvg-shift="" radio="" tvg-chno="041" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/kabel1-doku-hd.png" group-title="Germany TV;Germany Pay TV",Kabel Eins Doku HD ([COLORdeepskyblue]JOYN+ Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=kabeleinsdoku-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="KabelEinsClassic.de" tvg-name="Kabel_Eins_CLASSICS" tvg-shift="" radio="" tvg-chno="042" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/kabel1-classics-hd.png" group-title="Germany TV;Germany Pay TV",Kabel Eins CLASSICS HD ([COLORdeepskyblue]JOYN+ Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=kabeleinsclassics-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="DMax.de" tvg-name="DMAX" tvg-shift="" radio="" tvg-chno="043" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/dmax.png" group-title="Germany TV;Germany Free TV",DMAX
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=dmax-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV" tvg-shift="" radio="" tvg-chno="045" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/hgtv.png" group-title="Germany TV;Germany Free TV",HGTV
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=hgtv-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC" tvg-shift="" radio="" tvg-chno="047" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/tlc.png" group-title="Germany TV;Germany Free TV",TLC
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=tlc-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="SPORT1" tvg-shift="" radio="" tvg-chno="049" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/sport1.png" group-title="Germany TV;Germany Free TV",Sport1
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sport1-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="SPORT1" tvg-shift="" radio="" tvg-chno="050" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/sport1-hd.png" group-title="Germany TV;Germany Pay TV",Sport1 HD ([COLORdeepskyblue]JOYN+ Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sport1-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="SPORT1Plus.de" tvg-name="SPORT1+" tvg-shift="" radio="" tvg-chno="051" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/sport1%2Bhd.png" group-title="Germany TV;Germany Pay TV",SPORT1+ HD ([COLORdeepskyblue]JOYN+ Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sport1plus-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="Sport1US.de" tvg-name="eSPORTS1" tvg-shift="" radio="" tvg-chno="052" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/esports1-hd.png" group-title="Germany TV;Germany Pay TV",eSPORTS1 HD ([COLORdeepskyblue]JOYN+ Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=esports1-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport_1" tvg-shift="" radio="" tvg-chno="053" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/eurosport1.png" group-title="Germany TV;Germany Free TV",Eurosport 1
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=eurosport1-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red_Bull_TV" tvg-shift="" radio="" tvg-chno="056" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/redbull_tv.png" group-title="Germany TV;Germany Free TV",Red Bull TV HD
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=redbulltv-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="GEO Television" tvg-name="GEO_Television" tvg-shift="" radio="" tvg-chno="059" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/geo-hd.png" group-title="Germany TV;Germany Pay TV",GEO Television HD ([COLORdeepskyblue]RTL+ Account[/COLOR])
+plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://pnowlive-a.akamaized.net/live/geo1hd/dash/geo1hd.mpd&xdrm=True&xfree&xtele=GEO
+#EXTINF:-1 tvg-id="BILD" tvg-name="BILD" tvg-shift="" radio="" tvg-chno="060" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/bild-hd.png" group-title="Germany TV;Germany Free TV",BILD TV HD
+https://bild.personalstream.tv/v1/master.m3u8
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv" tvg-shift="" radio="" tvg-chno="061" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/ntv-hd.png" group-title="Germany TV;Germany Pay TV",NTV HD ([COLORdeepskyblue]RTL+ Account[/COLOR])
+plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://pnowlive-a.akamaized.net/live/ntv1hd/dash/ntv1hd.mpd&xdrm=True&xfree&xtele=NTV
+#EXTINF:-1 tvg-id="WELT.de" tvg-name="WELT" tvg-shift="" radio="" tvg-chno="062" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/welt.png" group-title="Germany TV;Germany Free TV",WELT
+https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
+#EXTINF:-1 tvg-id="WELT.de" tvg-name="WELT" tvg-shift="" radio="" tvg-chno="063" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/welt-hd.png" group-title="Germany TV;Germany Pay TV",WELT HD ([COLORdeepskyblue]JOYN+ Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=welt-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24_Doku" tvg-shift="" radio="" tvg-chno="064" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/n24-doku.png" group-title="Germany TV;Germany Free TV",N24 Doku
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=n24-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24_Doku" tvg-shift="" radio="" tvg-chno="065" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/n24-doku-hd.png" group-title="Germany TV;Germany Pay TV",N24 Doku HD ([COLORdeepskyblue]JOYN+ Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=n24doku-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24" tvg-shift="" radio="" tvg-chno="066" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/tagesschau24-hd.png" group-title="Germany TV;Germany Free TV",Tagesschau 24 HD
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-id="DeutscheWelleDE.de" tvg-name="DW_(Europe)" tvg-shift="" radio="" tvg-chno="066" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/dw-hd.png" group-title="Germany TV;Germany Free TV",Deutsche Welle HD
+https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
+#EXTINF:-1 tvg-id="Wetterfernsehen.de" tvg-name="wetter.com_TV" tvg-shift="" radio="" tvg-chno="067" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/wetter-com.png" group-title="Germany TV;Germany Pay TV",Wetter.com ([COLORdeepskyblue]JOYN+ Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=wettercom-de-sd&stream_type=LIVE
+#EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="TOGGO_plus" tvg-shift="" radio="" tvg-chno="068" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/toggo-plus-hd.png" group-title="Germany TV;Germany Pay TV",Toggo+ HD ([COLORdeepskyblue]RTL+ Account[/COLOR])
+plugin://plugin.video.rtlgroup.de/?mode=playDash&action=IPTV&xcode&xlink=https://pnowlive-a.akamaized.net/live/toggoplus1hd/dash/toggoplus1hd.mpd&xdrm=True&xfree&xtele=TOGGOPLUS
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="nick" tvg-shift="" radio="" tvg-chno="069" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/nick.png" group-title="Germany TV;Germany Free TV",Nick
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="nick" tvg-shift="" radio="" tvg-chno="070" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/nick-hd.png" group-title="Germany TV;Germany Pay TV",Nick HD ([COLORdeepskyblue]JOYN+ Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=nickelodeon-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="ComedyCentral/VIVA.de" tvg-name="Comedy_Central" tvg-shift="" radio="" tvg-chno="071" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/comedy-central.png" group-title="Germany TV;Germany Free TV",Comedy Central
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=comedy-central-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="ComedyCentral/VIVA.de" tvg-name="Comedy_Central" tvg-shift="" radio="" tvg-chno="072" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/comedy-central-hd.png" group-title="Germany TV;Germany Pay TV",Comedy Central HD ([COLORdeepskyblue]JOYN+ Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=comedy-central-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA" tvg-shift="" radio="" tvg-chno="073" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/kika-hd.png" group-title="Germany TV;Germany Free TV",KiKA HD
+https://kikageohls.akamaized.net/hls/live/2022693-b/livetvkika_de/master.m3u8
+#EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC" tvg-shift="" radio="" tvg-chno="074" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/ric.png" group-title="Germany TV;Germany Free TV",RiC
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=ric&stream_type=LIVE
+#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="MTV" tvg-shift="" radio="" tvg-chno="075" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/mtv.png" group-title="Germany TV;Germany Free TV",MTV
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/mtvg18ef.m3u8
+#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="MTV" tvg-shift="" radio="" tvg-chno="076" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/mtv-hd.png" group-title="Germany TV;Germany Pay TV",MTV HD ([COLORdeepskyblue]JOYN+ Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=mtv-de-hd&stream_type=LIVE
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="DELUXE_MUSIC" tvg-shift="" radio="" tvg-chno="077" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/deluxe-music.png" group-title="Germany TV;Germany Free TV",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches_Musik_Fernsehen" tvg-shift="" radio="" tvg-chno="078" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/deutsches-musik-fernsehen-hd.png" group-title="Germany TV;Germany Free TV",Deutsches Musik Fernsehen HD
+https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+#EXTINF:-1 tvg-id="ServusHD.de" tvg-name="Servus_TV_HD" tvg-shift="" radio="" tvg-chno="079" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/servus-tv-hd.png" group-title="Germany TV;Germany Free TV",ServusTV HD
+https://stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master_6692.m3u8
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="phoenix" tvg-shift="" radio="" tvg-chno="080" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/phoenix-hd.png" group-title="Germany TV;Germany Free TV",Phoenix HD
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="ARTE" tvg-shift="" radio="" tvg-chno="081" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/arte-hd.png" group-title="Germany TV;Germany Free TV",Arte HD
+https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-shift="" radio="" tvg-chno="082" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/3sat-hd.png" group-title="Germany TV;Germany Free TV",3sat HD
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="TELE_5" tvg-shift="" radio="" tvg-chno="083" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/tele5.png" group-title="Germany TV;Germany Free TV",Tele 5
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=tele5-de&stream_type=LIVE
+#EXTINF:-1 tvg-id="BRNord.de" tvg-name="BR_Fernsehen_Nord" tvg-shift="" radio="" tvg-chno="086" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/br-nord-hd.png" group-title="Germany TV;Germany Free TV",BR Fernsehen Nord HD
+https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="BR.de" tvg-name="BR_Fernsehen_Süd" tvg-shift="" radio="" tvg-chno="087" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/br-sued-hd.png" group-title="Germany TV;Germany Free TV",BR Fernsehen Süd HD
+https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
+#EXTINF:-1 tvg-id="HR.de" tvg-name="hr-fernsehen" tvg-shift="" radio="" tvg-chno="088" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/hr-hd.png" group-title="Germany TV;Germany Free TV",Hessischer Rundfunk HD
+https://hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master.m3u8
+#EXTINF:-1 tvg-id="MDRSachsen.de" tvg-name="MDR-Fernsehen_Sachsen" tvg-shift="" radio="" tvg-chno="089" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/mdr-sachsen-hd.png" group-title="Germany TV;Germany Free TV",MDR Sachsen HD
+https://mdrtvsnhls.akamaized.net/hls/live/2016928-b/mdrtvsn/master.m3u8
+#EXTINF:-1 tvg-id="MDRS-Anhalt.de" tvg-name="MDR-Fernsehen_Sachsen-Anhalt" tvg-shift="" radio="" tvg-chno="090" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/mdr-s-anhalt-hd.png" group-title="Germany TV;Germany Free TV",MDR Sachsen-Anhalt HD
+https://mdrtvsahls.akamaized.net/hls/live/2016879/mdrtvsa/master.m3u8
+#EXTINF:-1 tvg-id="MDRThuringen.de" tvg-name="MDR-Fernsehen_Thüringen" tvg-shift="" radio="" tvg-chno="091" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/mdr-thueringen-hd.png" group-title="Germany TV;Germany Free TV",MDR Thüringen HD
+https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR_Fernsehen_Hamburg" tvg-shift="" radio="" tvg-chno="092" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/ndr-hh-hd.png" group-title="Germany TV;Germany Free TV",NDR Hamburg HD
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
+#EXTINF:-1 tvg-id="ndrmv.de" tvg-name="NDR_Fernsehen_Mecklenburg-Vorpommern" tvg-shift="" radio="" tvg-chno="093" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/ndr-mv-hd.png" group-title="Germany TV;Germany Free TV",NDR Mecklenburg-Vorpommern HD
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
+#EXTINF:-1 tvg-id="ndrnds.de" tvg-name="NDR_Fernsehen_Niedersachsen" tvg-shift="" radio="" tvg-chno="094" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/ndr-nds-hd.png" group-title="Germany TV;Germany Free TV",NDR Niedersachsen HD
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master.m3u8
+#EXTINF:-1 tvg-id="ndrsh.de" tvg-name="NDR_Fernsehen_Schleswig-Holstein" tvg-shift="" radio="" tvg-chno="095" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/ndr-sh-hd.png" group-title="Germany TV;Germany Free TV",NDR Schleswig-Holstein HD
+https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+#EXTINF:-1 tvg-id="RadioBremen.de" tvg-name="Radio_Bremen_TV" tvg-shift="" radio="" tvg-chno="096" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/radio-bremen-hd.png" group-title="Germany TV;Germany Free TV",Radio Bremen HD
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+#EXTINF:-1 tvg-id="rbbBerlin.de" tvg-name="rbb_fernsehen_Berlin" tvg-shift="" radio="" tvg-chno="097" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/rbb-berlin-hd.png" group-title="Germany TV;Germany Free TV",RBB Berlin HD
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
+#EXTINF:-1 tvg-id="rbbBrandenburg.de" tvg-name="rbb_fernsehen_Brandenburg" tvg-shift="" radio="" tvg-chno="098" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/rbb-brandenburg-hd.png" group-title="Germany TV;Germany Free TV",RBB Brandenburg HD
+https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1" tvg-shift="" radio="" tvg-chno="099" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/sat1-bayern.png" group-title="Germany TV",Sat.1 Bayern ([COLORdeepskyblue]JOYN Free Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1-bayern-de-sd&stream_type=LIVE
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1" tvg-shift="" radio="" tvg-chno="100" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/sat1-hh%2Bsh.png" group-title="Germany TV",Sat.1 Hamburg / Schleswig-Holstein ([COLORdeepskyblue]JOYN Free Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1-hh-sh-de-sd&stream_type=LIVE
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1" tvg-shift="" radio="" tvg-chno="101" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/sat1-nds%2Bhb.png" group-title="Germany TV",Sat.1 Niedersachsen / Bremen ([COLORdeepskyblue]JOYN Free Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1-ns-bremen-de-sd&stream_type=LIVE
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1" tvg-shift="" radio="" tvg-chno="102" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/sat1-nrw.png" group-title="Germany TV",Sat.1 NRW ([COLORdeepskyblue]JOYN Free Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1-nrw-de-sd&stream_type=LIVE
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="SAT.1" tvg-shift="" radio="" tvg-chno="103" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/sat1-rhl-pf%2Bhe.png" group-title="Germany TV",Sat.1 Rheinland-Pfalz / Hessen ([COLORdeepskyblue]JOYN Free Account[/COLOR])
+plugin://plugin.video.joyn/?mode=play_video&parent_block_id=&block_id=&channel_id=&movie_id=&tv_show_id=&season_id=&teaser_id=&video_id=sat1-rlp-hessen-de-sd&stream_type=LIVE
+#EXTINF:-1 tvg-id="SRFernsehen.de" tvg-name="SR_Fernsehen" tvg-shift="" radio="" tvg-chno="104" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/sr-hd.png" group-title="Germany TV;Germany Free TV",SR HD
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/master.m3u8
+#EXTINF:-1 tvg-id="SWR.de" tvg-name="SWR_Fernsehen_BW" tvg-shift="" radio="" tvg-chno="105" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/swr-bw-hd.png" group-title="Germany TV;Germany Free TV",SWR Baden-Württemberg HD
+https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
+#EXTINF:-1 tvg-id="SWR-rp.de" tvg-name="SWR_Fernsehen_RP" tvg-shift="" radio="" tvg-chno="106" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/swr-rp-hd.png" group-title="Germany TV;Germany Free TV",SWR Rheinland-Pfalz HD
+https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
+#EXTINF:-1 tvg-id="WDRAachen.de" tvg-name="WDR_Fernsehen_Aachen" tvg-shift="" radio="" tvg-chno="107" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/wdr-aachen-hd.png" group-title="Germany TV;Germany Free TV",WDR Aachen HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
+#EXTINF:-1 tvg-id="WDRBielefeld.de" tvg-name="WDR_Fernsehen_Bielefeld" tvg-shift="" radio="" tvg-chno="108" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/wdr-bielefeld-hd.png" group-title="Germany TV;Germany Free TV",WDR Bielefeld HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
+#EXTINF:-1 tvg-id="WDRBonn.de" tvg-name="WDR_Fernsehen_Bonn" tvg-shift="" radio="" tvg-chno="109" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/wdr-bonn-hd.png" group-title="Germany TV;Germany Free TV",WDR Bonn HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
+#EXTINF:-1 tvg-id="WDRDortmund.de" tvg-name="WDR_Fernsehen_Dortmund" tvg-shift="" radio="" tvg-chno="110" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/wdr-dortmund-hd.png" group-title="Germany TV;Germany Free TV",WDR Dortmund HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
+#EXTINF:-1 tvg-id="WDRDuisburg.de" tvg-name="WDR_Fernsehen_Duisburg" tvg-shift="" radio="" tvg-chno="111" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/wdr-duisburg-hd.png" group-title="Germany TV;Germany Free TV",WDR Duisburg HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
+#EXTINF:-1 tvg-id="WDRDuesseldorf.de" tvg-name="WDR_Fernsehen_Düsseldorf" tvg-shift="" radio="" tvg-chno="112" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/wdr-duesseldorf-hd.png" group-title="Germany TV;Germany Free TV",WDR Düsseldorf HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
+#EXTINF:-1 tvg-id="WDREssen.de" tvg-name="WDR_Fernsehen_Essen" tvg-shift="" radio="" tvg-chno="113" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/wdr-essen-hd.png" group-title="Germany TV;Germany Free TV",WDR Essen HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="WDR_Fernsehen_Köln" tvg-shift="" radio="" tvg-chno="114" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/wdr-koeln-hd.png" group-title="Germany TV;Germany Free TV",WDR Köln HD
+https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
+#EXTINF:-1 tvg-id="WDRMuenster.de" tvg-name="WDR_Fernsehen_Münster" tvg-shift="" radio="" tvg-chno="115" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/wdr-muenster-hd.png" group-title="Germany TV;Germany Free TV",WDR Münster HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
+#EXTINF:-1 tvg-id="WDRSiegen.de" tvg-name="WDR_Fernsehen_Siegen" tvg-shift="" radio="" tvg-chno="116" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/wdr-siegen-hd.png" group-title="Germany TV;Germany Free TV",WDR Siegen HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
+#EXTINF:-1 tvg-id="WDRWuppertal.de" tvg-name="WDR_Fernsehen_Wuppertal" tvg-shift="" radio="" tvg-chno="117" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/wdr-wuppertal-hd.png" group-title="Germany TV;Germany Free TV",WDR Wuppertal HD
+https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-chno="201" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/flag.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",[B]Germany Tv Regional[/B]
+https://kodi-unlimited-support.de/tv/m3u/kus_promo.mp4
+#EXTINF:-1 tvg-id="Anixe.de" tvg-name="ANIXE_HD_Serie" tvg-shift="" radio="" tvg-chno="202" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/anixe-hd.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",ANIXE
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 tvg-id="ALEXberlin.de" tvg-name="ALEX_Berlin" tvg-shift="" radio="" tvg-chno="203" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/alex-hd.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",Alex Berlin
+https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="a.tv.de" tvg-name="a.tv" tvg-shift="" radio="" tvg-chno="204" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/augsburg-tv-hd.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",Augsburg TV
+https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="allgaeuTV.de" tvg-name="allgäu.tv" tvg-shift="" radio="" tvg-chno="205" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/allg%C3%A4u-tv-hd.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",Allgäu TV
+https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BadenTV.de" tvg-name="Baden_TV" tvg-shift="" radio="" tvg-chno="206" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/baden-tv.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",Baden TV
+http://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BibelTV.de" tvg-name="Bibel_TV" tvg-shift="" radio="" tvg-chno="207" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/bibel-tv-hd.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",Bibel TV
+https://bibeltv01.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ChemnitzTV.de" tvg-name="Chemnitz_Fernsehen" tvg-shift="" radio="" tvg-chno="208" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/sachsen-fernsehen.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",Chemnitz Fernsehen
+https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="DresdenTV.de" tvg-name="Dresden_Fernsehen" tvg-shift="" radio="" tvg-chno="209" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/sachsen-fernsehen.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",Dresden Fernsehen
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="FrankenTV.de" tvg-name="Franken_Fernsehen" tvg-shift="" radio="" tvg-chno="211" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/franken-fernsehen-hd.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",Franken Fernsehen
+https://s3.welocal.world/frankenfernsehen/media/191627/videos/hls.m3u8
+#EXTINF:-1 tvg-id="FOLX MUSIC TELEVISION" tvg-name="FOLX_MUSIC_TELEVISION" tvg-shift="" radio="" tvg-chno="213" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/folx.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",Folx Music
+https://cdne.folxplay.tv/folx-trz/streams/ch-4/1080-V9Z7Y6Z55N.m3u8
+#EXTINF:-1 tvg-id="Hamburg1.de" tvg-name="Hamburg_1" tvg-shift="" radio="" tvg-chno="214" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/hamburg1-hd.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",Hamburg 1
+https://hamburg1-jw.cdn.vustreams.com/live/09120205-afa3-4048-a965-318eb0cacffc/live.isml/.m3u8
+#EXTINF:-1 tvg-id="HauptstadtTV.de" tvg-name="HAUPTSTADT.TV" tvg-shift="" radio="" tvg-chno="215" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/hauptstadt-tv.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",Hauptstadt TV
+https://live2.telvi.de/hls/hauptstadttv_hd720.m3u8
+#EXTINF:-1 tvg-id="KTV.de" tvg-name="K-TV" tvg-shift="" radio="" tvg-chno="216" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/k-tv.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",K-TV
+http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 tvg-id="LeipzigTV.de" tvg-name="LEIPZIG_FERNSEHEN" tvg-shift="" radio="" tvg-chno="217" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/sachsen-fernsehen.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",Leipzig Fernsehen
+https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="L-TV" tvg-name="L-TV" tvg-shift="" radio="" tvg-chno="218" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/ltv-hd.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",L-TV
+https://live2.telvi.de/hls/l-tv_s1.m3u8
+#EXTINF:-1 tvg-id="MDF.1 Fernsehen" tvg-name="MDF.1_Fernsehen" tvg-shift="" radio="" tvg-chno="219" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/mdf1.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",MDF 1
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:mdf1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="MunchenTV.de" tvg-name="münchen.tv" tvg-shift="" radio="" tvg-chno="220" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/m%C3%BCnchen-tv-hd.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",münchen.tv
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="NiederbayernTVPA.de" tvg-name="NIEDERBAYERN_TV_-_PA" tvg-shift="" radio="" tvg-chno="221" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/niederbayern-tv-hd.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",Niederbayern Passau
+https://stream03.stream.welocal.world/stream/npa/ngrp:npa.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="nrwision.de" tvg-name="nrwision" tvg-shift="" radio="" tvg-chno="222" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/nrwision-hd.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",NRWision
+https://fms.nrwision.de/live/livestreamHD.stream_source/chunklist.m3u8
+#EXTINF:-1 tvg-id="OberpfalzTV.de" tvg-name="Oberpfalz_TV" tvg-shift="" radio="" tvg-chno="223" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/oberpfalz-tv-hd.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",Oberpfalz TV
+https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="OK4.de" tvg-name="OK4" tvg-shift="" radio="" tvg-chno="224" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/offener-kanal.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",OK 4
+https://s.ok54.de/abr_ok4/live/playlist.m3u8
+#EXTINF:-1 tvg-id="OK54.de" tvg-name="OK54_Trier" tvg-shift="" radio="" tvg-chno="225" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/offener-kanal.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",OK 54 Trier
+https://s.ok54.de/ott/webstream/tv/webstream_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="OKTV-L.de" tvg-name="OK-TV_Ludwigshafen" tvg-shift="" radio="" tvg-chno="226" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/offener-kanal.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",OK Ludwigshafen
+https://s.ok54.de/oklu/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="OKWeinstraße.de" tvg-name="OK_Weinstraße" tvg-shift="" radio="" tvg-chno="227" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/offener-kanal.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",OK Weinstraße
+https://s.ok54.de/okweinstrasse/okweinstrasse/chunks.m3u8
+#EXTINF:-1 tvg-id="regioTV.de" tvg-name="Regio_TV" tvg-shift="" radio="" tvg-chno="228" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/regio-tv-hd.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",Regio Tv Schwaben
+https://stream05.stream.welocal.world/stream/rsc/ngrp:rsc.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RFH.de" tvg-name="RFH_Regionalfernsehen_Harz" tvg-shift="" radio="" tvg-chno="229" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/rf-harz.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",Reginalfernsehen Harz
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:RFH_high/playlist.m3u8
+#EXTINF:-1 tvg-id="Oberbayern.de" tvg-name="RFO" tvg-shift="" radio="" tvg-chno="230" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/rfo-oberbayern-hd.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",Regionalfernsehen Oberbayern
+https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RennsteigTV.de" tvg-name="Rennsteig.TV" tvg-shift="" radio="" tvg-chno="231" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/rennsteig-tv.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",Rennsteig.tv
+http://wowza.telvi.de/rennsteigtv/stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="rheinmaintv.de" tvg-name="Rhein-Main_TV" tvg-shift="" radio="" tvg-chno="232" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/rheinmain-tv.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",Rheinmain TV
+https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="rheinneckartv.de" tvg-name="Rhein-Neckar_Fernsehen" tvg-shift="" radio="" tvg-chno="233" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/rnf-hd.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",Rhein Neckar Fernsehen
+https://rnf.iptv-playoutcenter.de/rnf/rnf.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBerlin.de" tvg-name="tv.berlin" tvg-shift="" radio="" tvg-chno="234" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/tvb-berlin.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",tv.berlin
+https://58de7a369a9c4.streamlock.net/tvb/7649_7Bpr2XK4zCR6jNV/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIngolstadt.de" tvg-name="tv.ingolstadt" tvg-shift="" radio="" tvg-chno="235" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/tv-ingolstadt-hd.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",tv.ingolstadt
+https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMainfranken.de" tvg-name="TV_Mainfranken" tvg-shift="" radio="" tvg-chno="236" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/tv-mainfranken.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",TV Mainfranken
+https://stream01.stream.welocal.world/stream/tvm/ngrp:tvm.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TVM.de" tvg-name="TV_Mittelrhein" tvg-shift="" radio="" tvg-chno="237" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/tvm.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",TV Mittelrhein
+https://live2.telvi.de/hls/tvm_hd720.m3u8
+#EXTINF:-1 tvg-id="tvo.de" tvg-name="TV_Oberfranken" tvg-shift="" radio="" tvg-chno="238" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/tv-oberfranken-hd.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",TV Oberfranken
+https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="TVA.de" tvg-name="TVA_Ostbayern" tvg-shift="" radio="" tvg-chno="239" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/tva-hd.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",TVA Ostbayern
+https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-id="WWTV.de" tvg-name="WWTV" tvg-shift="" radio="" tvg-chno="241" tvg-logo="https://raw.githubusercontent.com/SGKodi83/tv-logos-white/main/german/westerwald-tv.png" group-title="Germany TV;Germany Regional TV;Germany Free TV",Westerwald TV
+https://live2.telvi.de/hls/wwtv.m3u8
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/a1/b6/39399/2/c300.png" group-title="Germany Radio",80ER
+https://tuner.m1.fm/80er.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/01/62/39400/2/c300.png" group-title="Germany Radio",90ER
+https://tuner.m1.fm/90er.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/c4/36/39402/2/c300.png" group-title="Germany Radio",CHILLOUT
+https://tuner.m1.fm/chillout.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/c8/93/39403/2/c300.png" group-title="Germany Radio",CLUBMIX
+https://tuner.m1.fm/clubmix.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/44/cc/39406/2/c300.png" group-title="Germany Radio",OLDIES
+https://tuner.m1.fm/oldies.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/8b/7c/39408/2/c300.png" group-title="Germany Radio",PARTYSCHLAGER
+https://pool.radiopaloma.de/RP-Partyschlager_rde.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/98/c1/39407/4/c300.png" group-title="Germany Radio",ROCK
+https://tuner.m1.fm/rock.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/a3/ba/39405/2/c300.png" group-title="Germany Radio",SCHLAGER
+https://pool.radiopaloma.de/RADIOPALOMA_rde.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/c4/7b/39409/2/c300.png" group-title="Germany Radio",SOFT POP
+https://tuner.m1.fm/softpop.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/83/22/39404/2/c300.png" group-title="Germany Radio",THE HITS
+https://tuner.m1.fm/hits.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/0d/ee/39401/2/c300.png" group-title="Germany Radio",TOP OF THE CHARTS
+https://tuner.m1.fm/charts.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/ce/4d/39410/2/c300.png" group-title="Germany Radio",URBAN
+https://icepool.silvacast.com/DEFJAY_rde.mp3
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/af/e4/1444/4/c300.png" group-title="Germany Radio",bigFM
+https://streams.bigfm.de/bigfm-deutschland-128-mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/30/00/17477/5/c300.png" group-title="Germany Radio",bigFM BALKAN
+https://streams.bigfm.de/bigfm-balkan-128-mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/22/17/138098/1/c300.png" group-title="Germany Radio",bigFM Berlin
+https://streams.bigfm.de/bigfm-berlin-128-aac
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/b0/85/3913/5/c300.png" group-title="Germany Radio",bigFM CHARTS
+https://streams.bigfm.de/bigfm-charts-64-aac
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/f1/28/38270/5/c300.png" group-title="Germany Radio",bigFM DANCE
+https://streams.bigfm.de/bigfm-dance-64-aac
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/f2/0c/40158/4/c300.png" group-title="Germany Radio",bigFM Dancehall & Reggae Vibez
+https://streams.bigfm.de/bigfm-reggaevibes-64-aac
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/a9/95/42430/4/c300.png" group-title="Germany Radio",bigFM Deep & Tech House
+https://streams.bigfm.de/bigfm-nitroxdeep-64-aac
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/c3/38/110406/2/c300.png" group-title="Germany Radio",bigFM Deutsche Hip-Hop Charts
+https://streams.bigfm.de/bigfm-dhiphopcharts-128-mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/68/fa/42431/4/c300.png" group-title="Germany Radio",bigFM Deutschrap
+https://streams.bigfm.de/bigfm-deutschrap-128-mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/39/53/3915/11/c300.png" group-title="Germany Radio",bigFM EDM & Progressive
+https://streams.bigfm.de/bigfm-nitroxedm-64-aac
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/4d/95/3917/5/c300.png" group-title="Germany Radio",bigFM GROOVENIGHT
+https://streams.bigfm.de/bigfm-groovenight-64-aac
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/b8/5d/3914/5/c300.png" group-title="Germany Radio",bigFM HIP-HOP
+https://streams.bigfm.de/bigfm-hiphop-64-aac
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/17/a6/40157/6/c300.png" group-title="Germany Radio",bigFM Latin Beats
+https://streams.bigfm.de/bigfm-latinbeats-64-aac
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/94/dd/38268/5/c300.png" group-title="Germany Radio",bigFM MASHUP
+https://streams.bigfm.de/bigfm-mashup-64-aac
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/a4/8b/113380/1/c300.png" group-title="Germany Radio",bigFM Oldschool Deutschrap
+https://streams.bigfm.de/bigfm-oldschooldeutsch-128-mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/60/97/121352/1/c300.png" group-title="Germany Radio",bigFM Party
+https://ilr.bigfm.de/bigfm-party-128-mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/ac/66/121353/1/c300.png" group-title="Germany Radio",bigFM Rap Feature
+https://streams.bigfm.de/bigfm-rapfeature-128-aac
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/95/f4/106393/2/c300.png" group-title="Germany Radio",bigFM Oldschool Rap & Hip-Hop
+https://streams.bigfm.de/bigfm-oldschool-128-mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/3a/80/117301/1/c300.png" group-title="Germany Radio",bigFM RNB
+https://streams.bigfm.de/bigfm-rnb-128-mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/b8/74/17475/5/c300.png" group-title="Germany Radio",bigFM RUSSIA
+https://streams.bigfm.de/bigfm-russia-128-mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/4e/00/40159/4/c300.png" group-title="Germany Radio",bigFM Sunset Lounge
+https://streams.bigfm.de/bigfm-sunsetlounge-64-aac
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/0c/e3/38269/5/c300.png" group-title="Germany Radio",bigFM URBAN CLUB BEATS
+https://streams.bigfm.de/bigfm-urbanclubbeats-64-aac
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/5f/57/101154/2/c300.png" group-title="Germany Radio",bigFM US RAP & HIP-HOP
+https://streams.bigfm.de/bigfm-usrap-64-aac
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/0a/f0/17474/5/c300.png" group-title="Germany Radio",bigFM WORLDBEATS
+https://streams.bigfm.de/bigfm-worldbeats-64-aac
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/66/96/17476/5/c300.png" group-title="Germany Radio",bigSES
+https://streams.bigfm.de/bigfm-turkey-64-aac
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/83/4a/3876/c300.png" group-title="Germany Radio",I LOVE RADIO
+https://streams.ilovemusic.de/iloveradio1.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/1f/a9/11583/c300.png" group-title="Germany Radio",I LOVE 2 DANCE
+https://streams.ilovemusic.de/iloveradio2.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/52/08/138171/1/c300.png" group-title="Germany Radio",I LOVE BASS
+https://streams.ilovemusic.de/iloveradio29-aac.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/06/dc/138176/1/c300.png" group-title="Germany Radio",I LOVE CHILLHOP
+https://streams.ilovemusic.de/iloveradio17-aac.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/15/f6/113854/1/c300.png" group-title="Germany Radio",I LOVE DANCE FIRST!
+https://streams.ilovemusic.de/iloveradio103.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/7d/81/138173/1/c300.png" group-title="Germany Radio",I LOVE DANCE HISTORY
+https://streams.ilovemusic.de/iloveradio26-aac.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/70/07/103407/1/c300.png" group-title="Germany Radio",I LOVE DEUTSCHRAP BESTE
+https://streams.ilovemusic.de/iloveradio6.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/ef/ba/113856/1/c300.png" group-title="Germany Radio",I LOVE DEUTSCHRAP FIRST!
+https://streams.ilovemusic.de/iloveradio104.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/58/b2/116098/1/c300.png" group-title="Germany Radio",I LOVE GREATEST HITS
+https://streams.ilovemusic.de/iloveradio16.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/6a/72/122210/1/c300.png" group-title="Germany Radio",I LOVE HARDSTYLE
+https://streams.ilovemusic.de/iloveradio21.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/67/a3/11584/c300.png" group-title="Germany Radio",I LOVE HIP HOP
+https://streams.ilovemusic.de/iloveradio3.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/cd/cf/138172/1/c300.png" group-title="Germany Radio",I LOVE HIP HOP HISTORY
+https://streams.ilovemusic.de/iloveradio27-aac.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/c7/b2/113857/1/c300.png" group-title="Germany Radio",I LOVE HITS 2021
+https://streams.ilovemusic.de/iloveradio109.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/87/95/103406/1/c300.png" group-title="Germany Radio",I LOVE HITS HISTORY
+https://streams.ilovemusic.de/iloveradio12.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/83/fb/122211/1/c300.png" group-title="Germany Radio",I LOVE MAINSTAGE MADNESS
+https://streams.ilovemusic.de/iloveradio22.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/88/1e/16657/c300.png" group-title="Germany Radio",I LOVE MASHUP
+https://streams.ilovemusic.de/iloveradio5.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/2d/71/138174/1/c300.png" group-title="Germany Radio",I LOVE MONSTERCAT
+https://streams.ilovemusic.de/iloveradio24-aac.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/ab/da/103404/1/c300.png" group-title="Germany Radio",I LOVE MUSIC & CHILL
+https://streams.ilovemusic.de/iloveradio10.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/a7/0c/108716/1/c300.png" group-title="Germany Radio",I LOVE NEW POP
+https://streams.ilovemusic.de/iloveradio11.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/0a/ce/32854/c300.png" group-title="Germany Radio",I LOVE THE BEACH
+https://streams.ilovemusic.de/iloveradio7.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/28/5d/122213/1/c300.png" group-title="Germany Radio",I LOVE THE CLUB
+https://streams.ilovemusic.de/iloveradio20.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/05/69/103405/1/c300.png" group-title="Germany Radio",I LOVE THE DJ
+https://streams.ilovemusic.de/iloveradio4.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/70/9e/113852/1/c300.png" group-title="Germany Radio",I LOVE THE SUN
+https://streams.ilovemusic.de/iloveradio15.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/69/83/36982/c300.png" group-title="Germany Radio",I LOVE TOP 100 CHARTS
+https://streams.ilovemusic.de/iloveradio9.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/39/f2/138175/1/c300.png" group-title="Germany Radio",I LOVE TRASHPOP
+https://streams.ilovemusic.de/iloveradio19-aac.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/fd/1f/34487/c300.png" group-title="Germany Radio",I LOVE PARTY HARD
+https://streams.ilovemusic.de/iloveradio14.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/cd/41/108717/1/c300.png" group-title="Germany Radio",I LOVE US ONLY RAP
+https://streams.ilovemusic.de/iloveradio13.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/a8/ea/138177/1/c300.png" group-title="Germany Radio",I LOVE WORKOUT
+https://streams.ilovemusic.de/iloveradio23-aac.mp3
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/0f/45/133122/2/c300.png" group-title="Germany Radio" group-title="Germany Radio",80s HITS by rautemusik
+https://rautemusik-de-hz-fal-stream16.radiohost.de/rm-80s_mp3-192
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/28/2a/34581/2/c300.png" group-title="Germany Radio" group-title="Germany Radio",90s HITS by rautemusik
+https://rautemusik-de-hz-fal-stream13.radiohost.de/90s
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/44/44/133124/3/c300.png" group-title="Germany Radio" group-title="Germany Radio",Best of Schlager by rautemusik
+https://rautemusik-de-hz-fal-stream14.radiohost.de/rm-best-of-schlager_mp3-192
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/07/81/138113/1/c300.png" group-title="Germany Radio" group-title="Germany Radio",Caribbean Wave by rautemusik
+https://rautemusik-de-hz-fal-stream18.radiohost.de/caribbean-wave_mp3-192
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/c2/0a/3180/3/c300.png" group-title="Germany Radio" group-title="Germany Radio",Club by rautemusik
+https://rautemusik-de-hz-fal-stream14.radiohost.de/club
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/22/ed/138112/1/c300.png" group-title="Germany Radio" group-title="Germany Radio",COFFEE-MUSIC by rautemusik
+https://rautemusik-de-hz-fal-stream15.radiohost.de/coffee-music_aac-48
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/50/b7/132482/3/c300.png" group-title="Germany Radio" group-title="Germany Radio",Bass by rautemusik
+https://rautemusik-de-hz-fal-stream12.radiohost.de/breakz
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/32/a3/133123/3/c300.png" group-title="Germany Radio" group-title="Germany Radio",Deutsche Hits by rautemusik
+https://rautemusik-de-hz-fal-stream15.radiohost.de/rm-deutsche-hits_mp3-192
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/7d/46/18930/2/c300.png" group-title="Germany Radio" group-title="Germany Radio",Deutschrap by rautemusik
+https://rautemusik-de-hz-fal-stream13.radiohost.de/deutschrap
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/1c/35/132486/3/c300.png" group-title="Germany Radio" group-title="Germany Radio",Deutschrap Charts by rautemusik
+https://rautemusik-de-hz-fal-stream17.radiohost.de/rm-deutschrap-charts_mp3-192
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/a6/11/132485/3/c300.png" group-title="Germany Radio" group-title="Germany Radio",Deutschrap Classic by rautemusik
+https://rautemusik-de-hz-fal-stream14.radiohost.de/rm-deutschrap-classic_mp3-192
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/39/ae/3185/2/c300.png" group-title="Germany Radio" group-title="Germany Radio",Goldies by rautemusik
+https://rautemusik-de-hz-fal-stream16.radiohost.de/goldies
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/5d/97/100292/3/c300.png" group-title="Germany Radio" group-title="Germany Radio",Happy by rautemusik
+https://rautemusik-de-hz-fal-stream18.radiohost.de/happy
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/60/ba/22150/2/c300.png" group-title="Germany Radio" group-title="Germany Radio",HappyHardcore by rautemusik
+https://rautemusik-de-hz-fal-stream11.radiohost.de/happyhardcore
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/cd/fa/5855/2/c300.png" group-title="Germany Radio" group-title="Germany Radio",HardeR by rautemusik
+https://rautemusik-de-hz-fal-stream11.radiohost.de/harder
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/95/9a/9883/2/c300.png" group-title="Germany Radio" group-title="Germany Radio",House by rautemusik
+https://rautemusik-de-hz-fal-stream17.radiohost.de/house
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/80/51/3182/2/c300.png" group-title="Germany Radio" group-title="Germany Radio",JaM by rautemusik
+https://rautemusik-de-hz-fal-stream15.radiohost.de/jam
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/d3/9a/133126/3/c300.png" group-title="Germany Radio" group-title="Germany Radio",Karneval by rautemusik
+https://rautemusik-de-hz-fal-stream18.radiohost.de/rm-karneval_mp3-192
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/39/26/34119/2/c300.png" group-title="Germany Radio" group-title="Germany Radio",Klassik by rautemusik
+https://rautemusik-de-hz-fal-stream11.radiohost.de/klassik
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/58/1f/138111/1/c300.png" group-title="Germany Radio" group-title="Germany Radio",K-POP by rautemusik
+https://rautemusik-de-hz-fal-stream16.radiohost.de/k-pop_mp3-192
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/3e/b4/3184/1/c300.png" group-title="Germany Radio" group-title="Germany Radio",Lounge by rautemusik
+https://rautemusik-de-hz-fal-stream14.radiohost.de/lounge
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/a6/b2/19278/1/c300.png" group-title="Germany Radio" group-title="Germany Radio",Lovehits by rautemusik
+https://rautemusik-de-hz-fal-stream12.radiohost.de/lovehits
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/20/c8/3167/2/c300.png" group-title="Germany Radio" group-title="Germany Radio",Main by rautemusik
+https://rautemusik-de-hz-fal-stream11.radiohost.de/main
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/e6/4f/10337/1/c300.png" group-title="Germany Radio" group-title="Germany Radio",Metal by rautemusik
+https://rautemusik-de-hz-fal-stream15.radiohost.de/wackenradio
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/2f/01/8304/2/c300.png" group-title="Germany Radio" group-title="Germany Radio",Oriental by rautemusik
+https://rautemusik-de-hz-fal-stream11.radiohost.de/oriental
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/ad/06/25276/2/c300.png" group-title="Germany Radio" group-title="Germany Radio",PartyHits by rautemusik
+https://rautemusik-de-hz-fal-stream13.radiohost.de/partyhits
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/f4/aa/3181/2/c300.png" group-title="Germany Radio" group-title="Germany Radio",Rock by rautemusik
+https://rautemusik-de-hz-fal-stream17.radiohost.de/rock
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/3d/e3/39902/3/c300.png" group-title="Germany Radio" group-title="Germany Radio",Salsa by rautemusik
+https://rautemusik-de-hz-fal-stream16.radiohost.de/salsa
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/c0/a9/133125/3/c300.png" group-title="Germany Radio" group-title="Germany Radio",Schlager Oldies by rautemusik
+https://rautemusik-de-hz-fal-stream13.radiohost.de/rm-schlager-oldies_mp3-192
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/a8/d8/100319/7/c300.png" group-title="Germany Radio" group-title="Germany Radio",Sex by rautemusik
+https://rautemusik-de-hz-fal-stream14.radiohost.de/sex
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/b6/97/34118/2/c300.png" group-title="Germany Radio" group-title="Germany Radio",Solopiano by rautemusik
+https://rautemusik-de-hz-fal-stream14.radiohost.de/solopiano
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/c1/38/106059/4/c300.png" group-title="Germany Radio" group-title="Germany Radio",Study by rautemusik
+https://rautemusik-de-hz-fal-stream18.radiohost.de/study
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/4b/a9/9881/2/c300.png" group-title="Germany Radio" group-title="Germany Radio",Techhouse by rautemusik
+https://rautemusik-de-hz-fal-stream15.radiohost.de/techhouse
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/7e/0a/37977/3/c300.png" group-title="Germany Radio" group-title="Germany Radio",Top40 by rautemusik
+https://rautemusik-de-hz-fal-stream15.radiohost.de/top40
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/e6/eb/11514/2/c300.png" group-title="Germany Radio" group-title="Germany Radio",Trance by rautemusik
+https://rautemusik-de-hz-fal-stream15.radiohost.de/trance
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/94/77/39254/3/c300.png" group-title="Germany Radio" group-title="Germany Radio",Trap by rautemusik
+https://rautemusik-de-hz-fal-stream16.radiohost.de/trap
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/c0/a0/100294/3/c300.png" group-title="Germany Radio" group-title="Germany Radio",Traurig by rautemusik
+https://rautemusik-de-hz-fal-stream12.radiohost.de/traurig
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/65/0d/100293/3/c300.png" group-title="Germany Radio" group-title="Germany Radio",Workout by rautemusik
+https://rautemusik-de-hz-fal-stream12.radiohost.de/workout
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/b6/e3/2241/1/c300.png" group-title="Germany Radio" group-title="Germany Radio",sunshine live
+https://sunshinelive.hoerradar.de/sunshinelive-live-mp3-hq
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/d3/42/37473/1/c300.png" group-title="Germany Radio" group-title="Germany Radio",sunshine live - 90er
+https://sunshinelive.hoerradar.de/sunshinelive-90er-mp3-mq
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/2e/54/21208/1/c300.png" group-title="Germany Radio" group-title="Germany Radio",sunshine live - Classics
+https://sunshinelive.hoerradar.de/sunshinelive-classics-mp3-hq
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/49/9a/39616/1/c300.png" group-title="Germany Radio" group-title="Germany Radio",sunshine live - Drum ’n’ Bass
+https://sunshinelive.hoerradar.de/sunshinelive-dnb-mp3-hq
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/a5/96/21207/1/c300.png" group-title="Germany Radio" group-title="Germany Radio",sunshine live - EDM
+https://sunshinelive.hoerradar.de/sunshinelive-edm-mp3-mq
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/3c/a7/21206/1/c300.png" group-title="Germany Radio" group-title="Germany Radio",sunshine live - Festival
+https://sunshinelive.hoerradar.de/sunshinelive-festival-mp3-hq
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/a2/5a/21211/1/c300.png" group-title="Germany Radio" group-title="Germany Radio",sunshine live - Hard
+https://sunshinelive.hoerradar.de/sunshine-hard-mp3-128
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/28/51/21210/1/c300.png" group-title="Germany Radio" group-title="Germany Radio",sunshine live - House
+https://sunshinelive.hoerradar.de/sunshinelive-house-mp3-hq
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/36/4c/39617/1/c300.png" group-title="Germany Radio" group-title="Germany Radio",sunshine live - Mayday
+https://sunshinelive.hoerradar.de/sunshinelive-mayday-mp3-mq
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/b1/8a/39618/1/c300.png" group-title="Germany Radio" group-title="Germany Radio",sunshine live - Nature One
+https://sunshinelive.hoerradar.de/sunshinelive-natureone-mp3-mq
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/43/99/121371/1/c300.png" group-title="Germany Radio" group-title="Germany Radio",sunshine live - Live & Pride
+https://sunsl.streamabc.net/sunsl-sslpride-mp3-128
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/8c/2f/21205/1/c300.png" group-title="Germany Radio" group-title="Germany Radio",sunshine live - Lounge
+https://sunshinelive.hoerradar.de/sunshinelive-lounge-mp3-mq
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/51/de/121255/1/c300.png" group-title="Germany Radio" group-title="Germany Radio",sunshine live - Party
+https://sunsl.streamabc.net/sunsl-party-mp3-128
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/9e/69/37472/1/c300.png" group-title="Germany Radio" group-title="Germany Radio",sunshine live - Techno
+https://sunshinelive.hoerradar.de/sunshinelive-techno-mp3-mq
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/a6/24/21209/1/c300.png" group-title="Germany Radio" group-title="Germany Radio",sunshine live - Trance
+https://sunshinelive.hoerradar.de/sunshinelive-trance-mp3-hq
+
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/b3/8a/39829/6/c300.png" group-title="Germany Radio" group-title="Germany Radio",CampFM - das Festivalradio
+https://campfm.radionetz.de:8001/campfm.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/90/68/110405/2/c300.png" group-title="Germany Radio" group-title="Germany Radio",Rock am Ring
+https://streams.bigfm.de/bigfm-rockamring-128-mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/09/90/35708/2/c300.png" group-title="Germany Radio" group-title="Germany Radio",Tomorrowland - One World Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/c9/2a/2026/2/c300.png" group-title="Germany Radio" group-title="Germany Radio",Wacken Radio
+https://rautemusik-de-hz-fal-stream17.radiohost.de/wackenradio
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/89/a5/41402/3/c300.png" group-title="Germany Radio" group-title="Germany Radio",RADIO BOB! BOBs Wacken Nonstop
+https://bob.hoerradar.de/radiobob-wacken-mp3-mq
+#EXTINF:-1 radio="true" tvg-logo="https://www.radio.de/images/broadcasts/53/12/123370/1/c300.png" group-title="Germany Radio",Wacken
+https://wacken.stream.laut.fm/wacken
