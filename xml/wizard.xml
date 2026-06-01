@@ -1,19 +1,18 @@
 <builds>  
  <build>
- <name>[COLOR deepskyblue]KOVI [/COLOR] Build - [COLOR white]✅ 05.06.26[/COLOR]</name>
+ <name>[COLOR deepskyblue]KOVI [/COLOR] Build - [COLOR white] Stand: 05.06.26[/COLOR]</name>
  <version>1.2</version>
  <url>https://bab.si/kovibuild</url>
  <icon>https://raw.githubusercontent.com/KOVI18/KOVI18.github.io/refs/heads/master/img/box.png</icon>
  <fanart>https://raw.githubusercontent.com/KOVI18/KOVI18.github.io/refs/heads/master/img/box.png</fanart>
- <description>Ein leichtgewichtige Version mit Live TV, Video on Demand (Filme & Serien), Mediatheken, Radio, Audio und vielem mehr
-  Update: 05/06/26</description>
+ <description>Ein leichtgewichtige Version mit Live TV, Video on Demand (Filme & Serien), Mediatheken, Radio, Audio und vielem mehr...  Stand: 05/06/26</description>
 </build>
  <build>
- <name>[COLOR deepskyblue]Michaz [COLOR] Build- [COLOR white]✅ 01.03.26[COLOR])</name>
+ <name>[COLOR deepskyblue]Michaz [/COLOR] Build - [COLOR white] Stand: 01.03.26[/COLOR]</name>
  <version>1.2</version>
  <url>https://www.dropbox.com/scl/fi/rlq2xm6ef1lp6j933h6s0/build.zip?rlkey=5147hwwxx7w7s6eblk8bggbgx&st=o3g5vkp4&dl=1</url>
  <icon>https://raw.githubusercontent.com/KOVI18/KOVI18.github.io/refs/heads/master/img/box.png</icon>
  <fanart>https://raw.githubusercontent.com/KOVI18/KOVI18.github.io/refs/heads/master/img/box.png</fanart>
- <description>Der Build von Michaz1988. Update: 15/04/26</description>
+ <description>Der Build von Michaz1988. Stand: 01.03.26</description>
  </build>
 </builds>
